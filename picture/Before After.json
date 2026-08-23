@@ -1,0 +1,111 @@
+{
+    "provider": "byteplus",
+    "assetType": "IMAGE",
+    "goal": "HIGH_CONVERTING_ADS",
+    "customGoal": "",
+    "entityObjectId": "6a462e7f856341047b9e6a1f",
+    "creativeDirectionId": "",
+    "creativeDirectionPrompt": "",
+    "attachments": [
+        {
+            "name": "nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV",
+            "type": "IMAGE",
+            "url": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV"
+        }
+    ],
+    "existingAssetObjectId": "6a8ab5919ddbef1520eb03ed",
+    "imageSettings": {
+        "aspectRatio": "1:1",
+        "resolution": "1K",
+        "quality": "NORMAL"
+    },
+    "styleAssetObjectId": "6a0d8ec645d67ea484c4ff13"
+}
+
+-------------------------
+
+{
+    "data": {
+        "asset": {
+            "_id": "6a8ab5919ddbef1520eb03ed",
+            "title": "Relatable juice upgrade ad",
+            "assetType": "IMAGE",
+            "goal": "HIGH_CONVERTING_ADS",
+            "customGoal": "",
+            "entityObjectId": "6a462e7f856341047b9e6a1f",
+            "productType": "PHYSICAL_PRODUCT",
+            "status": "draft",
+            "creativeDirectionOptions": [
+                {
+                    "id": "34a55a84-0150-4460-b0fb-5ec5bf69fc59",
+                    "type": "Before After",
+                    "prompt": "Create a realistic, funny, high-converting before-and-after product advertisement using the provided product reference as the source of truth for the bottle, label, colors, proportions, branding, and packaging. Preserve the exact recognizable product design and show Berrywell Black Raspberry Gold 700ml as a premium black raspberry juice.\n\nCreate a vertical split-screen composition with a clean modern premium social-media campaign look, relatable problem-vs-solution storytelling, and realistic lifestyle photography with integrated typography.\n\nLEFT SIDE = BEFORE\nShow the old way of serving a berry drink: a dull, chaotic, slightly messy everyday moment with a person looking mildly annoyed, tired, or inconvenienced while reaching for a generic drink setup or sad improvised serving situation. Keep the joke instantly understandable and visually simple: bland drinks, lukewarm vibes, uninviting presentation, and a “why is this so disappointing?” feeling. Lighting should be slightly darker, warmer, flatter, and less premium. The environment should feel a bit cluttered and ordinary. Add a red X icon near the headline. Include the headline: BEFORE: BLAND DRINK ENERGY.\n\nRIGHT SIDE = AFTER\nShow the same person or situation transformed into a polished, satisfying premium juice moment. Feature the Berrywell Black Raspberry Gold 700ml bottle prominently and accurately, chilled, elegant, and visually appetizing, with rich dark berry tones, ice, subtle condensation, and a calm premium serving setup. The person should look relieved, pleased, and pleasantly impressed. Lighting should be brighter, cleaner, softer, and more premium. The environment should feel minimal, refined, and refreshing. Add a green checkmark icon near the headline. Include the headline: AFTER: GOLD STANDARD REFRESHMENT.\n\nAt the bottom center, add one large witty punchline: Stop settling for sad juice.\n\nUnder the punchline, add a short CTA line and the product name, with the price treatment based on the provided offer context. Use this exact price line: Starting at SGD 93. Keep the typography bold, modern, premium, highly readable, and seamlessly blended into the image with soft cinematic fade, feathered gradients, and atmospheric lighting. The text should feel embedded naturally into the composition, not pasted on. Avoid hard text boxes, cheap sale banners, excessive meme chaos, cartoon humor, distorted hands, unrealistic expressions, cluttered layouts, or low realism."
+                }
+            ],
+            "selectedCreativeDirectionId": "34a55a84-0150-4460-b0fb-5ec5bf69fc59",
+            "selectedCreativeDirectionPrompt": "Create a realistic, funny, high-converting before-and-after product advertisement using the provided product reference as the source of truth for the bottle, label, colors, proportions, branding, and packaging. Preserve the exact recognizable product design and show Berrywell Black Raspberry Gold 700ml as a premium black raspberry juice.\n\nCreate a vertical split-screen composition with a clean modern premium social-media campaign look, relatable problem-vs-solution storytelling, and realistic lifestyle photography with integrated typography.\n\nLEFT SIDE = BEFORE\nShow the old way of serving a berry drink: a dull, chaotic, slightly messy everyday moment with a person looking mildly annoyed, tired, or inconvenienced while reaching for a generic drink setup or sad improvised serving situation. Keep the joke instantly understandable and visually simple: bland drinks, lukewarm vibes, uninviting presentation, and a “why is this so disappointing?” feeling. Lighting should be slightly darker, warmer, flatter, and less premium. The environment should feel a bit cluttered and ordinary. Add a red X icon near the headline. Include the headline: BEFORE: BLAND DRINK ENERGY.\n\nRIGHT SIDE = AFTER\nShow the same person or situation transformed into a polished, satisfying premium juice moment. Feature the Berrywell Black Raspberry Gold 700ml bottle prominently and accurately, chilled, elegant, and visually appetizing, with rich dark berry tones, ice, subtle condensation, and a calm premium serving setup. The person should look relieved, pleased, and pleasantly impressed. Lighting should be brighter, cleaner, softer, and more premium. The environment should feel minimal, refined, and refreshing. Add a green checkmark icon near the headline. Include the headline: AFTER: GOLD STANDARD REFRESHMENT.\n\nAt the bottom center, add one large witty punchline: Stop settling for sad juice.\n\nUnder the punchline, add a short CTA line and the product name, with the price treatment based on the provided offer context. Use this exact price line: Starting at SGD 93. Keep the typography bold, modern, premium, highly readable, and seamlessly blended into the image with soft cinematic fade, feathered gradients, and atmospheric lighting. The text should feel embedded naturally into the composition, not pasted on. Avoid hard text boxes, cheap sale banners, excessive meme chaos, cartoon humor, distorted hands, unrealistic expressions, cluttered layouts, or low realism.",
+            "mainAssetCreativeDirectionPrompt": "Create an ultra-realistic, fast-paced UGC creator POV-style 15-second product video for **BERRYWELL Black raspberry Juice (700ml)**, using the attached reference image as the source of truth for the product’s appearance. Preserve the bottle shape, dark berry liquid, label placement, cap, and any visible packaging details exactly, but do not copy the reference image’s white background, studio composition, or camera angle. Make it feel like a real person filming on their phone at home in Singapore.\n\nGoal: sell the juice as a simple daily wellness drink with a rich berry taste and an easy routine.\n\nStructure the video like real UGC:\n\n1) Hook / Problem\nOpen with the creator looking into the phone in a kitchen or home dining area, slightly tired and relatable: they’re bored of plain drinks and want something that feels refreshing but still part of a daily routine.\n- Camera: arm-length selfie framing, slight hand shake, natural indoor light.\n- Spoken line: **“Okay, I was so over plain drinks every day…”**\n\n2) Product Solution\nQuick punch-in reveal of the BERRYWELL bottle on a counter, then back to the creator holding it casually.\n- Show the label clearly for a second, but keep it natural and handheld.\n- Spoken line: **“Then I tried this black raspberry juice from Berrywell.”**\n\n3) Real Demo\nShow a believable real-life pour: open the bottle, pour a small amount into a glass, then dilute with cold water or serve chilled over ice. Show the deep dark berry color swirling in the glass.\n- Camera: handheld close-up insert, slight reframing, quick cut back to face reaction.\n- Add natural ambient sounds: bottle cap twist, liquid pour, glass clink.\n- Spoken line: **“You only need a little bit, and it tastes so rich.”**\n\n4) Satisfying Result\nShow the finished drink with ice on the table, creator taking a sip, then a relieved smile and small surprised reaction.\n- Emphasize the refreshed mood and easy daily-use vibe, not medical claims.\n- Spoken line: **“It’s actually really nice chilled — like, super easy to keep in my routine.”**\n\n5) Reaction\nCreator gives a quick honest laugh or nod, holding the glass in frame.\n- Spoken line: **“Okay wait… this is kind of my new go-to.”**\n\n6) CTA\nEnd with creator pointing gently toward the bottle on the table, still in casual selfie POV.\n- Spoken line: **“If you want a simple berry drink, go check out Berrywell.”**\n\nVisual direction:\n- self-shot creator POV, casual home environment, phone-shot realism\n- slight shake, imperfect framing, quick punch-ins, fast but clear pacing\n- product shown in hand, on counter, and in poured glass\n- keep product accurate to the reference image across all shots\n- use natural colors: deep berry reds, dark plum tones, soft kitchen neutrals\n- no polished ad look, no cinematic lighting, no tripod feel\n\nEditing and pacing:\n- quick jump cuts every 1–3 seconds\n- one or two punch-in zooms on the bottle and poured drink\n- minimal transitions, creator-style cut rhythm\n- maintain a believable real-life UGC pace\n\nAudio:\n- natural female or male creator voice, casual and unpolished\n- light ambient room tone, soft TikTok-style background music low in the mix\n- bottle cap twist, pour sound, ice clink, light sip sound\n- voice should stay clearly audible and conversational\n- end cleanly without a final sound hit\n\nImportant product details to naturally imply visually, without reading them aloud:\n- 700ml bottle\n- black raspberry / bokbunja juice\n- premium Korean product\n- daily drinking vibe\n- serve chilled or diluted\n- rich berry color and taste\n\nNegative prompt:\nNo subtitles, captions, readable text overlays, end cards, fake social media UI, polished commercial look, cinematic shots, tripod shots, CGI, fake textures, staged acting, overproduced lighting, exaggerated enthusiasm, unsupported health or medical claims, invented certifications, invented awards, distorted bottle shape, wrong label, wrong cap, incorrect packaging, product inconsistency between shots, copied white studio background from the reference image, copied composition from the reference image, additional brand logos, third-party brand marks, warped hands, broken lip-sync, unreadable text, morphing objects, final-second boom or stinger.",
+            "attachments": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV",
+                    "name": "nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV"
+                }
+            ],
+            "version": 1,
+            "createdAt": "2026-08-23T08:55:45.935Z",
+            "updatedAt": "2026-08-23T11:09:30.635Z",
+            "metadata": {
+                "creativeDirectionGeneration": {
+                    "aiResponseId": "resp_08272171eca913db006a8ad4e6dfb887d09164e78ea55e3ef8",
+                    "aiModel": "gpt-5.4-mini",
+                    "metadata": {
+                        "input_tokens": 5393,
+                        "input_tokens_details": {
+                            "cache_write_tokens": 0,
+                            "cached_tokens": 2688
+                        },
+                        "output_tokens": 522,
+                        "output_tokens_details": {
+                            "reasoning_tokens": 0
+                        },
+                        "total_tokens": 5915
+                    }
+                }
+            },
+            "imageSettings": {
+                "aspectRatio": "1:1",
+                "resolution": "1K",
+                "quality": "NORMAL"
+            },
+            "provider": "openai"
+        },
+        "product": {
+            "_id": "6a462e7f856341047b9e6a1f",
+            "title": "Berrywell Black Raspberry Gold 700ml",
+            "slug": "/berrywell-black-raspberry-gold-700ml",
+            "type": "PHYSICAL_PRODUCT",
+            "thumbnail": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV"
+        },
+        "styleAsset": {
+            "_id": "6a0d8ec645d67ea484c4ff13",
+            "title": "Before After",
+            "assetType": "IMAGE",
+            "goal": "For products with a clear transformation from problem to better outcome.",
+            "selectedCreativeDirectionPrompt": "## Before After\n\nCreate a realistic, funny, high-converting before-and-after product advertisement using the provided product.\n\nThe final ad should look like:\n- a modern premium social-media product campaign\n- clean split-screen meme advertising\n- relatable “problem vs solution” storytelling\n- realistic lifestyle photography with integrated typography\n\nThe humor should feel relatable, instantly understandable, visually satisfying, casually funny, and not over-the-top meme humor. The ad should communicate the joke within 1–2 seconds maximum.\n\n⸻\n\n### 🧠 Product Analysis\n\nFirst, deeply analyze the product:\n- what the product is\n- how it works\n- what problem it solves\n- what annoying behavior or frustration people experience without it\n- what emotional relief the product creates\n- what the “before” and “after” experience feels like\n\nThen determine:\n- the funniest relatable struggle\n- the cleanest satisfying solution\n- the strongest emotional contrast\n- the most natural CTA, product name, and price treatment based on provided context\n\nKeep the product exactly accurate:\n- preserve branding\n- preserve packaging\n- preserve logo\n- preserve proportions\n- preserve colors\n- preserve product design\n\nDo not redesign the product. The exact product image/design must remain recognizable and realistic.\n\n⸻\n\n### ⚡ Before & After Structure\n\nCreate a vertical split-screen composition.\n\nLEFT SIDE = BEFORE\n\nShow:\n- frustration\n- struggle\n- awkward workaround\n- inconvenience\n- discomfort\n- messy solution\n- relatable pain\n\nThe person should look annoyed, uncomfortable, stressed, or struggling.\n\nExamples:\n- tangled cables\n- awkward positioning\n- cheap alternatives\n- DIY fixes\n- unnecessary effort\n\nLighting should be slightly darker, warmer or duller, and more chaotic. The environment should be slightly messy, less organized, and realistic.\n\nAdd a red X icon near the headline.\n\nHeadline examples:\n- “BEFORE: THE STRUGGLE”\n- “BEFORE: TRUST ISSUES”\n- “BEFORE: BACK PAIN SPEEDRUN”\n- “BEFORE: TENNIS BALL THERAPY”\n\nThe BEFORE side should feel painfully relatable.\n\nRIGHT SIDE = AFTER\n\nShow:\n- relief\n- satisfaction\n- comfort\n- ease\n- premium solution\n- emotional calmness\n\nThe person should look happy, relieved, relaxed, impressed, or satisfied.\n\nThe product should feel premium, clean, easy to use, and beautifully designed.\n\nLighting should be brighter, cleaner, softer, and more premium. The environment should be cleaner, more minimal, and calming.\n\nAdd a green checkmark icon near the headline.\n\nHeadline examples:\n- “AFTER: INSTANT RELIEF”\n- “AFTER: FIXED.”\n- “AFTER: PEACE RESTORED”\n- “AFTER: SNAP. DONE.”\n\nThe AFTER side should feel emotionally satisfying and visually cleaner.\n\n⸻\n\n### 😂 Humor Style\n\nHumor should come from:\n- relatable pain\n- exaggeration\n- emotional truth\n- simple real-life frustration\n- “why do we all do this?” energy\n\nThe joke should feel naturally funny, not forced.\n\nAvoid internet meme chaos, random humor, cringe jokes, and complicated cleverness.\n\n⸻\n\n### 🧠 Main Punchline\n\nAt the bottom center, add one large witty punchline.\n\nThe punchline should:\n- summarize the transformation\n- feel simple and memorable\n- be emotionally satisfying\n- be easy to read instantly\n\nExamples:\n- “Stop fighting your muscles.”\n- “Modern problems. Solved.”\n- “Your back deserves better.”\n- “Finally. A normal experience.”\n- “Tiny upgrade. Huge relief.”\n\nTypography should be bold, modern sans-serif, large, premium, and highly readable.\n\n⸻\n\n### 💰 CTA + Product Name + Price\n\nUnder the punchline, add:\n- short CTA\n- product name or brand\n- product price only if provided or visible\n\nCTA examples:\n- “Try it today.”\n- “Feel the difference.”\n- “Upgrade your routine.”\n- “Recovery made simple.”\n\nIf the product context or reference image provides a price, use that exact price. If no price is provided or visible, keep the layout with a non-numeric product or CTA line instead of inventing a price.\n\nExamples:\n- “Starting at $29”\n- “Now available for $79”\n- “Only $14.99”\n- “From $120”\n\nCTA, product name, and price or replacement line should fade naturally into the composition, feel embedded into the image, blend with the background, and remain secondary to the main punchline.\n\nAvoid giant discount banners, cheap ecommerce sale graphics, and aggressive pricing layouts.\n\n⸻\n\n### 🌫️ Seamless Fade Integration\n\nThe bottom typography section must blend naturally into the image using:\n- soft cinematic fade\n- feathered gradients\n- atmospheric lighting\n- smooth tonal transitions\n- soft environmental blur\n\nDo not create hard text boxes, obvious footer sections, presentation-slide layouts, or pasted typography. The viewer should not notice where the image ends and the text area begins.\n\n⸻\n\n### 🎨 Realism & Photography Style\n\nThe ad must look like real commercial photography, premium lifestyle advertising, realistic interiors, authentic lighting, and believable human expressions.\n\nUse realistic skin texture, natural body posture, believable hand placement, realistic environments, and subtle cinematic depth of field.\n\nThe final ad should feel like a real campaign from an actual brand.\n\n⸻\n\n### ✨ Lighting\n\nUse realistic commercial lighting, cinematic natural light, soft shadows, premium highlights, believable reflections, and clean depth separation. The AFTER side should feel emotionally brighter and calmer.\n\n⸻\n\n### 🔤 Typography\n\nTypography should feel premium, bold, clean, modern, and highly readable. Use large sans-serif fonts, thick hierarchy, smooth kerning, and minimal layout. The typography should resemble Apple campaigns, premium wellness, modern startup brands, and luxury meme advertising.\n\n⸻\n\n### 🎞️ Final Look\n\nThe final image should feel like a viral premium meme ad, relatable lifestyle advertising, award-winning social campaign, and emotionally satisfying commercial storytelling.\n\nThe BEFORE vs AFTER contrast should feel instantly understandable and funny. Typography should feel seamlessly blended into the image itself.\n\n⸻\n\n🚫 Negative Prompt: hard text boxes, obvious footer sections, fake meme humor, unrealistic reactions, cartoonish acting, over-the-top expressions, cluttered layouts, distorted hands, ugly typography, presentation-slide design, disconnected text, harsh gradients, pasted CTA sections, unrealistic lighting, fake environments, messy composition, unreadable text, low realism, AI-looking faces, cheesy internet memes, forced jokes, overdesigned visuals, giant discount graphics, unrealistic pricing, ecommerce flyer aesthetics.",
+            "imageSettings": {
+                "aspectRatio": "1:1",
+                "resolution": "1K"
+            },
+            "images": [
+                {
+                    "url": "https://d2oi1rqwb0pj00.cloudfront.net/style/2cb3cc10-5148-4798-b71e-75d0e5c9e03a.png"
+                }
+            ]
+        },
+        "externalProduct": null,
+        "balanceInUsd": {
+            "available": 2522
+        }
+    }
+}

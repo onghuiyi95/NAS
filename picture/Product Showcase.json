@@ -1,0 +1,113 @@
+{
+    "provider": "byteplus",
+    "assetType": "IMAGE",
+    "goal": "HIGH_CONVERTING_ADS",
+    "customGoal": "",
+    "entityObjectId": "6a462e7f856341047b9e6a1f",
+    "creativeDirectionId": "",
+    "creativeDirectionPrompt": "",
+    "attachments": [
+        {
+            "name": "nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV",
+            "type": "IMAGE",
+            "url": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV"
+        }
+    ],
+    "existingAssetObjectId": "6a8ab5919ddbef1520eb03ed",
+    "imageSettings": {
+        "aspectRatio": "1:1",
+        "resolution": "1K",
+        "quality": "NORMAL"
+    },
+    "styleAssetObjectId": "6a0d8cad45d67ea484c4f9ab"
+}
+
+-------------------------
+
+{
+    "data": {
+        "asset": {
+            "_id": "6a8ab5919ddbef1520eb03ed",
+            "title": "Elegant black raspberry juice poster",
+            "assetType": "IMAGE",
+            "goal": "HIGH_CONVERTING_ADS",
+            "customGoal": "",
+            "entityObjectId": "6a462e7f856341047b9e6a1f",
+            "productType": "PHYSICAL_PRODUCT",
+            "status": "draft",
+            "creativeDirectionOptions": [
+                {
+                    "id": "563b5739-428c-48b2-bad3-d69ad9777e38",
+                    "type": "Product Showcase",
+                    "prompt": "Create a premium product advertisement poster using the provided product image.\n\nUse the reference image as the source of truth for the product appearance. Keep the bottle shape, packaging, label layout, colors, proportions, branding, and all distinctive details unchanged and clearly recognizable. Showcase a 700ml black raspberry juice bottle with a rich dark berry tone and gift-worthy premium presentation.\n\nThe ad should emphasize a refined, wholesome, fruit-forward feel: bold berry flavor, smooth finish, and everyday premium enjoyment. Make it feel suitable for gifting, family tables, or chilled serving at home.\n\nCreate a clean, cinematic, professional ad poster where the product is the main visual focus.\n\nThe background should be simple, elegant, and premium, using soft desaturated berry-plum, warm beige, or muted burgundy tones with a subtle gradient. Avoid bright, harsh, or childish colors.\n\nLighting should include soft cinematic studio-quality light, subtle shadows, and clean highlights with realistic reflections on the glass bottle.\n\nCreate a short slogan at the top: \"Rich Berry, Refined.\" Keep it short, catchy, easy to read, premium but friendly, and not too salesy.\n\nAdd the product name clearly so viewers immediately know what the product is: \"Berrywell Black Raspberry Gold 700ml\". Place it near the product, below or beside it, or directly under the slogan. Use modern premium sans-serif typography, with the product name slightly larger and more prominent than the slogan.\n\nAdd a clear but premium CTA near the bottom: \"Now available for **SGD 93**\". Keep it calm, confident, and informative, not loud or discount-heavy.\n\nAdd 2–3 small refined promotional stickers around the product, using semi-transparent glass-like bases, rounded corners, subtle gradients, thin elegant borders, soft shadows, and minimal micro-typography. Suggested sticker ideas: \"Bold berry character\", \"700ml sharing size\", \"Great chilled or over ice\". Keep them small, layered, and unobtrusive. Do not repeat the price in stickers.\n\nComposition: product centered or slightly lower-center, slogan at the top, product name below slogan, CTA near the bottom, stickers placed naturally around the bottle and box without overlapping the product.\n\nFinal look should feel cinematic, minimal, premium, modern, and editorial-level quality.\n\nNegative prompt: cheap pricing styles, loud discount banners, \"BUY NOW!!!\", oversized price text, flashy sales colors, cluttered layout, messy stickers, distorted product, fake claims, unrealistic pricing, low-quality typography, harsh shadows, busy background."
+                }
+            ],
+            "selectedCreativeDirectionId": "563b5739-428c-48b2-bad3-d69ad9777e38",
+            "selectedCreativeDirectionPrompt": "Create a premium product advertisement poster using the provided product image.\n\nUse the reference image as the source of truth for the product appearance. Keep the bottle shape, packaging, label layout, colors, proportions, branding, and all distinctive details unchanged and clearly recognizable. Showcase a 700ml black raspberry juice bottle with a rich dark berry tone and gift-worthy premium presentation.\n\nThe ad should emphasize a refined, wholesome, fruit-forward feel: bold berry flavor, smooth finish, and everyday premium enjoyment. Make it feel suitable for gifting, family tables, or chilled serving at home.\n\nCreate a clean, cinematic, professional ad poster where the product is the main visual focus.\n\nThe background should be simple, elegant, and premium, using soft desaturated berry-plum, warm beige, or muted burgundy tones with a subtle gradient. Avoid bright, harsh, or childish colors.\n\nLighting should include soft cinematic studio-quality light, subtle shadows, and clean highlights with realistic reflections on the glass bottle.\n\nCreate a short slogan at the top: \"Rich Berry, Refined.\" Keep it short, catchy, easy to read, premium but friendly, and not too salesy.\n\nAdd the product name clearly so viewers immediately know what the product is: \"Berrywell Black Raspberry Gold 700ml\". Place it near the product, below or beside it, or directly under the slogan. Use modern premium sans-serif typography, with the product name slightly larger and more prominent than the slogan.\n\nAdd a clear but premium CTA near the bottom: \"Now available for **SGD 93**\". Keep it calm, confident, and informative, not loud or discount-heavy.\n\nAdd 2–3 small refined promotional stickers around the product, using semi-transparent glass-like bases, rounded corners, subtle gradients, thin elegant borders, soft shadows, and minimal micro-typography. Suggested sticker ideas: \"Bold berry character\", \"700ml sharing size\", \"Great chilled or over ice\". Keep them small, layered, and unobtrusive. Do not repeat the price in stickers.\n\nComposition: product centered or slightly lower-center, slogan at the top, product name below slogan, CTA near the bottom, stickers placed naturally around the bottle and box without overlapping the product.\n\nFinal look should feel cinematic, minimal, premium, modern, and editorial-level quality.\n\nNegative prompt: cheap pricing styles, loud discount banners, \"BUY NOW!!!\", oversized price text, flashy sales colors, cluttered layout, messy stickers, distorted product, fake claims, unrealistic pricing, low-quality typography, harsh shadows, busy background.",
+            "mainAssetCreativeDirectionPrompt": "Create an ultra-realistic, fast-paced UGC creator POV-style 15-second product video for **BERRYWELL Black raspberry Juice (700ml)**, using the attached reference image as the source of truth for the product’s appearance. Preserve the bottle shape, dark berry liquid, label placement, cap, and any visible packaging details exactly, but do not copy the reference image’s white background, studio composition, or camera angle. Make it feel like a real person filming on their phone at home in Singapore.\n\nGoal: sell the juice as a simple daily wellness drink with a rich berry taste and an easy routine.\n\nStructure the video like real UGC:\n\n1) Hook / Problem\nOpen with the creator looking into the phone in a kitchen or home dining area, slightly tired and relatable: they’re bored of plain drinks and want something that feels refreshing but still part of a daily routine.\n- Camera: arm-length selfie framing, slight hand shake, natural indoor light.\n- Spoken line: **“Okay, I was so over plain drinks every day…”**\n\n2) Product Solution\nQuick punch-in reveal of the BERRYWELL bottle on a counter, then back to the creator holding it casually.\n- Show the label clearly for a second, but keep it natural and handheld.\n- Spoken line: **“Then I tried this black raspberry juice from Berrywell.”**\n\n3) Real Demo\nShow a believable real-life pour: open the bottle, pour a small amount into a glass, then dilute with cold water or serve chilled over ice. Show the deep dark berry color swirling in the glass.\n- Camera: handheld close-up insert, slight reframing, quick cut back to face reaction.\n- Add natural ambient sounds: bottle cap twist, liquid pour, glass clink.\n- Spoken line: **“You only need a little bit, and it tastes so rich.”**\n\n4) Satisfying Result\nShow the finished drink with ice on the table, creator taking a sip, then a relieved smile and small surprised reaction.\n- Emphasize the refreshed mood and easy daily-use vibe, not medical claims.\n- Spoken line: **“It’s actually really nice chilled — like, super easy to keep in my routine.”**\n\n5) Reaction\nCreator gives a quick honest laugh or nod, holding the glass in frame.\n- Spoken line: **“Okay wait… this is kind of my new go-to.”**\n\n6) CTA\nEnd with creator pointing gently toward the bottle on the table, still in casual selfie POV.\n- Spoken line: **“If you want a simple berry drink, go check out Berrywell.”**\n\nVisual direction:\n- self-shot creator POV, casual home environment, phone-shot realism\n- slight shake, imperfect framing, quick punch-ins, fast but clear pacing\n- product shown in hand, on counter, and in poured glass\n- keep product accurate to the reference image across all shots\n- use natural colors: deep berry reds, dark plum tones, soft kitchen neutrals\n- no polished ad look, no cinematic lighting, no tripod feel\n\nEditing and pacing:\n- quick jump cuts every 1–3 seconds\n- one or two punch-in zooms on the bottle and poured drink\n- minimal transitions, creator-style cut rhythm\n- maintain a believable real-life UGC pace\n\nAudio:\n- natural female or male creator voice, casual and unpolished\n- light ambient room tone, soft TikTok-style background music low in the mix\n- bottle cap twist, pour sound, ice clink, light sip sound\n- voice should stay clearly audible and conversational\n- end cleanly without a final sound hit\n\nImportant product details to naturally imply visually, without reading them aloud:\n- 700ml bottle\n- black raspberry / bokbunja juice\n- premium Korean product\n- daily drinking vibe\n- serve chilled or diluted\n- rich berry color and taste\n\nNegative prompt:\nNo subtitles, captions, readable text overlays, end cards, fake social media UI, polished commercial look, cinematic shots, tripod shots, CGI, fake textures, staged acting, overproduced lighting, exaggerated enthusiasm, unsupported health or medical claims, invented certifications, invented awards, distorted bottle shape, wrong label, wrong cap, incorrect packaging, product inconsistency between shots, copied white studio background from the reference image, copied composition from the reference image, additional brand logos, third-party brand marks, warped hands, broken lip-sync, unreadable text, morphing objects, final-second boom or stinger.",
+            "attachments": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV",
+                    "name": "nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV"
+                }
+            ],
+            "version": 1,
+            "createdAt": "2026-08-23T08:55:45.935Z",
+            "updatedAt": "2026-08-23T11:08:07.571Z",
+            "metadata": {
+                "creativeDirectionGeneration": {
+                    "aiResponseId": "resp_07ac003c04f8892d006a8ad493ec7887d085ed8af0bfee49b8",
+                    "aiModel": "gpt-5.4-mini",
+                    "metadata": {
+                        "input_tokens": 4940,
+                        "input_tokens_details": {
+                            "cache_write_tokens": 0,
+                            "cached_tokens": 2688
+                        },
+                        "output_tokens": 576,
+                        "output_tokens_details": {
+                            "reasoning_tokens": 0
+                        },
+                        "total_tokens": 5516
+                    }
+                }
+            },
+            "imageSettings": {
+                "aspectRatio": "1:1",
+                "resolution": "1K",
+                "quality": "NORMAL"
+            },
+            "provider": "openai"
+        },
+        "product": {
+            "_id": "6a462e7f856341047b9e6a1f",
+            "title": "Berrywell Black Raspberry Gold 700ml",
+            "slug": "/berrywell-black-raspberry-gold-700ml",
+            "type": "PHYSICAL_PRODUCT",
+            "thumbnail": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV"
+        },
+        "styleAsset": {
+            "_id": "6a0d8cad45d67ea484c4f9ab",
+            "title": "Product Showcase",
+            "assetType": "IMAGE",
+            "goal": "For physical products with clear features, benefits, packaging, or price.",
+            "selectedCreativeDirectionPrompt": "## Product Showcase\n\nCreate a premium product advertisement poster using the provided product image.\n\nFirst analyze the product in detail:\n- product category\n- shape, color, texture, material, packaging, label, logo, and visual style\n- main function and core benefit\n- target customer\n- most likely problem it solves\n- best emotional angle for the ad\n\nKeep the product design, branding, logo, packaging, colors, and proportions unchanged. Do not invent new features or alter the product.\n\n⸻\n\n### 🖼️ Visual Style\n\nCreate a clean, cinematic, professional ad poster where the product is the main visual focus.\n\nThe background should be:\n- simple, elegant, and premium\n- plain colors or soft gradients\n- slightly desaturated\n- carefully chosen based on the product’s palette\n\nAvoid bright, harsh, or childish colors.\n\nLighting should include:\n- soft cinematic studio-quality light\n- subtle shadows and clean highlights\n- realistic reflections\n\n⸻\n\n### ✍️ Slogan\n\nCreate a short slogan at the top:\n- short and catchy\n- easy to read\n- product-relevant\n- premium but friendly\n- not too salesy\n- proper punctuation and capitalization\n\n⸻\n\n### 🏷️ Product Name\n\nAdd the product name clearly so viewers immediately know what the product is.\n\nPlace it near the product, below or beside it, or directly under the slogan. Use the same premium typography system. Make the product name slightly larger and more prominent than the slogan. Keep both clean, minimal, and aligned. Use exact product naming.\n\n⸻\n\n### 💰 CTA With Price\n\nAdd a clear but premium CTA. Include the price only if it is provided or visible.\n\nWhen a price is available, include it naturally, not aggressively. Example formats:\n- “Get yours for $29”\n- “Starting at $29”\n- “Now available for $29”\n\nKeep it short, calm, and confident. Place it near the bottom or subtly near the product. It should be slightly smaller than the product name but still clearly readable. Do not make it loud, flashy, or discount-heavy.\n\nPrice sourcing:\n- If the price is visible on the product, packaging, or reference image, use that exact price.\n- If a price is provided in the product context, use that exact price.\n- If no price is provided or visible, preserve the CTA layout with a non-numeric premium line instead of inventing a price.\n- Avoid unrealistic, random, exaggerated, or unsupported pricing.\n\nTone should be premium and informative, not pushy.\n\n⸻\n\n### 🏷️ Advanced Sticker System\n\nAdd 2–3 small promotional stickers around the product. These should feel like refined UI elements, not basic labels.\n\nMix sticker types intelligently:\n- value badge\n- feature tag\n- trust signal or social proof only when supported by the provided product or business context\n\nDo not repeat the price in stickers. If a price is used, it should live in the CTA, not as a loud badge.\n\nSticker design should include:\n- semi-transparent or soft solid base\n- subtle gradient or glass-like effect\n- soft blur or depth separation\n- rounded corners\n- thin elegant border\n- soft shadow\n- micro typography hierarchy\n- optional minimal thin-line icons\n- optional rating system only when a real rating is provided\n- slight variation in sizes\n- layering depth\n\nAvoid in stickers:\n- bright neon colors\n- thick outlines\n- cartoon icons\n- emoji visuals\n- too many stickers\n- overlapping the product\n- aggressive sales language\n\n⸻\n\n### 📐 Layout\n\n- Product centered or slightly lower-center\n- Slogan at the top\n- Product name below slogan, larger\n- CTA or CTA with price near the bottom or near product\n- Stickers placed naturally\n- Clean spacing and strong hierarchy\n\n⸻\n\n### 🔤 Typography\n\nUse modern premium sans-serif typography with clean kerning and spacing, proper capitalization and punctuation, and clear hierarchy:\n\nProduct Name → Slogan → CTA → Stickers\n\n⸻\n\n### 🎞️ Final Look\n\nThe ad should feel cinematic, minimal, premium, modern, and editorial-level quality.\n\n⸻\n\n🚫 Negative Prompt: cheap pricing styles, loud discount banners, “BUY NOW!!!”, oversized price text, flashy sales colors, cluttered layout, messy stickers, distorted product, fake claims, unrealistic pricing, low-quality typography, harsh shadows, busy background.",
+            "imageSettings": {
+                "aspectRatio": "1:1",
+                "resolution": "1K"
+            },
+            "images": [
+                {
+                    "url": "https://d2oi1rqwb0pj00.cloudfront.net/style/75a7b510-38af-4574-95e6-a2e863e0879b.png"
+                }
+            ]
+        },
+        "externalProduct": null,
+        "balanceInUsd": {
+            "available": 2522
+        }
+    }
+}
+
+-----------------------

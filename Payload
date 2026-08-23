@@ -1,0 +1,23 @@
+{
+    "provider": "byteplus",
+    "assetType": "VIDEO",
+    "goal": "HIGH_CONVERTING_ADS",
+    "customGoal": "",
+    "entityObjectId": "6a47473304c87ca486d8c170",
+    "creativeDirectionId": "",
+    "creativeDirectionPrompt": "",
+    "attachments": [
+        {
+            "name": "nio_1783056174599_d0246e25-f43f-4653-9296-32a1df3d062f_GV",
+            "type": "IMAGE",
+            "url": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1783056174599_d0246e25-f43f-4653-9296-32a1df3d062f_GV"
+        }
+    ],
+    "videoSettings": {
+        "orientation": "SQUARE",
+        "resolution": "720p",
+        "fps": "24",
+        "duration": "15"
+    },
+    "styleAssetObjectId": "6a1312f93746dbfb0f5119a5"
+}

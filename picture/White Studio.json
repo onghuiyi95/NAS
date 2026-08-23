@@ -1,0 +1,113 @@
+{
+    "provider": "byteplus",
+    "assetType": "IMAGE",
+    "goal": "HIGH_CONVERTING_ADS",
+    "customGoal": "",
+    "entityObjectId": "6a462e7f856341047b9e6a1f",
+    "creativeDirectionId": "",
+    "creativeDirectionPrompt": "",
+    "attachments": [
+        {
+            "name": "nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV",
+            "type": "IMAGE",
+            "url": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV"
+        }
+    ],
+    "existingAssetObjectId": null,
+    "imageSettings": {
+        "aspectRatio": "1:1",
+        "resolution": "1K",
+        "quality": "NORMAL"
+    },
+    "styleAssetObjectId": "6a0d8f56c5cd1215d4d14f69"
+}
+
+------------------
+{
+    "data": {
+        "asset": {
+            "_id": "6a8ad6c282a6eb8b179d4211",
+            "title": "Floating premium berry juice hero shot",
+            "assetType": "IMAGE",
+            "goal": "HIGH_CONVERTING_ADS",
+            "customGoal": "",
+            "entityObjectId": "6a462e7f856341047b9e6a1f",
+            "productType": "PHYSICAL_PRODUCT",
+            "status": "draft",
+            "creativeDirectionOptions": [
+                {
+                    "id": "6ea87eec-43a8-4bad-a615-8a1e2a8d9110",
+                    "type": "White Studio",
+                    "prompt": "Create high-end minimal product photography based on the uploaded product image. Carefully analyze and recreate the product with extreme accuracy down to the smallest details, including the exact packaging shape, cap design, label placement, typography positioning, material finish, surface texture, reflections, transparency, shadows, edges and curves, proportions, print quality, glass or plastic texture, and matte or glossy coating.\n\nThe product is a premium black raspberry juice bottle and its matching gift-style outer cylinder packaging, both from Berrywell Gold, 700ml. Preserve the visible bottle silhouette, dark amber liquid appearance, burgundy-and-gold label design, gold \"Gold\" banner, cap proportions, and refined premium packaging look from the reference image. Keep the product visually recognizable and commercially accurate.\n\nThe product should appear floating mid-air in a clean luxury white studio environment.\n\nThe composition should feel premium, cinematic, ultra minimal, expensive, editorial, and professionally art-directed.\n\nThe product should float naturally with a subtle tilt or rotation, a soft floating shadow beneath, a faint reflection on a glossy white surface, elegant balance and spacing, and realistic weightlessness.\n\nThe background should be a seamless white studio backdrop with minimal soft white-to-light-grey gradients, clean premium negative space, smooth luxury lighting transitions, and subtle atmospheric depth.\n\nLighting should feel like luxury skincare campaign photography, Apple-style product lighting, high-end ecommerce hero photography, and premium commercial studio lighting.\n\nUse soft directional studio light, cinematic rim lighting, clean reflections, polished highlights, subtle glow bloom, soft ambient shadows, high dynamic range lighting, and professional upscale rendering.\n\nThe image should feel sharp and ultra-detailed, softly cinematic, luxurious and modern, minimal but visually rich, and professionally photographed for a premium brand campaign.\n\nOptional subtle elements: faint mist haze, soft floating dust particles, delicate glow reflections, subtle translucent shadows.\n\nKeep everything extremely clean and minimal.\n\nComposition style: centered luxury product shot, premium ecommerce aesthetic, editorial beauty campaign, Pinterest-style luxury product photography, cinematic still-life advertisement.\n\nImportant: no extra props, no text overlays, no clutter, no busy background, no excessive floating objects, only the product as the hero focal point.\n\nStyle keywords: luxury skincare photography, floating product shot, white seamless studio, cinematic commercial lighting, premium ecommerce render, editorial beauty campaign, ultra minimal product ad, glossy studio reflections, upscale commercial photography.\n\nNegative prompt: busy composition, cluttered background, dark moody lighting, cheap ecommerce aesthetic, distorted packaging, warped labels, fake reflections, low-quality textures, cartoon rendering, noisy shadows, harsh highlights, overcomplicated scene, visible seams, unrealistic floating physics."
+                }
+            ],
+            "selectedCreativeDirectionId": "6ea87eec-43a8-4bad-a615-8a1e2a8d9110",
+            "selectedCreativeDirectionPrompt": "Create high-end minimal product photography based on the uploaded product image. Carefully analyze and recreate the product with extreme accuracy down to the smallest details, including the exact packaging shape, cap design, label placement, typography positioning, material finish, surface texture, reflections, transparency, shadows, edges and curves, proportions, print quality, glass or plastic texture, and matte or glossy coating.\n\nThe product is a premium black raspberry juice bottle and its matching gift-style outer cylinder packaging, both from Berrywell Gold, 700ml. Preserve the visible bottle silhouette, dark amber liquid appearance, burgundy-and-gold label design, gold \"Gold\" banner, cap proportions, and refined premium packaging look from the reference image. Keep the product visually recognizable and commercially accurate.\n\nThe product should appear floating mid-air in a clean luxury white studio environment.\n\nThe composition should feel premium, cinematic, ultra minimal, expensive, editorial, and professionally art-directed.\n\nThe product should float naturally with a subtle tilt or rotation, a soft floating shadow beneath, a faint reflection on a glossy white surface, elegant balance and spacing, and realistic weightlessness.\n\nThe background should be a seamless white studio backdrop with minimal soft white-to-light-grey gradients, clean premium negative space, smooth luxury lighting transitions, and subtle atmospheric depth.\n\nLighting should feel like luxury skincare campaign photography, Apple-style product lighting, high-end ecommerce hero photography, and premium commercial studio lighting.\n\nUse soft directional studio light, cinematic rim lighting, clean reflections, polished highlights, subtle glow bloom, soft ambient shadows, high dynamic range lighting, and professional upscale rendering.\n\nThe image should feel sharp and ultra-detailed, softly cinematic, luxurious and modern, minimal but visually rich, and professionally photographed for a premium brand campaign.\n\nOptional subtle elements: faint mist haze, soft floating dust particles, delicate glow reflections, subtle translucent shadows.\n\nKeep everything extremely clean and minimal.\n\nComposition style: centered luxury product shot, premium ecommerce aesthetic, editorial beauty campaign, Pinterest-style luxury product photography, cinematic still-life advertisement.\n\nImportant: no extra props, no text overlays, no clutter, no busy background, no excessive floating objects, only the product as the hero focal point.\n\nStyle keywords: luxury skincare photography, floating product shot, white seamless studio, cinematic commercial lighting, premium ecommerce render, editorial beauty campaign, ultra minimal product ad, glossy studio reflections, upscale commercial photography.\n\nNegative prompt: busy composition, cluttered background, dark moody lighting, cheap ecommerce aesthetic, distorted packaging, warped labels, fake reflections, low-quality textures, cartoon rendering, noisy shadows, harsh highlights, overcomplicated scene, visible seams, unrealistic floating physics.",
+            "mainAssetCreativeDirectionPrompt": "Create high-end minimal product photography based on the uploaded product image. Carefully analyze and recreate the product with extreme accuracy down to the smallest details, including the exact packaging shape, cap design, label placement, typography positioning, material finish, surface texture, reflections, transparency, shadows, edges and curves, proportions, print quality, glass or plastic texture, and matte or glossy coating.\n\nThe product is a premium black raspberry juice bottle and its matching gift-style outer cylinder packaging, both from Berrywell Gold, 700ml. Preserve the visible bottle silhouette, dark amber liquid appearance, burgundy-and-gold label design, gold \"Gold\" banner, cap proportions, and refined premium packaging look from the reference image. Keep the product visually recognizable and commercially accurate.\n\nThe product should appear floating mid-air in a clean luxury white studio environment.\n\nThe composition should feel premium, cinematic, ultra minimal, expensive, editorial, and professionally art-directed.\n\nThe product should float naturally with a subtle tilt or rotation, a soft floating shadow beneath, a faint reflection on a glossy white surface, elegant balance and spacing, and realistic weightlessness.\n\nThe background should be a seamless white studio backdrop with minimal soft white-to-light-grey gradients, clean premium negative space, smooth luxury lighting transitions, and subtle atmospheric depth.\n\nLighting should feel like luxury skincare campaign photography, Apple-style product lighting, high-end ecommerce hero photography, and premium commercial studio lighting.\n\nUse soft directional studio light, cinematic rim lighting, clean reflections, polished highlights, subtle glow bloom, soft ambient shadows, high dynamic range lighting, and professional upscale rendering.\n\nThe image should feel sharp and ultra-detailed, softly cinematic, luxurious and modern, minimal but visually rich, and professionally photographed for a premium brand campaign.\n\nOptional subtle elements: faint mist haze, soft floating dust particles, delicate glow reflections, subtle translucent shadows.\n\nKeep everything extremely clean and minimal.\n\nComposition style: centered luxury product shot, premium ecommerce aesthetic, editorial beauty campaign, Pinterest-style luxury product photography, cinematic still-life advertisement.\n\nImportant: no extra props, no text overlays, no clutter, no busy background, no excessive floating objects, only the product as the hero focal point.\n\nStyle keywords: luxury skincare photography, floating product shot, white seamless studio, cinematic commercial lighting, premium ecommerce render, editorial beauty campaign, ultra minimal product ad, glossy studio reflections, upscale commercial photography.\n\nNegative prompt: busy composition, cluttered background, dark moody lighting, cheap ecommerce aesthetic, distorted packaging, warped labels, fake reflections, low-quality textures, cartoon rendering, noisy shadows, harsh highlights, overcomplicated scene, visible seams, unrealistic floating physics.",
+            "attachments": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV",
+                    "name": "nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV"
+                }
+            ],
+            "version": 1,
+            "createdAt": "2026-08-23T11:17:22.627Z",
+            "updatedAt": "2026-08-23T11:17:22.627Z",
+            "metadata": {
+                "creativeDirectionGeneration": {
+                    "aiResponseId": "resp_06da8e776026a122006a8ad6bf55b487d0861604acdb188764",
+                    "aiModel": "gpt-5.4-mini",
+                    "metadata": {
+                        "input_tokens": 4530,
+                        "input_tokens_details": {
+                            "cache_write_tokens": 0,
+                            "cached_tokens": 4480
+                        },
+                        "output_tokens": 591,
+                        "output_tokens_details": {
+                            "reasoning_tokens": 0
+                        },
+                        "total_tokens": 5121
+                    }
+                }
+            },
+            "imageSettings": {
+                "aspectRatio": "1:1",
+                "resolution": "1K",
+                "quality": "NORMAL"
+            },
+            "provider": "openai"
+        },
+        "product": {
+            "_id": "6a462e7f856341047b9e6a1f",
+            "title": "Berrywell Black Raspberry Gold 700ml",
+            "slug": "/berrywell-black-raspberry-gold-700ml",
+            "type": "PHYSICAL_PRODUCT",
+            "thumbnail": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV"
+        },
+        "styleAsset": {
+            "_id": "6a0d8f56c5cd1215d4d14f69",
+            "title": "White Studio",
+            "assetType": "IMAGE",
+            "goal": "For physical products that need a clean, premium, no-distraction hero shot.",
+            "selectedCreativeDirectionPrompt": "## White Studio\n\nCreate high-end minimal product photography based on the uploaded product image. Carefully analyze and recreate the product with extreme accuracy down to the smallest details, including:\n- exact packaging shape\n- cap design\n- label placement\n- typography positioning\n- material finish\n- surface texture\n- reflections\n- transparency\n- shadows\n- edges and curves\n- proportions\n- print quality\n- glass or plastic texture\n- matte or glossy coating\n\nThe product should appear floating mid-air in a clean luxury white studio environment.\n\nThe composition should feel premium, cinematic, ultra minimal, expensive, editorial, and professionally art-directed.\n\nThe product should float naturally with:\n- subtle tilt or rotation\n- soft floating shadow beneath\n- faint reflection on a glossy white surface\n- elegant balance and spacing\n- realistic weightlessness\n\nThe background should be:\n- seamless white studio backdrop\n- minimal soft white-to-light-grey gradients\n- clean premium negative space\n- smooth luxury lighting transitions\n- subtle atmospheric depth\n\nLighting should feel like:\n- luxury skincare campaign photography\n- Apple-style product lighting\n- high-end ecommerce hero photography\n- premium commercial studio lighting\n\nUse:\n- soft directional studio light\n- cinematic rim lighting\n- clean reflections\n- polished highlights\n- subtle glow bloom\n- soft ambient shadows\n- high dynamic range lighting\n- professional upscale rendering\n\nThe image should feel sharp and ultra-detailed, softly cinematic, luxurious and modern, minimal but visually rich, and professionally photographed for a premium brand campaign.\n\nOptional subtle elements:\n- faint mist haze\n- soft floating dust particles\n- delicate glow reflections\n- subtle translucent shadows\n\nKeep everything extremely clean and minimal.\n\nComposition style:\n- centered luxury product shot\n- premium ecommerce aesthetic\n- editorial beauty campaign\n- Pinterest-style luxury product photography\n- cinematic still-life advertisement\n\nImportant:\n- no extra props\n- no text overlays\n- no clutter\n- no busy background\n- no excessive floating objects\n- only the product as the hero focal point\n\nStyle keywords: luxury skincare photography, floating product shot, white seamless studio, cinematic commercial lighting, premium ecommerce render, editorial beauty campaign, ultra minimal product ad, glossy studio reflections, upscale commercial photography.\n\n⸻\n\n🚫 Negative Prompt: busy composition, cluttered background, dark moody lighting, cheap ecommerce aesthetic, distorted packaging, warped labels, fake reflections, low-quality textures, cartoon rendering, noisy shadows, harsh highlights, overcomplicated scene, visible seams, unrealistic floating physics.",
+            "imageSettings": {
+                "aspectRatio": "1:1",
+                "resolution": "1K"
+            },
+            "images": [
+                {
+                    "url": "https://d2oi1rqwb0pj00.cloudfront.net/style/a065df7d-0692-49f2-8b3e-0be816c071f8.png"
+                }
+            ]
+        },
+        "externalProduct": null,
+        "balanceInUsd": {
+            "available": 2292
+        }
+    }
+}
+
+-----------------
+

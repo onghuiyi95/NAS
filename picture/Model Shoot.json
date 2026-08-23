@@ -1,0 +1,111 @@
+{
+    "provider": "byteplus",
+    "assetType": "IMAGE",
+    "goal": "HIGH_CONVERTING_ADS",
+    "customGoal": "",
+    "entityObjectId": "6a462e7f856341047b9e6a1f",
+    "creativeDirectionId": "",
+    "creativeDirectionPrompt": "",
+    "attachments": [
+        {
+            "name": "nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV",
+            "type": "IMAGE",
+            "url": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV"
+        }
+    ],
+    "existingAssetObjectId": null,
+    "imageSettings": {
+        "aspectRatio": "1:1",
+        "resolution": "1K",
+        "quality": "NORMAL"
+    },
+    "styleAssetObjectId": "6a13384ed32d444465080ebd"
+}
+
+-------------------
+
+{
+    "data": {
+        "asset": {
+            "_id": "6a8ad67e47ac8e1dae9d1226",
+            "title": "Premium berry juice fashion poster",
+            "assetType": "IMAGE",
+            "goal": "HIGH_CONVERTING_ADS",
+            "customGoal": "",
+            "entityObjectId": "6a462e7f856341047b9e6a1f",
+            "productType": "PHYSICAL_PRODUCT",
+            "status": "draft",
+            "creativeDirectionOptions": [
+                {
+                    "id": "481767d8-1a12-4f68-ac21-ae708a0b090b",
+                    "type": "Model Shoot",
+                    "prompt": "Create a premium studio-style model advertisement based on the uploaded beverage product.\n\nUse the reference image as the source of truth for the product appearance: preserve the tall 700ml bottle shape, deep dark glass body, burgundy-gold label palette, matching cap, printed branding placement, and the elegant premium packaging/tube shown in the reference. Keep the product visually recognizable and faithful to the reference image.\n\nA realistic fashionable male or female model naturally holding or presenting the bottle and/or the gift tube, depending on what best fits the composition. The model should look like a luxury lifestyle campaign model with a confident relaxed editorial pose, natural proportions, and modern premium energy.\n\nThe composition should feel cinematic, minimal, luxury, professionally art-directed, clean and modern. Use a plain studio background with a soft gradient in deep berry, graphite, warm taupe, or cream tones, with subtle atmospheric glow and elegant shadow transitions. Add refined berry cues only as product-adjacent elements: a few black raspberries, leaves, or a chilled glass with deep ruby juice, styled sparingly and premium, not busy.\n\nPlace a large bold headline on one side of the composition in horizontal stacked lines, balanced against the model. Use bold clean sans-serif typography. Headline: **RICH BERRY / GOLD FINISH.** Directly below it, include only the short product label: **Black Raspberry Juice 700ml**. Below that, add a concise price callout: **Available now from SGD 93.**\n\nAdd elegant thin technical callout lines pointing to the bottle and packaging with short labels only: **Premium glass bottle**, **Gift-worthy tube**, **700ml size**, **Serve chilled**.\n\nInclude a small boxed zoom-in section showing the label and packaging material detail close-up. Inside or directly below the box, write: **DETAIL ZOOM**.\n\nLighting should feel like premium commercial studio photography with soft shadows, cinematic rim lighting, realistic reflections on the glass bottle, and luxury editorial highlights. The final image should feel like a high-end beverage campaign poster, premium ecommerce hero image, and modern editorial product advertisement.\n\nNegative prompt: long product paragraphs, cluttered layout, excessive text, cheap ecommerce aesthetic, cartoon style, anime style, distorted anatomy, exaggerated muscles, fake glass texture, busy background, blurry typography, chaotic composition, meme style, unrealistic proportions, oversaturated colors."
+                }
+            ],
+            "selectedCreativeDirectionId": "481767d8-1a12-4f68-ac21-ae708a0b090b",
+            "selectedCreativeDirectionPrompt": "Create a premium studio-style model advertisement based on the uploaded beverage product.\n\nUse the reference image as the source of truth for the product appearance: preserve the tall 700ml bottle shape, deep dark glass body, burgundy-gold label palette, matching cap, printed branding placement, and the elegant premium packaging/tube shown in the reference. Keep the product visually recognizable and faithful to the reference image.\n\nA realistic fashionable male or female model naturally holding or presenting the bottle and/or the gift tube, depending on what best fits the composition. The model should look like a luxury lifestyle campaign model with a confident relaxed editorial pose, natural proportions, and modern premium energy.\n\nThe composition should feel cinematic, minimal, luxury, professionally art-directed, clean and modern. Use a plain studio background with a soft gradient in deep berry, graphite, warm taupe, or cream tones, with subtle atmospheric glow and elegant shadow transitions. Add refined berry cues only as product-adjacent elements: a few black raspberries, leaves, or a chilled glass with deep ruby juice, styled sparingly and premium, not busy.\n\nPlace a large bold headline on one side of the composition in horizontal stacked lines, balanced against the model. Use bold clean sans-serif typography. Headline: **RICH BERRY / GOLD FINISH.** Directly below it, include only the short product label: **Black Raspberry Juice 700ml**. Below that, add a concise price callout: **Available now from SGD 93.**\n\nAdd elegant thin technical callout lines pointing to the bottle and packaging with short labels only: **Premium glass bottle**, **Gift-worthy tube**, **700ml size**, **Serve chilled**.\n\nInclude a small boxed zoom-in section showing the label and packaging material detail close-up. Inside or directly below the box, write: **DETAIL ZOOM**.\n\nLighting should feel like premium commercial studio photography with soft shadows, cinematic rim lighting, realistic reflections on the glass bottle, and luxury editorial highlights. The final image should feel like a high-end beverage campaign poster, premium ecommerce hero image, and modern editorial product advertisement.\n\nNegative prompt: long product paragraphs, cluttered layout, excessive text, cheap ecommerce aesthetic, cartoon style, anime style, distorted anatomy, exaggerated muscles, fake glass texture, busy background, blurry typography, chaotic composition, meme style, unrealistic proportions, oversaturated colors.",
+            "mainAssetCreativeDirectionPrompt": "Create a premium studio-style model advertisement based on the uploaded beverage product.\n\nUse the reference image as the source of truth for the product appearance: preserve the tall 700ml bottle shape, deep dark glass body, burgundy-gold label palette, matching cap, printed branding placement, and the elegant premium packaging/tube shown in the reference. Keep the product visually recognizable and faithful to the reference image.\n\nA realistic fashionable male or female model naturally holding or presenting the bottle and/or the gift tube, depending on what best fits the composition. The model should look like a luxury lifestyle campaign model with a confident relaxed editorial pose, natural proportions, and modern premium energy.\n\nThe composition should feel cinematic, minimal, luxury, professionally art-directed, clean and modern. Use a plain studio background with a soft gradient in deep berry, graphite, warm taupe, or cream tones, with subtle atmospheric glow and elegant shadow transitions. Add refined berry cues only as product-adjacent elements: a few black raspberries, leaves, or a chilled glass with deep ruby juice, styled sparingly and premium, not busy.\n\nPlace a large bold headline on one side of the composition in horizontal stacked lines, balanced against the model. Use bold clean sans-serif typography. Headline: **RICH BERRY / GOLD FINISH.** Directly below it, include only the short product label: **Black Raspberry Juice 700ml**. Below that, add a concise price callout: **Available now from SGD 93.**\n\nAdd elegant thin technical callout lines pointing to the bottle and packaging with short labels only: **Premium glass bottle**, **Gift-worthy tube**, **700ml size**, **Serve chilled**.\n\nInclude a small boxed zoom-in section showing the label and packaging material detail close-up. Inside or directly below the box, write: **DETAIL ZOOM**.\n\nLighting should feel like premium commercial studio photography with soft shadows, cinematic rim lighting, realistic reflections on the glass bottle, and luxury editorial highlights. The final image should feel like a high-end beverage campaign poster, premium ecommerce hero image, and modern editorial product advertisement.\n\nNegative prompt: long product paragraphs, cluttered layout, excessive text, cheap ecommerce aesthetic, cartoon style, anime style, distorted anatomy, exaggerated muscles, fake glass texture, busy background, blurry typography, chaotic composition, meme style, unrealistic proportions, oversaturated colors.",
+            "attachments": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV",
+                    "name": "nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV"
+                }
+            ],
+            "version": 1,
+            "createdAt": "2026-08-23T11:16:14.657Z",
+            "updatedAt": "2026-08-23T11:16:14.657Z",
+            "metadata": {
+                "creativeDirectionGeneration": {
+                    "aiResponseId": "resp_004c73f87d356b1a006a8ad67ae30c87d09b7ba34717f4167e",
+                    "aiModel": "gpt-5.4-mini",
+                    "metadata": {
+                        "input_tokens": 4993,
+                        "input_tokens_details": {
+                            "cache_write_tokens": 0,
+                            "cached_tokens": 4224
+                        },
+                        "output_tokens": 531,
+                        "output_tokens_details": {
+                            "reasoning_tokens": 0
+                        },
+                        "total_tokens": 5524
+                    }
+                }
+            },
+            "imageSettings": {
+                "aspectRatio": "1:1",
+                "resolution": "1K",
+                "quality": "NORMAL"
+            },
+            "provider": "openai"
+        },
+        "product": {
+            "_id": "6a462e7f856341047b9e6a1f",
+            "title": "Berrywell Black Raspberry Gold 700ml",
+            "slug": "/berrywell-black-raspberry-gold-700ml",
+            "type": "PHYSICAL_PRODUCT",
+            "thumbnail": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV"
+        },
+        "styleAsset": {
+            "_id": "6a13384ed32d444465080ebd",
+            "title": "Model Shoot",
+            "assetType": "IMAGE",
+            "goal": "For apparel, accessories, and fashion products that need a premium model campaign.",
+            "selectedCreativeDirectionPrompt": "## Style Prompt\n\nCreate a premium studio-style model advertisement based on the uploaded fashion, apparel, accessory, or model-worn product.\n\nFirst, deeply analyze the item, including:\n- fit and silhouette\n- fabric or material texture\n- stitching quality\n- material type\n- color palette\n- fashion, apparel, or accessory category\n- luxury, streetwear, activewear, or accessory aesthetic\n- intended audience\n\nThen intelligently generate a realistic male or female model naturally wearing or carrying the item, depending on which best fits the product style.\n\nThe model should:\n- look fashionable and realistic\n- have a confident relaxed editorial pose\n- feel like a luxury fashion campaign model\n- have natural anatomy and proportions\n- give modern premium fashion energy\n\nThe composition should feel:\n- cinematic\n- minimal\n- luxury\n- professionally art-directed\n- clean and modern\n\n⸻\n\n### Typography Layout\n\nPlace the large bold headline on the left or right side area of the composition, like a luxury fashion poster layout.\n\nImportant:\n- The text should remain horizontal.\n- Do not write text vertically.\n- Stack the headline in multiple lines on the side.\n\nExample layout:\n- BUILT FOR / MOTION.\n- ELEVATED / EVERYDAY / WEAR.\n\nThe headline should:\n- occupy a large side section\n- balance the model visually\n- use bold clean sans-serif typography\n- feel modern and premium\n- resemble luxury streetwear campaigns\n\nDirectly below the headline, include only a short product label.\n\nExamples:\n- Premium Graphic Tee\n- Heavyweight Cotton Hoodie\n- Luxury Minimal Activewear\n- Relaxed Fit Denim\n- Technical Crossbody Bag\n- Minimal Performance Cap\n\nThen below that, include only a short price callout when provided or reasonably assumed.\n\nExamples:\n- Available now for $59.\n- Limited release — $89.\n- Shop now — $49.\n\nIf price or availability is not provided, use a conservative generic CTA or offer line instead. Bold any assumed value or assumed copy in the final prompt so the user can quickly notice and edit it.\n\nImportant:\n- Do not add long product paragraphs.\n- Keep typography minimal and premium.\n\n⸻\n\n### Technical Product Callouts\n\nAdd elegant thin technical callout lines pointing to different parts of the product with very short labels only.\n\nExamples:\n- Heavyweight Cotton\n- Relaxed Fit\n- Soft Interior\n- Durable Stitching\n- Breathable Fabric\n- 4-Way Stretch\n- Water-Resistant Finish\n- Adjustable Strap\n- Reinforced Seam\n\nThe callout layout should feel:\n- clean\n- technical\n- futuristic\n- luxury fashion inspired\n\n⸻\n\n### Fabric or Material Texture Zoom Box\n\nInclude a small boxed zoom-in section showing the fabric or material texture close-up.\n\nImportant:\n- Inside or directly below the box, only write: \"FABRIC ZOOM\" for clothing and textile products.\n- For non-fabric wearable accessories, use the most accurate short label, such as \"MATERIAL ZOOM\" or \"DETAIL ZOOM\".\n\nDo not add:\n- long material descriptions\n- GSM details\n- material paragraphs\n- extra technical copy\n\nThe zoom box should:\n- reveal stitching, fabric, surface, or material detail\n- connect with a thin elegant line\n- feel premium and minimal\n- resemble luxury apparel campaign layouts\n\n⸻\n\n### Background & Lighting\n\nThe background should be:\n- plain\n- cinematic\n- studio-style\n- gradient-based\n- minimal\n\nUse:\n- smooth luxury gradients\n- soft atmospheric glow\n- subtle vignette\n- elegant shadow transitions\n\nBackground colors should intelligently match the product's tones. Possible palettes include:\n- charcoal\n- graphite grey\n- muted olive\n- warm taupe\n- cream\n- beige\n- deep navy\n- sand tones\n\nLighting should feel like premium commercial studio photography.\n\nUse:\n- soft shadows\n- cinematic rim lighting\n- realistic fabric or material highlights\n- subtle atmospheric lighting\n- luxury editorial fashion lighting\n\n⸻\n\n### Final Style\n\nThe final image should feel like:\n- a luxury streetwear campaign\n- premium sportswear branding\n- high-end ecommerce hero image\n- modern editorial fashion poster\n- cinematic apparel, accessory, or model campaign advertisement\n\nStyle:\n- realistic commercial photography\n- luxury fashion campaign\n- premium editorial layout\n- minimal technical design\n- cinematic studio lighting\n- clean modern composition\n\n⸻\n\n🚫 Negative Prompt: long product paragraphs, cluttered layout, excessive text, cheap ecommerce aesthetic, cartoon style, anime style, distorted anatomy, exaggerated muscles, fake fabric texture, busy background, cyberpunk aesthetics, low-quality rendering, blurry typography, chaotic composition, meme style, unrealistic proportions, messy infographic, oversaturated colors.",
+            "imageSettings": {
+                "aspectRatio": "1:1",
+                "resolution": "1K"
+            },
+            "images": [
+                {
+                    "url": "https://d2oi1rqwb0pj00.cloudfront.net/style/fc788a63-1109-4bdd-9491-c3e616cf5a57.jpeg"
+                }
+            ]
+        },
+        "externalProduct": null,
+        "balanceInUsd": {
+            "available": 2292
+        }
+    }
+}

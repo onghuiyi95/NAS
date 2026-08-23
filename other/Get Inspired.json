@@ -1,0 +1,507 @@
+{
+    "data": {
+        "communityInfo": {
+            "title": "Berrywell Black Raspberry Juice 700ml"
+        },
+        "ownerInfo": {
+            "userObjectId": "6a446d49ddbd740f53cb594c",
+            "learnerObjectId": "6a446d48ddbd740f53cb5948",
+            "firstName": "Sunnychoice",
+            "lastName": "Pte Ltd",
+            "countryId": 153,
+            "profileImage": "https://d2oi1rqwb0pj00.cloudfront.net/socialProfilePics/user_9587735.png",
+            "socialMedia": [
+                {
+                    "type": "website",
+                    "iconLink": "/api/favicon?url=https%3A%2F%2Fshop.sunnychoice.com.sg%2Fweb%2Fimage%2Fwebsite%2F1%2Ffavicon%3Funique%3D9739d4d",
+                    "link": "https://shop.sunnychoice.com.sg",
+                    "username": "shop.sunnychoice.com.sg",
+                    "url": "https://shop.sunnychoice.com.sg",
+                    "isVisible": true,
+                    "title": "Website",
+                    "clientId": "link-1782983394034-0kd0knk86"
+                }
+            ],
+            "countryCode": "SG"
+        },
+        "communityTemplate": {
+            "predictedEarningsInUsd": 75969,
+            "predictedEarningsInLocalCurrency": 75969,
+            "localCurrency": "USD"
+        },
+        "templates": {
+            "challenges": [
+                {
+                    "_id": "67cff1148cd2eab640d5e8ec",
+                    "type": "challenge",
+                    "isAIGenerated": false,
+                    "thumbnailImgSrc": "https://d2oi1rqwb0pj00.cloudfront.net/get-inspired/Content+Creation+Challeng.png",
+                    "predictedEarningsInLocalCurrency": 205676,
+                    "localCurrency": "SGD",
+                    "metadata": {
+                        "title": "14-Day Content Creation Challenge 🎥✨",
+                        "description": "Embark on a 14-day journey to elevate your content creation skills! This challenge is designed to help you identify your target audience, generate engaging content ideas, and effectively utilize social media platforms to grow your online presence. Each day introduces a new task to enhance your content creation abilities.",
+                        "checkpointInterval": 1,
+                        "challengeType": "FIXED",
+                        "checkpoints": [
+                            {
+                                "description": "",
+                                "title": "📌 Day 1: Identify Your Audience and Content Focus"
+                            },
+                            {
+                                "description": "",
+                                "title": "💡 Day 2: Source Content Ideas"
+                            },
+                            {
+                                "description": "",
+                                "title": "📝 Day 3: Plan Your Content Calendar"
+                            },
+                            {
+                                "description": "",
+                                "title": "📸 Day 4: Learn Basic Photography Techniques"
+                            },
+                            {
+                                "description": "",
+                                "title": "🎬 Day 5: Introduction to Video Editing"
+                            },
+                            {
+                                "description": "",
+                                "title": "🖌️ Day 6: Design Eye-Catching Graphics"
+                            },
+                            {
+                                "description": "",
+                                "title": "🗣️ Day 7: Craft Engaging Captions"
+                            },
+                            {
+                                "description": "",
+                                "title": "📈 Day 8: Analyze Social Media Trends"
+                            },
+                            {
+                                "description": "",
+                                "title": "🔧 Day 9: Utilize Content Creation Tools"
+                            },
+                            {
+                                "description": "",
+                                "title": "🕵️ Day 10: Optimize Content for SEO"
+                            },
+                            {
+                                "description": "",
+                                "title": "📊 Day 11: Measure Content Performance"
+                            },
+                            {
+                                "description": "",
+                                "title": "🤝 Day 12: Collaborate with Other Creators"
+                            },
+                            {
+                                "description": "",
+                                "title": "🛠️ Day 13: Refine Your Content Strategy"
+                            },
+                            {
+                                "description": "",
+                                "title": "🎉 Day 14: Final Project Presentation"
+                            }
+                        ],
+                        "challengeDuration": 14
+                    },
+                    "pricingConfig": {
+                        "priceType": "FIXED",
+                        "minAmount": 0,
+                        "suggestedAmount": 3809
+                    }
+                },
+                {
+                    "_id": "67cff0828cd2eab640d5e8eb",
+                    "type": "challenge",
+                    "isAIGenerated": false,
+                    "thumbnailImgSrc": "https://d2oi1rqwb0pj00.cloudfront.net/get-inspired/Financial+Empowerment+Challenge.png",
+                    "predictedEarningsInLocalCurrency": 205676,
+                    "localCurrency": "SGD",
+                    "metadata": {
+                        "title": "14-Day Financial Empowerment Challenge 💪💵",
+                        "description": "Embark on a 14-day journey to take control of your finances! This challenge is designed to help you build confidence in managing your money, establish effective saving habits, and set the foundation for a secure financial future. Each day introduces a practical task to enhance your financial well-being.",
+                        "checkpointInterval": 1,
+                        "challengeType": "FIXED",
+                        "checkpoints": [
+                            {
+                                "description": "",
+                                "title": "📝 Day 1: Track Your Expenses"
+                            },
+                            {
+                                "description": "",
+                                "title": "🎯 Day 2: Set Financial Goals"
+                            },
+                            {
+                                "description": "",
+                                "title": "📊 Day 3: Create a Budget"
+                            },
+                            {
+                                "description": "",
+                                "title": "✂️ Day 4: Reduce Unnecessary Expenses"
+                            },
+                            {
+                                "description": "",
+                                "title": "🚨 Day 5: Start an Emergency Fund"
+                            },
+                            {
+                                "description": "",
+                                "title": "🔍 Day 6: Review Subscriptions and Memberships"
+                            },
+                            {
+                                "description": "",
+                                "title": "🍽️ Day 7: Plan Meals and Limit Eating Out"
+                            },
+                            {
+                                "description": "",
+                                "title": "💾 Day 8: Automate Savings"
+                            },
+                            {
+                                "description": "",
+                                "title": "💳 Day 9: Pay More Than the Minimum on Debts"
+                            },
+                            {
+                                "description": "",
+                                "title": "📈 Day 10: Review and Improve Credit Score"
+                            },
+                            {
+                                "description": "",
+                                "title": "📚 Day 11: Explore Investment Options"
+                            },
+                            {
+                                "description": "",
+                                "title": "💬 Day 12: Negotiate Bills and Expenses"
+                            },
+                            {
+                                "description": "",
+                                "title": "🏖️ Day 13: Plan for Retirement"
+                            },
+                            {
+                                "description": "",
+                                "title": "🧘‍♂️ Day 14: Reflect and Plan Ahead"
+                            }
+                        ],
+                        "challengeDuration": 14
+                    },
+                    "pricingConfig": {
+                        "priceType": "FIXED",
+                        "minAmount": 0,
+                        "suggestedAmount": 6222
+                    }
+                },
+                {
+                    "_id": "67cfef6c8cd2eab640d5e8e9",
+                    "type": "challenge",
+                    "isAIGenerated": false,
+                    "thumbnailImgSrc": "https://images.unsplash.com/photo-1499364615650-ec38552f4f34?ixid=M3w3MDc3ODF8MHwxfHNlYXJjaHwzfHxFbnRlcnRhaW5tZW50fGVufDB8fHx8MTc0MTU3ODIzNXww&ixlib=rb-4.0.3&w=1920",
+                    "predictedEarningsInLocalCurrency": 205676,
+                    "localCurrency": "SGD",
+                    "metadata": {
+                        "title": "21 Days to Improve Website Sales 🚀",
+                        "description": "Kick off the new year by enhancing your digital marketing skills with a focused, 21-day challenge designed to improve your website sales. Equip yourself with effective strategies, tactics, and metrics crucial for optimizing your online presence and sales funnel. Join a community of like-minded professionals aiming to start their year with a sales surge.",
+                        "checkpointInterval": 1,
+                        "challengeType": "FIXED",
+                        "checkpoints": [
+                            {
+                                "description": "",
+                                "title": "Day 1 Optimize Your Homepage for Conversions"
+                            },
+                            {
+                                "description": "",
+                                "title": "Day 2 Craft an Irresistible Call-to-Action"
+                            },
+                            {
+                                "description": "",
+                                "title": "Day 3 Improve Page Load Speed"
+                            },
+                            {
+                                "description": "",
+                                "title": "Day 4 Leverage Social Proof"
+                            },
+                            {
+                                "description": "",
+                                "title": "Day 5 Simplify Checkout Process"
+                            },
+                            {
+                                "description": "",
+                                "title": "Day 6 Write Persuasive Product Descriptions"
+                            },
+                            {
+                                "description": "",
+                                "title": "Day 7 Optimize for Mobile Users"
+                            },
+                            {
+                                "description": "",
+                                "title": "Day 8 Use High-Quality Images & Videos"
+                            },
+                            {
+                                "description": "",
+                                "title": "Day 9 Personalize User Experience"
+                            },
+                            {
+                                "description": "",
+                                "title": "Day 10 Offer Discounts & Limited-Time Deals"
+                            },
+                            {
+                                "description": "",
+                                "title": "Day 11 Capture Leads with Popups & Forms"
+                            },
+                            {
+                                "description": "",
+                                "title": "Day 12 Leverage Email Marketing"
+                            },
+                            {
+                                "description": "",
+                                "title": "Day 13 A/B Test Landing Pages"
+                            },
+                            {
+                                "description": "",
+                                "title": "Day 14 Improve Website Navigation"
+                            },
+                            {
+                                "description": "",
+                                "title": "Day 15 Enhance SEO for Higher Traffic"
+                            },
+                            {
+                                "description": "",
+                                "title": "Day 16 Use Live Chat to Assist Visitors"
+                            },
+                            {
+                                "description": "",
+                                "title": "Day 17 Reduce Cart Abandonment"
+                            },
+                            {
+                                "description": "",
+                                "title": "Day 18 Leverage Retargeting Ads"
+                            },
+                            {
+                                "description": "",
+                                "title": "Day 19 Showcase Customer Testimonials"
+                            },
+                            {
+                                "description": "",
+                                "title": "Day 20 Optimize Your Pricing Strategy"
+                            },
+                            {
+                                "description": "",
+                                "title": "Day 21 Track & Analyze Website Data"
+                            }
+                        ],
+                        "challengeDuration": 21
+                    },
+                    "pricingConfig": {
+                        "priceType": "FLEXIBLE",
+                        "minAmount": 2540,
+                        "suggestedAmount": 10157
+                    }
+                }
+            ],
+            "events": [
+                {
+                    "_id": "67cfebd28cd2eab640d5e8e6",
+                    "type": "event",
+                    "isAIGenerated": false,
+                    "thumbnailImgSrc": "https://d2oi1rqwb0pj00.cloudfront.net/get-inspired/gptmasterclass.png",
+                    "predictedEarningsInLocalCurrency": 63481,
+                    "localCurrency": "SGD",
+                    "metadata": {
+                        "title": "ChatGPT Masterclass: Unlock the Power of AI 🤖✨",
+                        "description": " Join our interactive ChatGPT Masterclass webinar to master leveraging AI. Discover advanced prompt engineering techniques, practical use cases, and expert insights to enhance productivity, creativity, and efficiency in your personal and professional projects!",
+                        "durationInMinutes": 180,
+                        "location": "inPerson",
+                        "eventAgenda": [
+                            {
+                                "title": "🤖 Introduction to ChatGPT & Prompt Engineering ",
+                                "durationInMinutes": 30
+                            },
+                            {
+                                "title": "🛠️ Live Demos & Practical AI Use-Cases",
+                                "durationInMinutes": 90
+                            },
+                            {
+                                "title": "💡 Expert Tips, Tricks & Best Practices ",
+                                "durationInMinutes": 30
+                            },
+                            {
+                                "title": "❓ Interactive Q&A Session & Personalized Guidance",
+                                "durationInMinutes": 60
+                            }
+                        ]
+                    },
+                    "pricingConfig": {
+                        "priceType": "FIXED",
+                        "minAmount": 0,
+                        "suggestedAmount": 1270
+                    }
+                },
+                {
+                    "_id": "67d023a448486ca163f330c8",
+                    "type": "event",
+                    "isAIGenerated": false,
+                    "thumbnailImgSrc": "https://d2oi1rqwb0pj00.cloudfront.net/get-inspired/designer+and+hackathon.png",
+                    "predictedEarningsInLocalCurrency": 63481,
+                    "localCurrency": "SGD",
+                    "metadata": {
+                        "title": "Designers Meetup & Hackathon 🎨",
+                        "description": "Join us for an exciting day packed with creativity, networking, and innovation at ultimate Designers Meetup & Hackathon! Engage with leading industry experts, showcase your UX design skills, and compete to win a brand new MacBook. Delicious food, valuable connections, and an unforgettable experience await you!",
+                        "durationInMinutes": 600,
+                        "location": "inPerson",
+                        "eventAgenda": [
+                            {
+                                "title": "⏰ Welcome & Networking",
+                                "durationInMinutes": 60
+                            },
+                            {
+                                "title": "🎯 Design Hackathon Competition",
+                                "durationInMinutes": 300
+                            },
+                            {
+                                "title": "🎤 Expert talks and Q&A sessions ",
+                                "durationInMinutes": 120
+                            },
+                            {
+                                "title": "🤗 Networking & Career Opportunities",
+                                "durationInMinutes": 60
+                            },
+                            {
+                                "title": "🏆 Recognition Certificates, goodies, and exclusive subscriptions for top winners",
+                                "durationInMinutes": 60
+                            }
+                        ]
+                    },
+                    "pricingConfig": {
+                        "priceType": "FIXED",
+                        "minAmount": 0,
+                        "suggestedAmount": 3682
+                    }
+                },
+                {
+                    "_id": "67cfeb5e8cd2eab640d5e8e5",
+                    "type": "event",
+                    "isAIGenerated": false,
+                    "thumbnailImgSrc": "https://d2oi1rqwb0pj00.cloudfront.net/get-inspired/onlinephotography.png",
+                    "predictedEarningsInLocalCurrency": 63481,
+                    "localCurrency": "SGD",
+                    "metadata": {
+                        "title": "Online Photography Contest 📸",
+                        "description": " Unleash your photography talent from the comfort of your home! Join our thrilling online competition, explore creative themes, and capture stunning moments. Compete for exciting prizes, top-quality photography gear, and the chance to get featured on our popular social media channels. Get ready to click, compete, and win big!",
+                        "durationInMinutes": 180,
+                        "location": "online",
+                        "eventAgenda": [
+                            {
+                                "title": "Introduction & Theme Reveal",
+                                "durationInMinutes": 15
+                            },
+                            {
+                                "title": "Live Photography Session & Submissions",
+                                "durationInMinutes": 120
+                            },
+                            {
+                                "title": "Winners Announcement & Expert Feedback",
+                                "durationInMinutes": 45
+                            }
+                        ]
+                    },
+                    "pricingConfig": {
+                        "priceType": "FIXED",
+                        "minAmount": 0,
+                        "suggestedAmount": 1905
+                    }
+                }
+            ],
+            "memberships": [],
+            "digitalProducts": [
+                {
+                    "_id": "67cff2ef8cd2eab640d5e8f0",
+                    "type": "folder",
+                    "isAIGenerated": false,
+                    "thumbnailImgSrc": "https://d2oi1rqwb0pj00.cloudfront.net/get-inspired/freelancing.png",
+                    "whyThisIsForYou": "This course is a perfect complement to your community's interest in engaging with Marvel fandom, offering creative activities for members to explore.",
+                    "predictedEarningsInLocalCurrency": 102838,
+                    "localCurrency": "SGD",
+                    "metadata": {
+                        "title": "A 0-100 Freelancing Playbook 🚀💼",
+                        "description": "Unlock the secrets to thriving as a free! Get expert insights, actionable strategies, and proven tips to succeed as a freelancer or client. From crafting standout profiles and proposals to mastering rates, client interactions, and project catalogs—this playbook covers it all!",
+                        "sections": [
+                            {
+                                "description": "",
+                                "title": "📹 Course Videos: Actionable frameworks & strategies"
+                            },
+                            {
+                                "description": "",
+                                "title": "📝 Course Notes: Summarized guides for quick reference"
+                            },
+                            {
+                                "description": "",
+                                "title": "📩 Cover Letter Templates: Proven scripts for proposals"
+                            },
+                            {
+                                "description": "",
+                                "title": "📜 Course Certificate: Showcase your achievement"
+                            },
+                            {
+                                "description": "",
+                                "title": "🚀 Introduction & Conclusion: Clear roadmap to success"
+                            }
+                        ]
+                    },
+                    "pricingConfig": {
+                        "priceType": "FIXED",
+                        "minAmount": 0,
+                        "suggestedAmount": 6222
+                    }
+                },
+                {
+                    "_id": "67cff3ae8cd2eab640d5e8f2",
+                    "type": "folder",
+                    "isAIGenerated": false,
+                    "thumbnailImgSrc": "https://d2oi1rqwb0pj00.cloudfront.net/get-inspired/healthy.png",
+                    "whyThisIsForYou": "This course is a perfect complement to your community's interest in engaging with Marvel fandom, offering creative activities for members to explore.",
+                    "predictedEarningsInLocalCurrency": 102838,
+                    "localCurrency": "SGD",
+                    "metadata": {
+                        "title": "Healthy & Delicious: Diet-Friendly Recipe Book 🍽️🥗",
+                        "description": "Enjoy mouthwatering recipes without compromising your health goals! This easy-to-follow eBook is packed with delicious, nutritious meals designed to fit your dietary needs—perfect for anyone seeking flavor, health, and simplicity.",
+                        "sections": [
+                            {
+                                "description": "",
+                                "title": "🍲 50+ Diet-Friendly Recipes: Tasty meals without guilt"
+                            },
+                            {
+                                "description": "",
+                                "title": "📋 Printable Grocery Lists: Convenient shopping guides"
+                            },
+                            {
+                                "description": "",
+                                "title": "💡 Nutrition Tips & Healthy Hacks: Enhance your wellness journey"
+                            }
+                        ]
+                    },
+                    "pricingConfig": {
+                        "priceType": "FIXED",
+                        "minAmount": 0,
+                        "suggestedAmount": 2540
+                    }
+                },
+                {
+                    "_id": "67cff1888cd2eab640d5e8ed",
+                    "type": "session",
+                    "isAIGenerated": false,
+                    "thumbnailImgSrc": "https://d2oi1rqwb0pj00.cloudfront.net/get-inspired/career+guidance.png",
+                    "predictedEarningsInLocalCurrency": 34280,
+                    "localCurrency": "SGD",
+                    "metadata": {
+                        "title": "1:1 Career Guidance for College Students 🎓🚀",
+                        "description": "60-minute personalized consultation designed to help college students clarify career goals, explore potential career paths, and create actionable next steps for professional success.",
+                        "durationInMinutes": 60,
+                        "location": "online"
+                    },
+                    "pricingConfig": {
+                        "priceType": "FIXED",
+                        "minAmount": 0,
+                        "suggestedAmount": 6222
+                    }
+                }
+            ],
+            "physicalProducts": []
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "provider": "byteplus",
+    "assetType": "VIDEO",
+    "goal": "HIGH_CONVERTING_ADS",
+    "customGoal": "",
+    "entityObjectId": "6a44709b4874419f42da07b1",
+    "creativeDirectionId": "",
+    "creativeDirectionPrompt": "",
+    "attachments": [
+        {
+            "name": "nio_1782870167160_ee9f8e21-0a4d-4342-836c-d0ee4b96c6b2_GV",
+            "type": "IMAGE",
+            "url": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782870167160_ee9f8e21-0a4d-4342-836c-d0ee4b96c6b2_GV"
+        }
+    ],
+    "existingAssetObjectId": "6a450ee4f7619c9c30947a1b",
+    "videoSettings": {
+        "orientation": "SQUARE",
+        "resolution": "720p",
+        "fps": "24",
+        "duration": "15"
+    },
+    "styleAssetObjectId": "6a10ae2e52db57d11a259a45"
+}
+
+--------------------
+
+{
+    "data": {
+        "asset": {
+            "_id": "6a450ee4f7619c9c30947a1b",
+            "title": "Premium berry wine with a viral gift moment",
+            "assetType": "VIDEO",
+            "goal": "HIGH_CONVERTING_ADS",
+            "customGoal": "",
+            "entityObjectId": "6a44709b4874419f42da07b1",
+            "productType": "PHYSICAL_PRODUCT",
+            "status": "draft",
+            "creativeDirectionOptions": [
+                {
+                    "id": "9f7f9c40-9685-4657-ba34-471e679fc5e5",
+                    "type": "Viral Story",
+                    "prompt": "Create a fast-paced cinematic viral product video using the provided reference image as the source of truth for the bottle and cylindrical gift box. Preserve the exact Bokbunja Gold identity, packaging structure, proportions, labels, colors, cap, and distinctive gold/red/berry-black finish. Do not copy the reference image’s plain white background, simple side-by-side composition, or camera angle.\n\nFormat: 15 seconds, seamless cinematic mini-story, bold emotional hook, premium social-video energy.\n\nCore concept: a hidden luxury from Korea — a bottle that looks understated at first, but reveals deep richness, meaningful-gift prestige, and a slow-sipping celebration ritual.\n\nOpening hook (0-3s):\n- Extreme macro close-up of condensation on the dark bottle glass, a chilled bead of water slowly sliding down the label.\n- Soft cinematic light catches the gold lettering and the berry artwork.\n- Camera begins in near darkness, then a refined warm highlight reveals the bottle like a secret worth discovering.\n- Mood: “Wait… this is the gift people remember.”\n\nMiddle build (3-10s):\n- Cut to elegant dinner table moments in a modern premium home in Singapore: dim amber candlelight, polished glassware, fruit, and a small gift box atmosphere.\n- A pair of hands gently turns the bottle and lifts it from the cylindrical box; tactile realism, no exaggerated motion.\n- Slow pour into a clear glass over ice; the liquid moves dense and luxurious, nearly black with deep ruby edges when it catches light.\n- Show satisfied reactions: a subtle smile, a quiet toast, a couple or close friends leaning in as the drink becomes the centerpiece of the moment.\n- Use smooth push-ins, controlled handheld realism, shallow depth of field, and glossy practical reflections.\n- Emphasize that it is for slow sipping, meaningful gifting, and elevated celebrations.\n\nEmotional escalation (10-13s):\n- The setting becomes more intimate and premium as the drink sits beside dessert and warm conversation.\n- The bottle and box are framed like a luxury object, not a normal beverage.\n- The visual message is sophistication, depth, and memorable presentation.\n\nFinal hero shot (13-15s):\n- Hero composition of the bottle beside the gift box, label perfectly facing camera, condensation visible, rich dark liquid in glass foreground.\n- Slow controlled camera drift, warm rim light, elegant reflections, atmospheric depth.\n- End on a resolved celebratory mood, not on a pop or sting.\n\nVoiceover: natural, human, confident, restrained, emotionally sharp.\n- Line 1: “Some gifts get opened. This one gets remembered.”\n- Line 2: “Bokbunja Gold — rich, smooth, and made for slow, meaningful moments.”\n- Line 3: “Serve chilled. Share responsibly.”\n\nAudio direction:\n- Modern cinematic lounge score with soft bass pulse, warm piano texture, and premium airy percussion.\n- Subtle ice clink, gentle pour, soft glass set-down, quiet ambient room tone, intimate dinner ambience.\n- Keep pacing premium and immersive; no exaggerated trailer boom.\n- End cleanly with music tapering naturally, no final impact sound.\n\nVisual style:\n- Ultra-cinematic realism, premium commercial lighting, rich berry-black and gold palette, warm amber highlights, dark reflective surfaces, shallow depth of field, tasteful luxury, emotionally grounded.\n- Use the product as the hero in every scene, always recognizable and consistent with the reference image.\n\nNegative prompt:\n- No subtitles, captions, text overlays, floating text, branding overlays, end cards, readable UI, or fake website screens.\n- No hallucinated product redesign, no altered bottle shape, no changed cap, no missing or extra labels, no new logos, no third-party branding, no generic wine bottle substitution.\n- Do not copy the reference image’s white background, plain studio cutout feel, or original front-facing side-by-side layout.\n- No warped glass, melting label, inconsistent packaging, floating bottle, duplicate bottles, broken reflections, distorted hands, extra fingers, unsafe pouring, robotic acting, overdone glamour, cheap CGI, or stock footage look.\n- No unsupported health or medical claims, no exaggerated alcohol claims, no fake ratings, awards, or certifications.\n- No final-second audio stinger, boom, click, or pop."
+                }
+            ],
+            "selectedCreativeDirectionId": "9f7f9c40-9685-4657-ba34-471e679fc5e5",
+            "selectedCreativeDirectionPrompt": "Create a fast-paced cinematic viral product video using the provided reference image as the source of truth for the bottle and cylindrical gift box. Preserve the exact Bokbunja Gold identity, packaging structure, proportions, labels, colors, cap, and distinctive gold/red/berry-black finish. Do not copy the reference image’s plain white background, simple side-by-side composition, or camera angle.\n\nFormat: 15 seconds, seamless cinematic mini-story, bold emotional hook, premium social-video energy.\n\nCore concept: a hidden luxury from Korea — a bottle that looks understated at first, but reveals deep richness, meaningful-gift prestige, and a slow-sipping celebration ritual.\n\nOpening hook (0-3s):\n- Extreme macro close-up of condensation on the dark bottle glass, a chilled bead of water slowly sliding down the label.\n- Soft cinematic light catches the gold lettering and the berry artwork.\n- Camera begins in near darkness, then a refined warm highlight reveals the bottle like a secret worth discovering.\n- Mood: “Wait… this is the gift people remember.”\n\nMiddle build (3-10s):\n- Cut to elegant dinner table moments in a modern premium home in Singapore: dim amber candlelight, polished glassware, fruit, and a small gift box atmosphere.\n- A pair of hands gently turns the bottle and lifts it from the cylindrical box; tactile realism, no exaggerated motion.\n- Slow pour into a clear glass over ice; the liquid moves dense and luxurious, nearly black with deep ruby edges when it catches light.\n- Show satisfied reactions: a subtle smile, a quiet toast, a couple or close friends leaning in as the drink becomes the centerpiece of the moment.\n- Use smooth push-ins, controlled handheld realism, shallow depth of field, and glossy practical reflections.\n- Emphasize that it is for slow sipping, meaningful gifting, and elevated celebrations.\n\nEmotional escalation (10-13s):\n- The setting becomes more intimate and premium as the drink sits beside dessert and warm conversation.\n- The bottle and box are framed like a luxury object, not a normal beverage.\n- The visual message is sophistication, depth, and memorable presentation.\n\nFinal hero shot (13-15s):\n- Hero composition of the bottle beside the gift box, label perfectly facing camera, condensation visible, rich dark liquid in glass foreground.\n- Slow controlled camera drift, warm rim light, elegant reflections, atmospheric depth.\n- End on a resolved celebratory mood, not on a pop or sting.\n\nVoiceover: natural, human, confident, restrained, emotionally sharp.\n- Line 1: “Some gifts get opened. This one gets remembered.”\n- Line 2: “Bokbunja Gold — rich, smooth, and made for slow, meaningful moments.”\n- Line 3: “Serve chilled. Share responsibly.”\n\nAudio direction:\n- Modern cinematic lounge score with soft bass pulse, warm piano texture, and premium airy percussion.\n- Subtle ice clink, gentle pour, soft glass set-down, quiet ambient room tone, intimate dinner ambience.\n- Keep pacing premium and immersive; no exaggerated trailer boom.\n- End cleanly with music tapering naturally, no final impact sound.\n\nVisual style:\n- Ultra-cinematic realism, premium commercial lighting, rich berry-black and gold palette, warm amber highlights, dark reflective surfaces, shallow depth of field, tasteful luxury, emotionally grounded.\n- Use the product as the hero in every scene, always recognizable and consistent with the reference image.\n\nNegative prompt:\n- No subtitles, captions, text overlays, floating text, branding overlays, end cards, readable UI, or fake website screens.\n- No hallucinated product redesign, no altered bottle shape, no changed cap, no missing or extra labels, no new logos, no third-party branding, no generic wine bottle substitution.\n- Do not copy the reference image’s white background, plain studio cutout feel, or original front-facing side-by-side layout.\n- No warped glass, melting label, inconsistent packaging, floating bottle, duplicate bottles, broken reflections, distorted hands, extra fingers, unsafe pouring, robotic acting, overdone glamour, cheap CGI, or stock footage look.\n- No unsupported health or medical claims, no exaggerated alcohol claims, no fake ratings, awards, or certifications.\n- No final-second audio stinger, boom, click, or pop.",
+            "mainAssetCreativeDirectionPrompt": "Create a luxury problem/solution lifestyle ad for **Schisandra Berries Enzymes 700ml**. Use the attached reference image as the source of truth for the bottle and box design, preserving the deep red bottle, matching red-and-cream packaging, black cap, labels, proportions, and all distinctive branding details exactly as shown. Show the product in a cinematic, high-end wellness moment that suggests calm digestive comfort and refined daily wellness, with the bottle naturally integrated into a premium lifestyle setting rather than floating on a plain background.\n\nThe scene should feel like a luxury editorial advertising photograph: modern wellness, premium travel campaign, Apple-style clarity, calm and sophisticated. Consider a composed kitchen bar, serene breakfast table, or elevated evening wellness ritual in a minimal premium interior. The product should be the hero and remain clearly visible.\n\nUse soft directional natural light, gentle contrast, realistic highlights, and clean shadow falloff. Keep the palette restrained and premium: deep burgundy, warm cream, soft neutrals, muted wood, subtle metallic accents. Add a subtle cinematic dark gradient behind the typography area for readability, blended seamlessly with no visible edges.\n\nComposition should feel minimal, spacious, and intelligently framed, with intentional negative space reserved for typography. Include a thin elegant curved arrow that subtly points directly toward the bottle, connecting the headline area to the product without overpowering the scene.\n\nTypography should closely resemble a premium modern luxury campaign: massive ultra-bold sans-serif headline, thick heavy font weight, strong hierarchy, oversized billboard-style readability. Use this exact on-image text structure:\n- **LIVER-LEVEL**\n- **DAILY RESET**\n- small supporting line: **Naturally fermented Schisandra with no additives, no preservatives, and no artificial colouring.**\n- CTA in a subtle semi-transparent premium text box: **SHOP 700ML**\n\nMake the headline feel powerful, calm, and premium. The CTA box should be understated and expensive, using a muted brand-matched neutral or deep burgundy glass-like tone, not bright gold. Keep the text crisp, clean, and highly readable. Color grade with slightly desaturated cinematic tones, premium contrast, soft atmospheric depth, and elegant wellness sophistication.\n\nNegative prompt: visible discomfort exaggeration, forced expressions, harsh text boxes, visible gradient edges, thick overlays, cartoon arrows, arrows not pointing at the product, loud CTA buttons, cheap ad aesthetics, ecommerce flyer style, cluttered composition, oversaturated colors, busy backgrounds, promotional spam look, low-end marketing style, rigid typography, thin fonts, weak headline hierarchy, harsh contrast.",
+            "attachments": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782870167160_ee9f8e21-0a4d-4342-836c-d0ee4b96c6b2_GV",
+                    "name": "nio_1782870167160_ee9f8e21-0a4d-4342-836c-d0ee4b96c6b2_GV"
+                }
+            ],
+            "version": 1,
+            "createdAt": "2026-07-01T12:58:12.665Z",
+            "updatedAt": "2026-08-23T10:03:48.512Z",
+            "metadata": {
+                "creativeDirectionGeneration": {
+                    "aiResponseId": "resp_05dc4593d07ce28d006a8ac57d3ad487d08a050c771645b435",
+                    "aiModel": "gpt-5.4-mini",
+                    "metadata": {
+                        "input_tokens": 4073,
+                        "input_tokens_details": {
+                            "cache_write_tokens": 0,
+                            "cached_tokens": 1664
+                        },
+                        "output_tokens": 966,
+                        "output_tokens_details": {
+                            "reasoning_tokens": 0
+                        },
+                        "total_tokens": 5039
+                    }
+                }
+            },
+            "videoSettings": {
+                "orientation": "SQUARE",
+                "resolution": "720p",
+                "duration": "15",
+                "fps": "24"
+            },
+            "provider": "byteplus"
+        },
+        "product": {
+            "_id": "6a44709b4874419f42da07b1",
+            "title": "Bokbunja Gold Korean Berry Juice",
+            "slug": "/bokbunja-gold-korean-berry-wine",
+            "type": "PHYSICAL_PRODUCT",
+            "thumbnail": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782870167160_ee9f8e21-0a4d-4342-836c-d0ee4b96c6b2_GV"
+        },
+        "styleAsset": {
+            "_id": "6a10ae2e52db57d11a259a45",
+            "title": "Viral Story",
+            "assetType": "VIDEO",
+            "goal": "Cinematic social-video story that turns a product or offer into a bold hook, emotional shift, and memorable human moment.",
+            "selectedCreativeDirectionPrompt": "## Style Prompt\n\nCreate a fast-paced cinematic viral product video using the promoted item context and any provided reference image as the source of truth. The AI must deeply analyze the promoted item first, then automatically generate a bold viral concept, cinematic hook, emotional angle, and mini-story around it.\n\nThe promoted item should NEVER feel like a normal advertisement. Instead, identify its visual personality, emotional vibe, strongest visual traits, cultural meaning, who uses it, why people care about it, and what makes it surprising, emotional, luxurious, aggressive, useful, comforting, powerful, or weird. Then transform the promoted item into a cinematic viral narrative that feels emotionally sharp, visually memorable, and socially engaging.\n\nIMPORTANT:\n\nDo not hallucinate or alter the promoted item in any way. For physical products, keep the product accurate to the reference image, including its packaging structure, colors, textures, proportions, materials, mechanisms, engravings, labels, and distinctive design details.\n\nDo not add new logos, brand marks, IP characters, copyrighted brand elements, branding overlays, or end cards. If the reference image contains branding, preserve product identity through safe, product-owned, or non-IP visual details. Do not invent, imitate, or emphasize third-party IP, famous brand marks, or protected characters.\n\nThe video should feel bold, premium, emotional, cinematic, viral, unexpected, and fast-paced, like a luxury social video mixed with documentary storytelling and movie-trailer energy. The concept should frame the promoted item as a hidden truth, a strong opinion, a contradiction, an extreme version of something, something misunderstood, or something surprisingly powerful that changes behavior, mood, confidence, identity, or experience.\n\nThe hook should immediately create:\n\"Wait... what?\"\n\"That's a crazy way to describe it.\"\n\"I need to keep watching.\"\n\nIMPORTANT:\n\nNO subtitles, captions, text overlays, floating text, branding overlays, or end cards. Everything must be communicated only through visuals, acting, cinematography, voiceover, editing, music, and sound design.\n\nThe video structure should feel seamless and cinematic rather than overly fragmented. Keep the camera language motivated and visually coherent with smooth transitions, premium pacing, and strong emotional progression.\n\nThe opening should immediately grab attention with the strongest possible visual hook connected to the promoted item using dramatic movement, cinematic close-ups, emotional tension, or surprising imagery.\n\nThe next section should reframe the promoted item in an unexpected or emotionally powerful way that changes how the audience perceives it.\n\nThe middle section should escalate emotionally or visually by showing the promoted item changing comfort, confidence, mood, energy, identity, relationships, survival, status, behavior, or atmosphere through cinematic human interactions and strong reactions.\n\nThe product usage or offer experience section should feel satisfying, tactile, realistic, and emotionally rewarding. For physical products, use premium close-ups, natural hand interaction, realistic movement, and cinematic detail. For digital offers, services, or businesses, represent the value through creator presence, audience reaction, customer moment, service interaction, community, workspace, symbolic visual, or non-readable interface placeholder.\n\nThe final shot should end with a premium hero composition of the promoted item or a resolved emotional moment using cinematic lighting, shallow depth of field, atmospheric mood, realistic reflections, and slow controlled camera movement.\n\nThe visual world, color palette, lighting, wardrobe, environment, props, and emotional tone must fit the promoted item, its brand palette, audience, category, and reference image. Do not force a dark, luxury, gothic, nightlife, or black-and-gold look unless it naturally fits the promoted item.\n\nThe visuals should feel ultra cinematic and grounded in realism with premium commercial aesthetics, realistic lighting, clean composition, strong emotional framing, and viral editing energy. Use cinematic practical lighting, realistic shadows, premium reflections, atmospheric depth, natural skin tones, motivated light sources, and realistic textures. Avoid anything that feels fake, plastic, overly glossy, or low quality.\n\nThe camera style should feel dynamic but controlled with smooth tracking shots, cinematic push-ins, macro detail shots, subtle handheld realism, whip pans when motivated, slow motion moments, strong composition, shallow depth of field, and realistic lens compression. The storytelling should remain visually coherent with consistent geography, smooth progression, believable movement, and minimal glitchy actions.\n\nThe voiceover should sound completely natural and human with confident delivery, emotionally sharp pacing, clear pronunciation, slight intensity, and conversational realism. Avoid robotic AI cadence, fake trailer narration, exaggerated acting, influencer energy, or unnatural pauses.\n\nThe soundtrack should feel cinematic, emotional, modern, immersive, and high-energy with premium sound design, impactful transitions, realistic ambience, emotional rises and releases, and strong pacing that supports the narrative arc naturally. The music and sound design should fit the promoted item rather than defaulting to dark trailer music.\n\nThe final feeling should be:\nviral,\nbold,\ncinematic,\npremium,\nemotional,\nimmersive,\nmemorable,\nsocially engaging,\nunexpected,\nhuman.\n\nAvoid:\nsubtitles, captions, text overlays, floating text, branding overlays, end cards, generic ad copy, cheesy empowerment, fake hype, slow pacing, random storytelling, hallucinated product details, glitchy actions, unrealistic hand movement, low-quality CGI, stock footage feel, oversaturated visuals, cluttered scenes, boring explanations, corporate tone, robotic acting, influencer aesthetic, disconnected camera angles, teleporting characters, plastic-looking skin, weak cinematography, fake environments, poor continuity, chaotic editing, unrealistic reflections, cartoon look, fixed dark luxury styling when it does not fit the promoted item.",
+            "videoSettings": {
+                "orientation": "SQUARE",
+                "resolution": "1K",
+                "dimensions": "1440x1440",
+                "duration": "15"
+            },
+            "videos": [
+                {
+                    "url": "https://dkeexuinpcfb8.cloudfront.net/style/a0abd49e-64f1-407a-aeb0-229f616c6d2e.mp4",
+                    "thumbnailUrl": "https://dkeexuinpcfb8.cloudfront.net/nasIO/portal/videoAsset/56da70cc-8e56-4f47-abe5-8579fe53690b/99040db8-283e-42e8-8d8b-7604f03929c6/thumbnail.jpg"
+                }
+            ]
+        },
+        "externalProduct": null,
+        "balanceInUsd": {
+            "available": 2570
+        }
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "data": {
+        "_id": "6a8ad93cc0ed128266386c50",
+        "communityObjectId": "6a446df8991ef98b1e515758",
+        "slug": "/berrywell-schisandra-enzyme-tonic",
+        "status": "draft",
+        "title": "Berrywell Schisandra Enzyme Tonic",
+        "policyContent": {
+            "root": {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "detail": 0,
+                                "format": 0,
+                                "mode": "normal",
+                                "style": "",
+                                "text": "Returns accepted within 7 days if unopened and in original condition. No refunds for opened, used, or mishandled items.",
+                                "type": "text",
+                                "version": 1
+                            }
+                        ],
+                        "direction": null,
+                        "format": "",
+                        "indent": 0,
+                        "type": "paragraph",
+                        "version": 1,
+                        "textFormat": 0,
+                        "textStyle": ""
+                    }
+                ],
+                "direction": null,
+                "format": "",
+                "indent": 0,
+                "type": "root",
+                "version": 1
+            }
+        },
+        "description": "A rich, berry-toned tonic crafted for customers who enjoy a premium fruit beverage with a deeper herbal character.\n\nMade for slow sipping or mixing with water, this 700ml bottle offers a bold, tangy-sweet profile with schisandra-inspired complexity and a smooth fermented finish.\n\nWhat’s inside:\n- 1 x 700ml bottle of Schisandra Berries Enzymes\n\nHighlights:\n- Premium glass bottle presentation\n- Distinctive berry-herbal taste\n- Convenient ready-to-serve format\n\nStore in a cool, dry place. Refrigerate after opening and consume promptly for best taste.",
+        "policy": null,
+        "deliveryInDays": 3,
+        "shippingFee": 350,
+        "coverMediaItems": [
+            {
+                "mediaType": "image",
+                "imgSrc": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1787484472321_6252f8b4-cd56-45a1-8110-7c819dca8184_GV",
+                "folderItemId": "6a8ad93dc0ed128266386c55"
+            }
+        ],
+        "options": [
+            {
+                "optionObjectId": "6a8ad93cc0ed128266386c4b",
+                "variants": [
+                    {
+                        "variantObjectId": "6a8ad93cc0ed128266386c4a",
+                        "label": "700ml"
+                    }
+                ],
+                "label": "Size"
+            }
+        ],
+        "items": [
+            {
+                "itemObjectId": "6a8ad93cc0ed128266386c4c",
+                "combinationVariants": [
+                    {
+                        "optionObjectId": "6a8ad93cc0ed128266386c4b",
+                        "variantObjectId": "6a8ad93cc0ed128266386c4a"
+                    }
+                ],
+                "quantity": -1,
+                "pricingConfig": {
+                    "priceType": "FIXED",
+                    "amount": 3880,
+                    "currency": "SGD"
+                },
+                "optionMediaItems": []
+            }
+        ],
+        "pricingConfig": {
+            "priceType": "FIXED",
+            "amount": 3880,
+            "currency": "SGD"
+        },
+        "pricingType": "UNIFIED",
+        "fraudInfo": {
+            "localizedReason": null,
+            "reviewStatus": "pending"
+        },
+        "hasGeneratedCreativeAssets": false,
+        "applicationConfigDataFields": [],
+        "shippingApplicationConfigDataFields": [
+            {
+                "label": "Full name",
+                "fieldName": "fullName",
+                "fieldDataType": "text",
+                "inputSectionKey": "text",
+                "options": [],
+                "isEditable": false,
+                "isVisible": true,
+                "isRequired": true,
+                "isDeleted": false,
+                "isSunlightUrl": false
+            },
+            {
+                "label": "Delivery Address",
+                "fieldName": "deliveryAddress",
+                "fieldDataType": "text",
+                "inputSectionKey": "text",
+                "options": [],
+                "isEditable": false,
+                "isVisible": true,
+                "isRequired": true,
+                "isDeleted": false,
+                "isSunlightUrl": false
+            },
+            {
+                "label": "Phone number",
+                "fieldName": "phoneNumber",
+                "fieldDataType": "phone",
+                "inputSectionKey": "phone",
+                "options": [],
+                "isEditable": true,
+                "isVisible": false,
+                "isRequired": true,
+                "isDeleted": false,
+                "isSunlightUrl": false
+            }
+        ],
+        "countryShippingConfig": [
+            {
+                "deliveryInDays": 3,
+                "shippingFee": 350,
+                "countryCode": "SG",
+                "country": "Singapore",
+                "subdivisionIsoCodes": []
+            }
+        ],
+        "inquiryChannels": [
+            {
+                "channel": "nas_messages",
+                "enabled": true,
+                "value": null
+            },
+            {
+                "channel": "whatsapp",
+                "enabled": true,
+                "value": "+6582646307"
+            },
+            {
+                "channel": "telegram",
+                "enabled": false,
+                "value": null
+            },
+            {
+                "channel": "fb_messenger",
+                "enabled": false,
+                "value": null
+            },
+            {
+                "channel": "discord",
+                "enabled": false,
+                "value": null
+            },
+            {
+                "channel": "phone",
+                "enabled": false,
+                "value": "+6582646307"
+            },
+            {
+                "channel": "email",
+                "enabled": true,
+                "value": "sales.scbb06@gmail.com"
+            }
+        ]
+    }
+}

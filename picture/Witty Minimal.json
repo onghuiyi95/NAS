@@ -1,0 +1,112 @@
+{
+    "provider": "byteplus",
+    "assetType": "IMAGE",
+    "goal": "HIGH_CONVERTING_ADS",
+    "customGoal": "",
+    "entityObjectId": "6a462e7f856341047b9e6a1f",
+    "creativeDirectionId": "",
+    "creativeDirectionPrompt": "",
+    "attachments": [
+        {
+            "name": "nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV",
+            "type": "IMAGE",
+            "url": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV"
+        }
+    ],
+    "existingAssetObjectId": "6a8ab5919ddbef1520eb03ed",
+    "imageSettings": {
+        "aspectRatio": "1:1",
+        "resolution": "1K",
+        "quality": "NORMAL"
+    },
+    "styleAssetObjectId": "6a1435bf0ac762f3a095e76a"
+}
+------------------------------
+{
+    "data": {
+        "asset": {
+            "_id": "6a8ab5919ddbef1520eb03ed",
+            "title": "Dry joke juice poster",
+            "assetType": "IMAGE",
+            "goal": "HIGH_CONVERTING_ADS",
+            "customGoal": "",
+            "entityObjectId": "6a462e7f856341047b9e6a1f",
+            "productType": "PHYSICAL_PRODUCT",
+            "status": "draft",
+            "creativeDirectionOptions": [
+                {
+                    "id": "d1e653f5-2a0e-4690-871c-d7567690bce1",
+                    "type": "Witty Minimal",
+                    "prompt": "Create a minimal, high-impact, witty product advertisement poster for Berrywell Black Raspberry Gold 700ml.\n\nUse the attached reference image as the source of truth for the bottle and packaging appearance: preserve the dark glass bottle shape, burgundy cap, gold ribbon label, black raspberry branding, proportions, and premium classic look. Keep the product visually recognizable. Do not reuse the reference scene, tabletop, props, or background composition.\n\n**Concept**: The joke should feel like a brutally honest observation about fruit juice that tastes too premium to be “just juice.” Make the ad feel like a tiny luxury indulgence disguised as everyday refreshment.\n\n**Exact slogan**:\n**Not a craving.\nA personality.**\n\n**Text layout**: Huge bold premium sans-serif typography dominating most of the canvas, with the slogan split into two clean lines. The bottle sits small near the bottom, slightly off-center, acting as the reveal. Add a tiny understated product label near the bottle reading **Berrywell Gold 700ml**. No other copy.\n\n**Composition**: Massive negative space, clean studio poster layout, product secondary to the headline, ultra-minimal and instantly readable. The bottle should appear elegant and smaller than the typography, with a soft realistic shadow beneath it.\n\n**Visual style**: Premium, modern, culturally aware, dry and clever. Elegant sans-serif, strong line breaks, refined spacing, iconic minimalism. The humor should land immediately and feel casually genius.\n\n**Background**: Generate a premium soft gradient inspired by the bottle’s dark berry, burgundy, wine, and gold tones, with subtle cinematic bloom and atmospheric softness. Clean luxury studio feel, no clutter.\n\n**Lighting**: Soft studio lighting, subtle highlight on the bottle, premium realistic rendering, gentle shadow, polished finish.\n\n**Negative prompt**: clutter, busy scene, extra objects, people, fruit piles, tabletop still life, memes, emoji, corporate flyer style, overdesigned graphics, harsh contrast, illegible text, too much copy, CTA text, discount text, footer paragraphs, busy background, random props, fake labels, distorted bottle, incorrect branding."
+                }
+            ],
+            "selectedCreativeDirectionId": "d1e653f5-2a0e-4690-871c-d7567690bce1",
+            "selectedCreativeDirectionPrompt": "Create a minimal, high-impact, witty product advertisement poster for Berrywell Black Raspberry Gold 700ml.\n\nUse the attached reference image as the source of truth for the bottle and packaging appearance: preserve the dark glass bottle shape, burgundy cap, gold ribbon label, black raspberry branding, proportions, and premium classic look. Keep the product visually recognizable. Do not reuse the reference scene, tabletop, props, or background composition.\n\n**Concept**: The joke should feel like a brutally honest observation about fruit juice that tastes too premium to be “just juice.” Make the ad feel like a tiny luxury indulgence disguised as everyday refreshment.\n\n**Exact slogan**:\n**Not a craving.\nA personality.**\n\n**Text layout**: Huge bold premium sans-serif typography dominating most of the canvas, with the slogan split into two clean lines. The bottle sits small near the bottom, slightly off-center, acting as the reveal. Add a tiny understated product label near the bottle reading **Berrywell Gold 700ml**. No other copy.\n\n**Composition**: Massive negative space, clean studio poster layout, product secondary to the headline, ultra-minimal and instantly readable. The bottle should appear elegant and smaller than the typography, with a soft realistic shadow beneath it.\n\n**Visual style**: Premium, modern, culturally aware, dry and clever. Elegant sans-serif, strong line breaks, refined spacing, iconic minimalism. The humor should land immediately and feel casually genius.\n\n**Background**: Generate a premium soft gradient inspired by the bottle’s dark berry, burgundy, wine, and gold tones, with subtle cinematic bloom and atmospheric softness. Clean luxury studio feel, no clutter.\n\n**Lighting**: Soft studio lighting, subtle highlight on the bottle, premium realistic rendering, gentle shadow, polished finish.\n\n**Negative prompt**: clutter, busy scene, extra objects, people, fruit piles, tabletop still life, memes, emoji, corporate flyer style, overdesigned graphics, harsh contrast, illegible text, too much copy, CTA text, discount text, footer paragraphs, busy background, random props, fake labels, distorted bottle, incorrect branding.",
+            "mainAssetCreativeDirectionPrompt": "Create an ultra-realistic, fast-paced UGC creator POV-style 15-second product video for **BERRYWELL Black raspberry Juice (700ml)**, using the attached reference image as the source of truth for the product’s appearance. Preserve the bottle shape, dark berry liquid, label placement, cap, and any visible packaging details exactly, but do not copy the reference image’s white background, studio composition, or camera angle. Make it feel like a real person filming on their phone at home in Singapore.\n\nGoal: sell the juice as a simple daily wellness drink with a rich berry taste and an easy routine.\n\nStructure the video like real UGC:\n\n1) Hook / Problem\nOpen with the creator looking into the phone in a kitchen or home dining area, slightly tired and relatable: they’re bored of plain drinks and want something that feels refreshing but still part of a daily routine.\n- Camera: arm-length selfie framing, slight hand shake, natural indoor light.\n- Spoken line: **“Okay, I was so over plain drinks every day…”**\n\n2) Product Solution\nQuick punch-in reveal of the BERRYWELL bottle on a counter, then back to the creator holding it casually.\n- Show the label clearly for a second, but keep it natural and handheld.\n- Spoken line: **“Then I tried this black raspberry juice from Berrywell.”**\n\n3) Real Demo\nShow a believable real-life pour: open the bottle, pour a small amount into a glass, then dilute with cold water or serve chilled over ice. Show the deep dark berry color swirling in the glass.\n- Camera: handheld close-up insert, slight reframing, quick cut back to face reaction.\n- Add natural ambient sounds: bottle cap twist, liquid pour, glass clink.\n- Spoken line: **“You only need a little bit, and it tastes so rich.”**\n\n4) Satisfying Result\nShow the finished drink with ice on the table, creator taking a sip, then a relieved smile and small surprised reaction.\n- Emphasize the refreshed mood and easy daily-use vibe, not medical claims.\n- Spoken line: **“It’s actually really nice chilled — like, super easy to keep in my routine.”**\n\n5) Reaction\nCreator gives a quick honest laugh or nod, holding the glass in frame.\n- Spoken line: **“Okay wait… this is kind of my new go-to.”**\n\n6) CTA\nEnd with creator pointing gently toward the bottle on the table, still in casual selfie POV.\n- Spoken line: **“If you want a simple berry drink, go check out Berrywell.”**\n\nVisual direction:\n- self-shot creator POV, casual home environment, phone-shot realism\n- slight shake, imperfect framing, quick punch-ins, fast but clear pacing\n- product shown in hand, on counter, and in poured glass\n- keep product accurate to the reference image across all shots\n- use natural colors: deep berry reds, dark plum tones, soft kitchen neutrals\n- no polished ad look, no cinematic lighting, no tripod feel\n\nEditing and pacing:\n- quick jump cuts every 1–3 seconds\n- one or two punch-in zooms on the bottle and poured drink\n- minimal transitions, creator-style cut rhythm\n- maintain a believable real-life UGC pace\n\nAudio:\n- natural female or male creator voice, casual and unpolished\n- light ambient room tone, soft TikTok-style background music low in the mix\n- bottle cap twist, pour sound, ice clink, light sip sound\n- voice should stay clearly audible and conversational\n- end cleanly without a final sound hit\n\nImportant product details to naturally imply visually, without reading them aloud:\n- 700ml bottle\n- black raspberry / bokbunja juice\n- premium Korean product\n- daily drinking vibe\n- serve chilled or diluted\n- rich berry color and taste\n\nNegative prompt:\nNo subtitles, captions, readable text overlays, end cards, fake social media UI, polished commercial look, cinematic shots, tripod shots, CGI, fake textures, staged acting, overproduced lighting, exaggerated enthusiasm, unsupported health or medical claims, invented certifications, invented awards, distorted bottle shape, wrong label, wrong cap, incorrect packaging, product inconsistency between shots, copied white studio background from the reference image, copied composition from the reference image, additional brand logos, third-party brand marks, warped hands, broken lip-sync, unreadable text, morphing objects, final-second boom or stinger.",
+            "attachments": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV",
+                    "name": "nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV"
+                }
+            ],
+            "version": 1,
+            "createdAt": "2026-08-23T08:55:45.935Z",
+            "updatedAt": "2026-08-23T10:55:48.937Z",
+            "metadata": {
+                "creativeDirectionGeneration": {
+                    "aiResponseId": "resp_091bd014ef99506e006a8ad1b000d487d09520f5aefec2b0b7",
+                    "aiModel": "gpt-5.4-mini",
+                    "metadata": {
+                        "input_tokens": 5237,
+                        "input_tokens_details": {
+                            "cache_write_tokens": 0,
+                            "cached_tokens": 1664
+                        },
+                        "output_tokens": 487,
+                        "output_tokens_details": {
+                            "reasoning_tokens": 0
+                        },
+                        "total_tokens": 5724
+                    }
+                }
+            },
+            "imageSettings": {
+                "aspectRatio": "1:1",
+                "resolution": "1K",
+                "quality": "NORMAL"
+            },
+            "provider": "openai"
+        },
+        "product": {
+            "_id": "6a462e7f856341047b9e6a1f",
+            "title": "Berrywell Black Raspberry Gold 700ml",
+            "slug": "/berrywell-black-raspberry-gold-700ml",
+            "type": "PHYSICAL_PRODUCT",
+            "thumbnail": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV"
+        },
+        "styleAsset": {
+            "_id": "6a1435bf0ac762f3a095e76a",
+            "title": "Witty Minimal",
+            "assetType": "IMAGE",
+            "goal": "For bold, relatable one-line ads.",
+            "selectedCreativeDirectionPrompt": "## Digital Witty\n\nCreate a premium minimalist advertisement poster for a digital product using witty, culturally aware, instantly understandable humor.\n\nAnalyze the provided digital product, screenshots, branding assets, UI references, dashboards, mockups, landing pages, event graphics, reference images, or uploaded visual materials, then automatically generate a clean high-converting ad concept that feels modern, funny, premium, and highly shareable.\n\nThis prompt should work across:\n- online courses\n- digital downloads\n- creator templates\n- AI tools\n- live sessions\n- business pages\n- startup products\n- communities\n- productivity systems\n- editing packs\n- creator challenges\n- webinars\n- events\n- creative resources\n- digital memberships\n\nThe final ad should feel:\n- premium\n- minimal\n- editorial\n- socially aware\n- effortlessly witty\n- modern\n- clean\n- instantly understandable\n\nThe humor should feel:\n- dry\n- clever\n- socially accurate\n- deadpan\n- relatable\n- funny because it is true\n\nImportant:\n- The slogans should be shorter, sharper, and more immediate.\n- Think quick punchline energy, visually iconic composition, and instant readability in under one second.\n- Use fewer words for stronger impact.\n- The joke should land fast.\n\n⸻\n\n### Digital Product Analysis\n\nBefore generating any slogan or design, deeply analyze the digital product.\n\nUnderstand:\n- what the product helps people achieve\n- what frustrations people secretly have around this category\n- what internet behavior exists around the niche\n- what embarrassing truths creators or business owners experience\n- what modern digital lifestyle problems exist\n- what people pretend to understand but actually struggle with\n- what emotionally relatable truth exists behind the product\n\nThink: \"What is the funniest real truth about people who need this product?\"\n\nNot: \"What is the safest marketing slogan?\"\n\nThe humor should come from:\n- procrastination\n- creator burnout\n- editing struggles\n- fake productivity\n- startup stress\n- AI dependence\n- business confusion\n- online learning fatigue\n- social media obsession\n- creator insecurity\n- internet culture\n- overthinking\n- side hustle chaos\n- modern work culture\n\nThe joke should feel:\n- simple\n- sharp\n- socially true\n- minimal\n- obvious in hindsight\n\n⸻\n\n### Concept Style\n\nThe ad concept should rely on:\n- deadpan humor\n- visual irony\n- relatable truth\n- internet culture\n- modern behavior\n- observational comedy\n- luxury meme energy\n- minimal witty copywriting\n\nThe best slogans should feel like brutally honest observations people instantly recognize.\n\nExamples of tone:\n- YOUR AUDIO SNITCHES.\n- ANOTHER COURSE? BE SERIOUS.\n- YOUR CLIENTS CAN TELL.\n- 14 TABS. ZERO WORK.\n- NICE LOGO. NO SALES.\n- GOOD EDIT. BAD SOUND.\n\nThe humor should never feel:\n- corporate\n- motivational\n- chaotic\n- forced\n- random\n- cringe\n\n⸻\n\n### Copywriting Rules\n\nCreate one witty slogan.\n\nThe slogan should:\n- be funny first\n- feel socially true\n- be instantly understandable\n- read extremely quickly\n- feel visually powerful\n- feel premium\n- feel naturally clever\n\nImportant:\n- Shorter is better.\n- Fewer words means stronger impact.\n- Keep the joke immediate.\n\nThe slogan should ideally be:\n- 2-6 words\n- visually punchy\n- editorial\n- easy to understand instantly\n\nThe slogan can be:\n- one line\n- two short stacked lines\n- broken into bold editorial spacing\n\nAvoid:\n- paragraphs\n- setup-heavy jokes\n- long explanations\n- forced cleverness\n- complicated phrasing\n\nIf the joke already works, stop writing.\n\n⸻\n\n### Layout Structure\n\nThe composition should always contain:\n- one massive bold witty slogan dominating the frame\n- one premium simple background filling the entire frame\n- one lower-side product information section\n- one subtle digital-product visual integration\n- strong typography hierarchy\n- massive negative space\n- minimal distractions\n\nImportant:\n- No human subjects.\n- No people.\n- No faces.\n- No influencers.\n- No portraits.\n\nThe design should rely entirely on:\n- typography\n- layout\n- digital-product visuals\n- UI integration\n- branding\n- mockups\n- screenshots\n- composition\n\nThe background or environment must fill the entire frame edge-to-edge.\n\nAvoid:\n- white borders\n- floating isolated cutouts\n- empty unused areas\n- boxed poster layouts\n\nThe composition should feel like:\n- a premium startup ad\n- a modern SaaS campaign\n- a luxury minimalist social-media graphic\n\n⸻\n\n### Reference Image Integration\n\nIf the user provides screenshots, dashboards, UI, mockups, branding assets, thumbnails, product previews, event graphics, app interfaces, or digital visuals, intelligently incorporate them naturally into the design.\n\nAnalyze:\n- UI colors\n- layout structure\n- branding tones\n- visual hierarchy\n- product category\n- typography style\n- interface elements\n- graphic assets\n- digital textures\n- visual mood\n\nThen integrate them subtly into the composition while preserving realism and premium aesthetics.\n\nThe digital product visuals should:\n- feel secondary to the slogan\n- support the joke visually\n- act as the reveal\n\nExamples:\n- editing course: blurred Premiere timeline\n- finance session: investment dashboard\n- AI tool: futuristic interface\n- productivity template: messy Notion-style setup\n- webinar: premium laptop mockup\n- creator pack: editing assets floating subtly\n- event: clean event branding poster\n\nImportant:\n- Keep the design minimal.\n- Do not overload the frame with UI clutter.\n\n⸻\n\n### Typography Style\n\nTypography is the hero.\n\nUse:\n- huge bold premium sans-serif\n- oversized editorial layouts\n- ultra-clean kerning\n- strong line breaks\n- modern startup branding aesthetics\n- extremely high readability\n- bold asymmetrical composition\n\nThe slogan should dominate most of the frame visually.\n\nTypography should feel:\n- iconic\n- premium\n- effortless\n- minimal\n- instantly readable\n\n⸻\n\n### Background & Color Direction\n\nGenerate a simple premium background based on:\n- branding colors\n- UI colors\n- product mood\n- digital aesthetic\n- interface tones\n- startup branding vibe\n\nUse:\n- soft gradients\n- subtle cinematic bloom\n- matte textures\n- minimal color transitions\n- soft depth\n- luxury neutral palettes\n- clean digital atmosphere\n\nPreferred tones:\n- warm gray\n- soft beige\n- matte black\n- off-white\n- muted blue-gray\n- subtle charcoal\n- premium desaturated colors\n\nThe background should feel:\n- clean\n- premium\n- editorial\n- minimal\n- visually expensive\n\nAvoid:\n- busy gradients\n- oversaturated palettes\n- random bright colors\n- chaotic compositions\n- cluttered UI overload\n\n⸻\n\n### Product Information Section\n\nAt the bottom area of the composition, include:\n- product name\n- small CTA\n- pricing\n\nImportant:\n- Make the product name noticeably larger and more dominant than both the CTA and the price.\n- Keep hierarchy extremely clear: product name, then CTA and price.\n- The bottom section should feel premium, minimal, clean, editorial, and visually balanced.\n\n⸻\n\n### Visual Style\n\nThe final design should feel like:\n- premium startup branding\n- modern SaaS advertising\n- minimalist social-media campaigns\n- luxury digital-product marketing\n- high-end Instagram ads\n- editorial internet culture graphics\n\nUse:\n- massive negative space\n- minimal clutter\n- strong hierarchy\n- cinematic composition\n- subtle blur\n- premium rendering\n- clean framing\n\n⸻\n\n### Composition Rules\n\nText is the primary focus. Digital product visuals are the secondary focus.\n\nThe final image should feel:\n- iconic\n- minimal\n- funny\n- premium\n- modern\n- shareable\n- culturally smart\n\nUse:\n- oversized typography\n- asymmetrical layouts\n- balanced spacing\n- premium negative space\n- subtle UI integration\n- minimal distractions\n- strong visual hierarchy\n\n⸻\n\n🚫 Negative Prompt: long slogans, weak jokes, corporate marketing tone, motivational phrases, generic startup copy, cluttered layouts, excessive UI, multiple text boxes, ecommerce flyer aesthetics, fake luxury vibes, stock graphic energy, oversaturated gradients, random meme humor, try-hard cleverness, cringe internet jokes, chaotic visuals, tiny unreadable text, distracting backgrounds, excessive elements, visual noise, fake 3D renders, ugly typography spacing, low realism.",
+            "imageSettings": {
+                "aspectRatio": "1:1",
+                "resolution": "1K"
+            },
+            "images": [
+                {
+                    "url": "https://d2oi1rqwb0pj00.cloudfront.net/style/f447e6e9-13ac-4660-9591-70d7add3ac1c.png"
+                }
+            ]
+        },
+        "externalProduct": null,
+        "balanceInUsd": {
+            "available": 2522
+        }
+    }
+}
+
+-------------------------------
+

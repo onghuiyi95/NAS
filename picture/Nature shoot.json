@@ -1,0 +1,110 @@
+{
+    "provider": "byteplus",
+    "assetType": "IMAGE",
+    "goal": "HIGH_CONVERTING_ADS",
+    "customGoal": "",
+    "entityObjectId": "6a462e7f856341047b9e6a1f",
+    "creativeDirectionId": "",
+    "creativeDirectionPrompt": "",
+    "attachments": [
+        {
+            "name": "nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV",
+            "type": "IMAGE",
+            "url": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV"
+        }
+    ],
+    "existingAssetObjectId": "6a8ab5919ddbef1520eb03ed",
+    "imageSettings": {
+        "aspectRatio": "1:1",
+        "resolution": "1K",
+        "quality": "NORMAL"
+    },
+    "styleAssetObjectId": "6a0d8fb1c5cd1215d4d152bd"
+}
+--------------------
+{
+  "asset": {
+    "_id": "6a8ab5919ddbef1520eb03ed",
+    "title": "Fresh berry juice hero with natural warmth",
+    "assetType": "IMAGE",
+    "goal": "HIGH_CONVERTING_ADS",
+    "customGoal": "",
+    "entityObjectId": "6a462e7f856341047b9e6a1f",
+    "productType": "PHYSICAL_PRODUCT",
+    "status": "draft",
+    "creativeDirectionOptions": [
+      {
+        "id": "b71323fe-5c78-4aaa-a5f1-e754041eb497",
+        "type": "Nature Shoot",
+        "prompt": "Create high-end cinematic product photography based on the uploaded product image. Carefully analyze and recreate the **Berrywell Black Raspberry Gold 700ml** bottle and packaging with extreme accuracy down to the smallest visual details.\n\nPreserve the exact product shape, 700ml proportions, label placement, logo positioning, material texture, cap design, typography layout on packaging, folds and label behavior, transparency and reflections, surface finish, color accuracy, shadows, and highlights. Keep the recognizable branding and silhouette intact. Use the reference image as the source of truth for the bottle, label, and tube packaging appearance.\n\nPlace the product in a cinematic nature-informed setting that feels natural, pure, clean, grounded, and believable for a premium fruit beverage. Use a warm daylight outdoor still-life scene with natural wood, soft linen, scattered black raspberries, a few fresh berry leaves, and subtle stone or ceramic accents. The environment should suggest rich berry flavor, freshness, gifting, and a wholesome premium drink experience, without looking forced or overly wilderness-based.\n\nPosition the bottle and its matching presentation tube in a slightly dynamic, editorial arrangement rather than perfectly upright and centered. Let one piece lean subtly against the other or rest naturally on a textured wooden surface. Make the product feel physically grounded and art-directed, with realistic contact shadows and premium commercial styling.\n\nLighting should feel extremely professional and cinematic: soft diffused sunlight, gentle golden-hour warmth, controlled editorial shadows, subtle atmospheric bloom, realistic bounce light, and premium highlight rolloff. Color grading should be rich but soft, natural, and luxurious, with deep berry tones, warm neutrals, and a calm modern finish.\n\nThe composition should feel expensive, clean, and Pinterest-worthy, with shallow depth of field, elegant asymmetry, and enough negative space to keep the product the clear hero. Include only product-appropriate natural elements such as berries, leaves, wood, linen, stone, water condensation, or a chilled beverage feel if it suits the image.\n\n**Text layout:** no added text, no typography, no CTA, and no graphic overlays; only the real branding and label details visible on the product itself.\n\n**Negative prompt:** stiff upright product, generic forest background, random moss-and-rock placement, cluttered composition, fake nature textures, warped labels, inaccurate branding, harsh shadows, flat lighting, artificial CGI look, blurry product, cheap ecommerce styling, excessive props, chaotic scenery."
+      }
+    ],
+    "selectedCreativeDirectionId": "b71323fe-5c78-4aaa-a5f1-e754041eb497",
+    "selectedCreativeDirectionPrompt": "Create high-end cinematic product photography based on the uploaded product image. Carefully analyze and recreate the **Berrywell Black Raspberry Gold 700ml** bottle and packaging with extreme accuracy down to the smallest visual details.\n\nPreserve the exact product shape, 700ml proportions, label placement, logo positioning, material texture, cap design, typography layout on packaging, folds and label behavior, transparency and reflections, surface finish, color accuracy, shadows, and highlights. Keep the recognizable branding and silhouette intact. Use the reference image as the source of truth for the bottle, label, and tube packaging appearance.\n\nPlace the product in a cinematic nature-informed setting that feels natural, pure, clean, grounded, and believable for a premium fruit beverage. Use a warm daylight outdoor still-life scene with natural wood, soft linen, scattered black raspberries, a few fresh berry leaves, and subtle stone or ceramic accents. The environment should suggest rich berry flavor, freshness, gifting, and a wholesome premium drink experience, without looking forced or overly wilderness-based.\n\nPosition the bottle and its matching presentation tube in a slightly dynamic, editorial arrangement rather than perfectly upright and centered. Let one piece lean subtly against the other or rest naturally on a textured wooden surface. Make the product feel physically grounded and art-directed, with realistic contact shadows and premium commercial styling.\n\nLighting should feel extremely professional and cinematic: soft diffused sunlight, gentle golden-hour warmth, controlled editorial shadows, subtle atmospheric bloom, realistic bounce light, and premium highlight rolloff. Color grading should be rich but soft, natural, and luxurious, with deep berry tones, warm neutrals, and a calm modern finish.\n\nThe composition should feel expensive, clean, and Pinterest-worthy, with shallow depth of field, elegant asymmetry, and enough negative space to keep the product the clear hero. Include only product-appropriate natural elements such as berries, leaves, wood, linen, stone, water condensation, or a chilled beverage feel if it suits the image.\n\n**Text layout:** no added text, no typography, no CTA, and no graphic overlays; only the real branding and label details visible on the product itself.\n\n**Negative prompt:** stiff upright product, generic forest background, random moss-and-rock placement, cluttered composition, fake nature textures, warped labels, inaccurate branding, harsh shadows, flat lighting, artificial CGI look, blurry product, cheap ecommerce styling, excessive props, chaotic scenery.",
+    "mainAssetCreativeDirectionPrompt": "Create an ultra-realistic, fast-paced UGC creator POV-style 15-second product video for **BERRYWELL Black raspberry Juice (700ml)**, using the attached reference image as the source of truth for the product’s appearance. Preserve the bottle shape, dark berry liquid, label placement, cap, and any visible packaging details exactly, but do not copy the reference image’s white background, studio composition, or camera angle. Make it feel like a real person filming on their phone at home in Singapore.\n\nGoal: sell the juice as a simple daily wellness drink with a rich berry taste and an easy routine.\n\nStructure the video like real UGC:\n\n1) Hook / Problem\nOpen with the creator looking into the phone in a kitchen or home dining area, slightly tired and relatable: they’re bored of plain drinks and want something that feels refreshing but still part of a daily routine.\n- Camera: arm-length selfie framing, slight hand shake, natural indoor light.\n- Spoken line: **“Okay, I was so over plain drinks every day…”**\n\n2) Product Solution\nQuick punch-in reveal of the BERRYWELL bottle on a counter, then back to the creator holding it casually.\n- Show the label clearly for a second, but keep it natural and handheld.\n- Spoken line: **“Then I tried this black raspberry juice from Berrywell.”**\n\n3) Real Demo\nShow a believable real-life pour: open the bottle, pour a small amount into a glass, then dilute with cold water or serve chilled over ice. Show the deep dark berry color swirling in the glass.\n- Camera: handheld close-up insert, slight reframing, quick cut back to face reaction.\n- Add natural ambient sounds: bottle cap twist, liquid pour, glass clink.\n- Spoken line: **“You only need a little bit, and it tastes so rich.”**\n\n4) Satisfying Result\nShow the finished drink with ice on the table, creator taking a sip, then a relieved smile and small surprised reaction.\n- Emphasize the refreshed mood and easy daily-use vibe, not medical claims.\n- Spoken line: **“It’s actually really nice chilled — like, super easy to keep in my routine.”**\n\n5) Reaction\nCreator gives a quick honest laugh or nod, holding the glass in frame.\n- Spoken line: **“Okay wait… this is kind of my new go-to.”**\n\n6) CTA\nEnd with creator pointing gently toward the bottle on the table, still in casual selfie POV.\n- Spoken line: **“If you want a simple berry drink, go check out Berrywell.”**\n\nVisual direction:\n- self-shot creator POV, casual home environment, phone-shot realism\n- slight shake, imperfect framing, quick punch-ins, fast but clear pacing\n- product shown in hand, on counter, and in poured glass\n- keep product accurate to the reference image across all shots\n- use natural colors: deep berry reds, dark plum tones, soft kitchen neutrals\n- no polished ad look, no cinematic lighting, no tripod feel\n\nEditing and pacing:\n- quick jump cuts every 1–3 seconds\n- one or two punch-in zooms on the bottle and poured drink\n- minimal transitions, creator-style cut rhythm\n- maintain a believable real-life UGC pace\n\nAudio:\n- natural female or male creator voice, casual and unpolished\n- light ambient room tone, soft TikTok-style background music low in the mix\n- bottle cap twist, pour sound, ice clink, light sip sound\n- voice should stay clearly audible and conversational\n- end cleanly without a final sound hit\n\nImportant product details to naturally imply visually, without reading them aloud:\n- 700ml bottle\n- black raspberry / bokbunja juice\n- premium Korean product\n- daily drinking vibe\n- serve chilled or diluted\n- rich berry color and taste\n\nNegative prompt:\nNo subtitles, captions, readable text overlays, end cards, fake social media UI, polished commercial look, cinematic shots, tripod shots, CGI, fake textures, staged acting, overproduced lighting, exaggerated enthusiasm, unsupported health or medical claims, invented certifications, invented awards, distorted bottle shape, wrong label, wrong cap, incorrect packaging, product inconsistency between shots, copied white studio background from the reference image, copied composition from the reference image, additional brand logos, third-party brand marks, warped hands, broken lip-sync, unreadable text, morphing objects, final-second boom or stinger.",
+    "attachments": [
+      {
+        "type": "IMAGE",
+        "url": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV",
+        "name": "nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV"
+      }
+    ],
+    "version": 1,
+    "createdAt": "2026-08-23T08:55:45.935Z",
+    "updatedAt": "2026-08-23T10:59:29.502Z",
+    "metadata": {
+      "creativeDirectionGeneration": {
+        "aiResponseId": "resp_0d10ad5bc0177644006a8ad28d8a1c87d097634bcf3e7e850f",
+        "aiModel": "gpt-5.4-mini",
+        "metadata": {
+          "input_tokens": 5676,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cached_tokens": 5248
+          },
+          "output_tokens": 534,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 6210
+        }
+      }
+    },
+    "imageSettings": {
+      "aspectRatio": "1:1",
+      "resolution": "1K",
+      "quality": "NORMAL"
+    },
+    "provider": "openai"
+  },
+  "product": {
+    "_id": "6a462e7f856341047b9e6a1f",
+    "title": "Berrywell Black Raspberry Gold 700ml",
+    "slug": "/berrywell-black-raspberry-gold-700ml",
+    "type": "PHYSICAL_PRODUCT",
+    "thumbnail": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV"
+  },
+  "styleAsset": {
+    "_id": "6a0d8fb1c5cd1215d4d152bd",
+    "title": "Nature Shoot",
+    "assetType": "IMAGE",
+    "goal": "For natural, wellness, outdoor, skincare, beverage, or earthy products.",
+    "selectedCreativeDirectionPrompt": "## Nature Shoot\n\nCreate high-end cinematic product photography based on the uploaded product image. Carefully analyze and recreate the product with extreme accuracy down to the smallest visual details.\n\nPreserve:\n- exact product shape\n- packaging proportions\n- label placement\n- logo positioning\n- material texture\n- stitching and fabric quality\n- cap design\n- typography layout on packaging\n- folds and fabric behavior\n- transparency and reflections\n- surface finish\n- color accuracy\n- shadows and highlights\n\nThe product must look ultra realistic, premium, naturally photographed, luxury commercial quality, and professionally art-directed.\n\nImportant:\n- recreate the real product accurately\n- do not redesign the product\n- preserve recognizable branding and silhouette\n\n⸻\n\n### 🌿 Nature-Informed Product Placement\n\nAnalyze the product type and place it into a cinematic environment that makes the product feel natural, pure, clean, grounded, and believable.\n\nThe main creative purpose of this style is to make the viewer feel that the product is connected to nature, freshness, purity, ingredients, outdoor living, organic materials, or a calm natural lifestyle.\n\nImportant:\n- Prioritize real natural landscapes, natural textures, outdoor elements, plants, water, stone, earth, sunlight, or ingredient-led scenery when the product category genuinely fits nature, food, wellness, skincare, beverage, outdoor, handmade, organic, earthy, botanical, or pure-living cues.\n- \"Nature\" does not always mean wilderness, forest, moss, rocks, or scenic landscape.\n- Choose the most product-native natural context, not a generic outdoor nature background.\n- The environment may be outdoors, semi-outdoors, near water, in natural daylight, or in an indoor lifestyle setting with natural materials and organic atmosphere.\n- The scene should feel naturally connected to the product, not like the product was randomly placed on a rock.\n- If the product does not belong in an outdoor natural landscape, translate \"nature\" into the most fitting natural lifestyle context: daylight, air, calm, wood, linen, stone, plants, water, travel, balcony, boat deck, spa, kitchen, or clean workspace.\n\nExamples:\n- skincare: bathroom stone, water droplets, soft towels, botanical textures, spa-like daylight\n- perfume: flowers, fabric, vanity surface, garden light, refined botanical accents\n- wellness: linen, wood, ceramic, sunlight, soft organic textures, calm room or balcony\n- beverages: fruit, ice, condensation, water, boat deck, picnic table, poolside, beach towel, kitchen daylight\n- snacks: picnic cloth, wooden table, hiking pack, lunch setup, beach day, natural kitchen surface\n- tech or gadgets: use natural-light lifestyle contexts such as travel, sunlit desk, boat deck, outdoor cafe, balcony, plants, natural fabric, wood, stone, water, or calm workspace; do not force them into forests or mossy rocks unless the product is outdoor gear\n- clothing: hanging naturally outdoors in wind, on a minimalist rack, balcony, terrace, or open-air architectural setting\n- earthy brands: forests, moss, nature textures, but only when that context truly fits the product\n\nThe scene should feel editorial, cinematic, expensive, natural, premium, and Pinterest-worthy. When the product has strong natural, ingredient, food, wellness, or outdoor relevance, the image should lean more visibly into nature rather than becoming a generic indoor product scene.\n\n⸻\n\n### 📐 Dynamic Product Positioning\n\nThe product should not always stand perfectly straight. Instead, position it in a natural, artistic, editorial way.\n\nExamples:\n- leaning against a product-appropriate surface\n- tilted into fabric, towel, wood, stone, sand, grass, or another relevant texture\n- resting slightly sideways\n- softly angled in the scene\n- naturally supported by contextual natural materials\n- subtly tilted on uneven surfaces\n- hanging asymmetrically in wind\n- organically balanced in the environment\n\nThe positioning should feel realistic, cinematic, relaxed, art-directed, and visually dynamic.\n\nAvoid stiff centered upright placement. Make the product feel physically grounded in the scene. Create natural interaction between product and environment.\n\nThe product should feel intentionally composed like luxury editorial photography.\n\n⸻\n\n### 👕 Clothing-Specific Direction\n\nIf the uploaded product is clothing, the clothing should be hanging naturally on a clothesline, branch, minimalist rack, or outdoor setup.\n\nThe camera angle should be wider and more cinematic.\n\nShow:\n- more sky\n- more atmosphere\n- open-air scenery\n- soft cloud gradients\n- architectural minimalism\n- outdoor depth\n\nThe clothing should sway naturally in wind, wrinkle realistically, flow softly with movement, and hang asymmetrically and naturally.\n\nAvoid stiff perfectly flat clothing, symmetrical hanging, and mannequin-like presentation.\n\nThe fabric should feel alive, breathable, and naturally moving in air.\n\nStyle inspiration:\n- luxury fashion editorials\n- Scandinavian outdoor campaigns\n- premium streetwear lookbooks\n- cinematic Pinterest photography\n\n⸻\n\n### ✨ Professional Lighting Direction\n\nLighting should feel extremely professional and cinematic.\n\nUse:\n- soft diffused sunlight\n- golden-hour lighting\n- controlled editorial shadows\n- cinematic rim lighting\n- subtle atmospheric bloom\n- realistic environmental bounce light\n- premium highlight rolloff\n- soft contrast gradients\n\nLighting should resemble luxury skincare campaigns, premium fashion photography, Apple-style commercials, and cinematic outdoor product ads.\n\nAvoid flat lighting, harsh midday sunlight, artificial CGI lighting, and amateur photography look.\n\nThe image should feel professionally photographed, luxurious, cinematic, expensive, and polished.\n\n⸻\n\n### 🌿 Environmental Styling\n\nGenerate natural textures, elegant contextual scenery, atmospheric depth, and premium environmental harmony.\n\nThe environment should be selected from the product's natural world:\n- where it is used\n- what lifestyle it belongs to\n- what materials, ingredients, or sensory cues define it\n- what setting makes the product feel desirable and believable\n\nPossible environmental elements:\n- moss\n- flowers\n- rocks\n- leaves\n- branches\n- water reflections\n- linen\n- wood\n- ceramic\n- stone surfaces\n- towels\n- picnic cloth\n- boat deck\n- beach fabric\n- kitchen daylight\n- balcony sunlight\n- soft fog\n- sunlight haze\n- clouds\n- grass textures\n- subtle floating particles\n\nUse moss, rocks, forests, gardens, beaches, rivers, fields, mountains, or scenic wilderness when they genuinely strengthen the product's natural, pure, fresh, healthy, outdoor, or ingredient-led appeal. For products without that connection, use natural light, organic materials, plants, air, water, wood, stone, or calm lifestyle settings instead. Keep everything clean and minimal. Avoid visual clutter. The product should always remain the clear hero focal point.\n\n⸻\n\n### 🎨 Color Grading\n\nColor grading should feel cinematic, luxurious, natural, rich but soft, editorial, and modern.\n\nUse warm highlights, soft cool shadows, muted premium tones, filmic contrast, and natural texture rendering.\n\n⸻\n\n### 📸 Composition & Camera Style\n\nComposition should resemble luxury Pinterest campaigns, high-end ecommerce editorials, cinematic still-life photography, outdoor fashion campaigns, and luxury brand commercials.\n\nUse:\n- shallow depth of field\n- cinematic framing\n- elegant asymmetry\n- negative space\n- environmental storytelling\n\nThe image should feel artistic, calm, premium, modern, and naturally luxurious.\n\nImportant:\n- no text\n- no typography\n- no CTA\n- no graphic overlays\n- only the product and environment\n\nStyle keywords: nature-informed product photography, cinematic editorial still-life, premium commercial lighting, Pinterest aesthetic campaign, dynamic product composition, luxury lifestyle editorial, premium skincare photography, natural daylight product styling, high-end ecommerce campaign, organic contextual product photography.\n\n⸻\n\n🚫 Negative Prompt: stiff product positioning, perfectly upright product, generic forest background for every product, random moss-and-rock placement, forced wilderness scenery, flat lighting, cluttered backgrounds, fake nature textures, unrealistic wind physics, low-quality rendering, warped labels, harsh shadows, artificial CGI lighting, blurry product, cheap ecommerce aesthetic, noisy composition, excessive props, unrealistic folds, chaotic scenery.",
+    "imageSettings": {
+      "aspectRatio": "1:1",
+      "resolution": "1K"
+    },
+    "images": [
+      {
+        "url": "https://d2oi1rqwb0pj00.cloudfront.net/style/06bc2094-cd59-4616-80e0-cb413c506aa0.png"
+      }
+    ]
+  },
+  "externalProduct": null,
+  "balanceInUsd": {
+    "available": 2522
+  }
+}
+
+---------------------
+

@@ -1,0 +1,292 @@
+https://api-cdn.nas.io/api/v1/communities/6a446df8991ef98b1e515758/ai-cofounder/prompts/shuffle
+
+{
+    "data": {
+        "variables": [
+            {
+                "name": "product",
+                "value": "black raspberry juice recipe guide and wellness meal-plan kit"
+            },
+            {
+                "name": "audience",
+                "value": "busy Singapore professionals"
+            },
+            {
+                "name": "outcome",
+                "value": "incorporate daily berry nutrition and feel refreshed with simple drinks"
+            }
+        ]
+    }
+}
+
+--------------
+{
+    "data": {
+        "variables": [
+            {
+                "name": "product",
+                "value": "1:1 session in English"
+            },
+            {
+                "name": "audience",
+                "value": "busy Singapore adults"
+            },
+            {
+                "name": "outcome",
+                "value": "build a healthier daily habit with premium black raspberry juice and simple wellness routines"
+            }
+        ]
+    }
+}
+-----------
+
+{
+    "data": {
+        "variables": [
+            {
+                "name": "product",
+                "value": "black raspberry juice pairing guide"
+            },
+            {
+                "name": "audience",
+                "value": "busy Singaporeans"
+            },
+            {
+                "name": "outcome",
+                "value": "enjoy healthier refreshment and learn easy recipes and serving tips"
+            }
+        ]
+    }
+
+----------
+
+{
+    "data": {
+        "variables": [
+            {
+                "name": "product",
+                "value": "black raspberry juice tasting workshop"
+            },
+            {
+                "name": "audience",
+                "value": "Singapore health-conscious adults"
+            },
+            {
+                "name": "outcome",
+                "value": "choose better fruit-based drinks and boost daily wellness with natural flavor"
+            }
+        ]
+    }
+}
+
+-------------
+{
+    "data": {
+        "variables": [
+            {
+                "name": "product",
+                "value": "30-day challenge"
+            },
+            {
+                "name": "audience",
+                "value": "busy Singapore professionals"
+            },
+            {
+                "name": "outcome",
+                "value": "drink berry-based wellness consistently and feel more energized"
+            }
+        ]
+    }
+}
+
+---------
+
+{
+    "data": {
+        "variables": [
+            {
+                "name": "product",
+                "value": "7-day challenge"
+            },
+            {
+                "name": "audience",
+                "value": "busy Singapore office workers"
+            },
+            {
+                "name": "outcome",
+                "value": "drink one glass of berry-boosted black raspberry juice daily and feel more energized"
+            }
+        ]
+    }
+}
+
+---------
+{
+    "data": {
+        "variables": [
+            {
+                "name": "product",
+                "value": "7-day black raspberry wellness challenge guide"
+            },
+            {
+                "name": "audience",
+                "value": "busy Singapore adults seeking better daily hydration"
+            },
+            {
+                "name": "outcome",
+                "value": "add a consistent fruit-juice habit and feel refreshed"
+            }
+        ]
+    }
+}
+
+
+}
+------------------
+{
+    "data": {
+        "variables": [
+            {
+                "name": "product",
+                "value": "14-day challenge"
+            },
+            {
+                "name": "audience",
+                "value": "busy Singapore professionals"
+            },
+            {
+                "name": "outcome",
+                "value": "build a simple daily routine with black raspberry juice to boost hydration and energy"
+            }
+        ]
+    }
+}
+
+-------------
+https://api-cdn.nas.io/api/v1/communities/6a446df8991ef98b1e515758/ai-cofounder/chats
+
+
+{
+    "message": "Build me a 30-day challenge for busy Singapore professionals to help them drink berry-based wellness consistently and feel more energized"
+}
+
+https://api-cdn.nas.io/api/v1/communities/6a446df8991ef98b1e515758/ai-cofounder/chats/6a8adf27eaff193b36e1353f/messages
+
+{
+    "intentType": "MESSAGE",
+    "message": "Build me a 30-day challenge for busy Singapore professionals to help them drink berry-based wellness consistently and feel more energized",
+    "responseId": null,
+    "platform": "web",
+    "timezone": "Asia/Singapore"
+}
+
+---------------------------
+
+{
+    "data": [
+        {
+            "_id": "6a8adf2f82a6eb8b179de571",
+            "communityObjectId": "6a446df8991ef98b1e515758",
+            "type": "ads",
+            "isAIGenerated": true,
+            "version": 1,
+            "metadata": {
+                "callId": "call_uw2b3cMtj0YzNbaWurj2KI0P",
+                "aiResponseId": "resp_0d42e92d57dd3242006a8adf30f89c87d0b60592f6f2338729",
+                "ads": [
+                    {
+                        "primaryText": "Busy Singapore days don’t have to derail your wellness. Make berry-based nourishment a simple daily habit and feel more refreshed, focused, and ready to take on the week.",
+                        "headline": "Berry Wellness, Daily",
+                        "description": "Built for packed schedules",
+                        "imagePrompt": "1. Core Message: A daily berry wellness habit can fit into a busy Singapore professional’s routine and support a refreshed, energized feeling.\n2. Target Persona: Busy working professionals in Singapore, office workers, founders, and managers who want simple wellness habits without complicated routines.\n3. Unique Hook or Visual Twist: Show a sleek commuter-to-office lifestyle transition where a berry drink becomes the anchor of a calm morning routine.\n4. Visual Metaphor (Optional): The berry drink as a small reset button for a hectic day.\n5. Design Direction:\n   - Setting and Scene: Modern Singapore apartment kitchen or office desk near a window with bright natural morning light, subtle city skyline in the background.\n   - Graphic Elements: Minimal wellness props, laptop, watch, notebook, phone, fresh berries, condensation on a bottle or glass.\n   - Props or Symbols: Berry drink bottle/glass, tote bag, coffee cup set aside, calendar, clean desk.\n   - Emotion or Expression: Calm, capable, slightly relieved, ready for the day.\n   - Color Palette & Mood: Rich berry reds, soft greens, warm neutrals, clean premium wellness aesthetic.\n6. Layout & Composition:\n   - Layout Type: Lifestyle hero shot with strong subject focus and whitespace for overlay.\n   - Resolution: 1024×1024, clean and legible.\n7. Audience Matching (Mandatory): Match affluent, time-poor Singapore professionals who value convenience, consistency, and natural wellness.\n8. Text-on-Image Overlay Requirements:\n   - Headline: \"Tiny Habit, Big Reset\"\n   - Optional supporting line: \"Built for packed calendars\"\n9. Overlay MUST follow all rules:\n   - Use a fresh angle that complements the ad copy by emphasizing a small daily ritual rather than repeating wording.\n   - Keep text integrated into the scene using a soft gradient fade near empty background space, not covering the face or drink.\n10. Overlay Placement & Design Enhancements:\n   - Place text in the upper-right whitespace area with face-aware positioning and a gentle berry-toned blur behind it for readability.\n   - Use elegant modern sans-serif typography with subtle depth and premium wellness styling.\n11. Text Overlay Style & Typography:\n   - Warm, polished, editorial feel with clean modern font, slight letter spacing, and minimal shadow for contrast while preserving a premium lifestyle look.",
+                        "imageUrl": "https://d2oi1rqwb0pj00.cloudfront.net/openai/templates/6a8adf2f82a6eb8b179de571/0/final/nio_d28dbab0-a785-473b-9d30-364e3cf383cc.jpeg",
+                        "aiResponseId": "gw_994863cdfe3c457d928a7a0d24487295",
+                        "status": "completed"
+                    },
+                    {
+                        "primaryText": "Your workweek is busy enough. Add a berry wellness routine that feels easy to keep, so you can stay consistent without overthinking every day.",
+                        "headline": "Stay Consistent",
+                        "description": "A simple daily ritual",
+                        "imagePrompt": "1. Core Message: Consistency with berry-based wellness should feel simple, practical, and realistic for busy schedules.\n2. Target Persona: Singapore office professionals who want a routine they can maintain across meetings, commuting, and long workdays.\n3. Unique Hook or Visual Twist: Use a clean desk-calendar concept where berry wellness is visually tracked as a satisfying streak.\n4. Visual Metaphor (Optional): A chain of small daily wins represented by repeated berry drink moments.\n5. Design Direction:\n   - Setting and Scene: Bright corporate desk, laptop open, planner, pen, sunlight through office window, tidy modern workspace.\n   - Graphic Elements: Habit tracker marks, calendar pages, bottle or glass of berry wellness, subtle energy-themed light accents.\n   - Props or Symbols: Planner, sticky notes, water bottle, berry juice bottle, smartwatch.\n   - Emotion or Expression: Focused, disciplined, quietly proud.\n   - Color Palette & Mood: Deep berry tones, crisp white, muted gray, premium professional mood.\n6. Layout & Composition:\n   - Layout Type: Top-down or angled desk flat lay with clear negative space for text.\n   - Resolution: 1024×1024, clean and legible.\n7. Audience Matching (Mandatory): Match career-driven Singapore professionals who respond to structure, progress, and practical wellness habits.\n8. Text-on-Image Overlay Requirements:\n   - Headline: \"One Sip at a Time\"\n   - Optional supporting line: \"Make it part of your day\"\n9. Overlay MUST follow all rules:\n   - Avoid repeating the main ad message; instead, frame the idea as a calm, repeatable daily rhythm.\n   - Use a complementary, progress-focused angle with a fresh wording approach.\n10. Overlay Placement & Design Enhancements:\n   - Place text along the lower-left whitespace zone with a soft translucent gradient and no overlap on the bottle or hands.\n   - Use a refined bold sans-serif with subtle texture and clean spacing.\n11. Text Overlay Style & Typography:\n   - Professional, understated, and motivational with a modern productivity aesthetic.",
+                        "imageUrl": "https://d2oi1rqwb0pj00.cloudfront.net/openai/templates/6a8adf2f82a6eb8b179de571/1/final/nio_eeb02f30-3287-453d-8509-078ae7aee1d5.jpeg",
+                        "aiResponseId": "gw_15ba47c567a647a49062cd25a8d353f1",
+                        "status": "completed"
+                    },
+                    {
+                        "primaryText": "When your days are packed, your wellness should still be easy. Discover a berry habit that fits real life and helps you feel more refreshed from morning to night.",
+                        "headline": "Made for Real Life",
+                        "description": "Simple, steady wellness",
+                        "imagePrompt": "1. Core Message: Berry-based wellness can be built into real-world routines, even when life is busy and unpredictable.\n2. Target Persona: Time-starved Singapore professionals balancing work, commuting, family, and social obligations.\n3. Unique Hook or Visual Twist: Show a lifestyle montage feel in one scene: commute bag, desk, gym towel, and berry drink all signaling everyday versatility.\n4. Visual Metaphor (Optional): The berry drink as a companion object that moves smoothly through the day.\n5. Design Direction:\n   - Setting and Scene: Premium lifestyle environment blending office and city commute cues, like a sleek café table or lobby near downtown Singapore.\n   - Graphic Elements: Berry drink, phone, keys, transit card, laptop, subtle motion blur from a fast-paced morning.\n   - Props or Symbols: Leather bag, notebook, earbuds, drink bottle, fresh berries.\n   - Emotion or Expression: Confident, capable, relieved, balanced.\n   - Color Palette & Mood: Rich burgundy, soft blush, warm beige, urban premium wellness tone.\n6. Layout & Composition:\n   - Layout Type: Cinematic lifestyle portrait with clear subject focus and wide safe margins.\n   - Resolution: 1024×1024, clean and legible.\n7. Audience Matching (Mandatory): Match ambitious Singapore professionals who want practical wellness aligned with their demanding daily pace.\n8. Text-on-Image Overlay Requirements:\n   - Headline: \"Wellness That Moves With You\"\n   - Optional supporting line: \"Built for busy schedules\"\n9. Overlay MUST follow all rules:\n   - Use a new angle that emphasizes flexibility and everyday fit without echoing the ad copy.\n   - Keep the overlay subtle and integrated into background whitespace with a soft tonal fade.\n10. Overlay Placement & Design Enhancements:\n   - Position text in the upper-left sky or background space, avoiding faces and main product focus.\n   - Use stylish condensed sans-serif typography with a premium editorial feel and light contrast glow.\n11. Text Overlay Style & Typography:\n   - Sleek, modern, and aspirational, like a luxury productivity brand with wellness cues.",
+                        "imageUrl": "https://d2oi1rqwb0pj00.cloudfront.net/openai/templates/6a8adf2f82a6eb8b179de571/2/final/nio_bb57c5b6-a72f-499f-a569-c4b76cc46d02.jpeg",
+                        "aiResponseId": "gw_551107120bff42acbc238662affb43d7",
+                        "status": "completed"
+                    }
+                ],
+                "adsCompletedCount": 3
+            },
+            "source": "AI_COFOUNDER",
+            "sourceObjectId": "6a8adf27eaff193b36e1353f",
+            "status": "completed",
+            "linkedTemplateObjectIds": [],
+            "createdAt": "2026-08-23T11:53:19.459Z",
+            "updatedAt": "2026-08-23T11:53:44.570Z",
+            "__v": 0
+        }
+    ]
+}
+
+-------------
+
+{
+    "data": [
+        {
+            "_id": "6a8adf2f82a6eb8b179de571",
+            "communityObjectId": "6a446df8991ef98b1e515758",
+            "type": "ads",
+            "isAIGenerated": true,
+            "version": 1,
+            "metadata": {
+                "callId": "call_uw2b3cMtj0YzNbaWurj2KI0P",
+                "aiResponseId": "resp_0d42e92d57dd3242006a8adf30f89c87d0b60592f6f2338729",
+                "ads": [
+                    {
+                        "primaryText": "Busy Singapore days don’t have to derail your wellness. Make berry-based nourishment a simple daily habit and feel more refreshed, focused, and ready to take on the week.",
+                        "headline": "Berry Wellness, Daily",
+                        "description": "Built for packed schedules",
+                        "imagePrompt": "1. Core Message: A daily berry wellness habit can fit into a busy Singapore professional’s routine and support a refreshed, energized feeling.\n2. Target Persona: Busy working professionals in Singapore, office workers, founders, and managers who want simple wellness habits without complicated routines.\n3. Unique Hook or Visual Twist: Show a sleek commuter-to-office lifestyle transition where a berry drink becomes the anchor of a calm morning routine.\n4. Visual Metaphor (Optional): The berry drink as a small reset button for a hectic day.\n5. Design Direction:\n   - Setting and Scene: Modern Singapore apartment kitchen or office desk near a window with bright natural morning light, subtle city skyline in the background.\n   - Graphic Elements: Minimal wellness props, laptop, watch, notebook, phone, fresh berries, condensation on a bottle or glass.\n   - Props or Symbols: Berry drink bottle/glass, tote bag, coffee cup set aside, calendar, clean desk.\n   - Emotion or Expression: Calm, capable, slightly relieved, ready for the day.\n   - Color Palette & Mood: Rich berry reds, soft greens, warm neutrals, clean premium wellness aesthetic.\n6. Layout & Composition:\n   - Layout Type: Lifestyle hero shot with strong subject focus and whitespace for overlay.\n   - Resolution: 1024×1024, clean and legible.\n7. Audience Matching (Mandatory): Match affluent, time-poor Singapore professionals who value convenience, consistency, and natural wellness.\n8. Text-on-Image Overlay Requirements:\n   - Headline: \"Tiny Habit, Big Reset\"\n   - Optional supporting line: \"Built for packed calendars\"\n9. Overlay MUST follow all rules:\n   - Use a fresh angle that complements the ad copy by emphasizing a small daily ritual rather than repeating wording.\n   - Keep text integrated into the scene using a soft gradient fade near empty background space, not covering the face or drink.\n10. Overlay Placement & Design Enhancements:\n   - Place text in the upper-right whitespace area with face-aware positioning and a gentle berry-toned blur behind it for readability.\n   - Use elegant modern sans-serif typography with subtle depth and premium wellness styling.\n11. Text Overlay Style & Typography:\n   - Warm, polished, editorial feel with clean modern font, slight letter spacing, and minimal shadow for contrast while preserving a premium lifestyle look.",
+                        "imageUrl": "https://d2oi1rqwb0pj00.cloudfront.net/openai/templates/6a8adf2f82a6eb8b179de571/0/final/nio_d28dbab0-a785-473b-9d30-364e3cf383cc.jpeg",
+                        "aiResponseId": "gw_994863cdfe3c457d928a7a0d24487295",
+                        "status": "completed"
+                    },
+                    {
+                        "primaryText": "Your workweek is busy enough. Add a berry wellness routine that feels easy to keep, so you can stay consistent without overthinking every day.",
+                        "headline": "Stay Consistent",
+                        "description": "A simple daily ritual",
+                        "imagePrompt": "1. Core Message: Consistency with berry-based wellness should feel simple, practical, and realistic for busy schedules.\n2. Target Persona: Singapore office professionals who want a routine they can maintain across meetings, commuting, and long workdays.\n3. Unique Hook or Visual Twist: Use a clean desk-calendar concept where berry wellness is visually tracked as a satisfying streak.\n4. Visual Metaphor (Optional): A chain of small daily wins represented by repeated berry drink moments.\n5. Design Direction:\n   - Setting and Scene: Bright corporate desk, laptop open, planner, pen, sunlight through office window, tidy modern workspace.\n   - Graphic Elements: Habit tracker marks, calendar pages, bottle or glass of berry wellness, subtle energy-themed light accents.\n   - Props or Symbols: Planner, sticky notes, water bottle, berry juice bottle, smartwatch.\n   - Emotion or Expression: Focused, disciplined, quietly proud.\n   - Color Palette & Mood: Deep berry tones, crisp white, muted gray, premium professional mood.\n6. Layout & Composition:\n   - Layout Type: Top-down or angled desk flat lay with clear negative space for text.\n   - Resolution: 1024×1024, clean and legible.\n7. Audience Matching (Mandatory): Match career-driven Singapore professionals who respond to structure, progress, and practical wellness habits.\n8. Text-on-Image Overlay Requirements:\n   - Headline: \"One Sip at a Time\"\n   - Optional supporting line: \"Make it part of your day\"\n9. Overlay MUST follow all rules:\n   - Avoid repeating the main ad message; instead, frame the idea as a calm, repeatable daily rhythm.\n   - Use a complementary, progress-focused angle with a fresh wording approach.\n10. Overlay Placement & Design Enhancements:\n   - Place text along the lower-left whitespace zone with a soft translucent gradient and no overlap on the bottle or hands.\n   - Use a refined bold sans-serif with subtle texture and clean spacing.\n11. Text Overlay Style & Typography:\n   - Professional, understated, and motivational with a modern productivity aesthetic.",
+                        "imageUrl": "https://d2oi1rqwb0pj00.cloudfront.net/openai/templates/6a8adf2f82a6eb8b179de571/1/final/nio_eeb02f30-3287-453d-8509-078ae7aee1d5.jpeg",
+                        "aiResponseId": "gw_15ba47c567a647a49062cd25a8d353f1",
+                        "status": "completed"
+                    },
+                    {
+                        "primaryText": "When your days are packed, your wellness should still be easy. Discover a berry habit that fits real life and helps you feel more refreshed from morning to night.",
+                        "headline": "Made for Real Life",
+                        "description": "Simple, steady wellness",
+                        "imagePrompt": "1. Core Message: Berry-based wellness can be built into real-world routines, even when life is busy and unpredictable.\n2. Target Persona: Time-starved Singapore professionals balancing work, commuting, family, and social obligations.\n3. Unique Hook or Visual Twist: Show a lifestyle montage feel in one scene: commute bag, desk, gym towel, and berry drink all signaling everyday versatility.\n4. Visual Metaphor (Optional): The berry drink as a companion object that moves smoothly through the day.\n5. Design Direction:\n   - Setting and Scene: Premium lifestyle environment blending office and city commute cues, like a sleek café table or lobby near downtown Singapore.\n   - Graphic Elements: Berry drink, phone, keys, transit card, laptop, subtle motion blur from a fast-paced morning.\n   - Props or Symbols: Leather bag, notebook, earbuds, drink bottle, fresh berries.\n   - Emotion or Expression: Confident, capable, relieved, balanced.\n   - Color Palette & Mood: Rich burgundy, soft blush, warm beige, urban premium wellness tone.\n6. Layout & Composition:\n   - Layout Type: Cinematic lifestyle portrait with clear subject focus and wide safe margins.\n   - Resolution: 1024×1024, clean and legible.\n7. Audience Matching (Mandatory): Match ambitious Singapore professionals who want practical wellness aligned with their demanding daily pace.\n8. Text-on-Image Overlay Requirements:\n   - Headline: \"Wellness That Moves With You\"\n   - Optional supporting line: \"Built for busy schedules\"\n9. Overlay MUST follow all rules:\n   - Use a new angle that emphasizes flexibility and everyday fit without echoing the ad copy.\n   - Keep the overlay subtle and integrated into background whitespace with a soft tonal fade.\n10. Overlay Placement & Design Enhancements:\n   - Position text in the upper-left sky or background space, avoiding faces and main product focus.\n   - Use stylish condensed sans-serif typography with a premium editorial feel and light contrast glow.\n11. Text Overlay Style & Typography:\n   - Sleek, modern, and aspirational, like a luxury productivity brand with wellness cues.",
+                        "imageUrl": "https://d2oi1rqwb0pj00.cloudfront.net/openai/templates/6a8adf2f82a6eb8b179de571/2/final/nio_bb57c5b6-a72f-499f-a569-c4b76cc46d02.jpeg",
+                        "aiResponseId": "gw_551107120bff42acbc238662affb43d7",
+                        "status": "completed"
+                    }
+                ],
+                "adsCompletedCount": 3
+            },
+            "source": "AI_COFOUNDER",
+            "sourceObjectId": "6a8adf27eaff193b36e1353f",
+            "status": "completed",
+            "linkedTemplateObjectIds": [],
+            "createdAt": "2026-08-23T11:53:19.459Z",
+            "updatedAt": "2026-08-23T11:53:44.570Z",
+            "__v": 0
+        }
+    ]
+}
+

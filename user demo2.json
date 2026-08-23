@@ -1,0 +1,116 @@
+{
+    "provider": "byteplus",
+    "assetType": "VIDEO",
+    "goal": "HIGH_CONVERTING_ADS",
+    "customGoal": "",
+    "entityObjectId": "6a44709b4874419f42da07b1",
+    "creativeDirectionId": "",
+    "creativeDirectionPrompt": "",
+    "attachments": [
+        {
+            "name": "nio_1782870167160_ee9f8e21-0a4d-4342-836c-d0ee4b96c6b2_GV",
+            "type": "IMAGE",
+            "url": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782870167160_ee9f8e21-0a4d-4342-836c-d0ee4b96c6b2_GV"
+        }
+    ],
+    "existingAssetObjectId": "6a450ee4f7619c9c30947a1b",
+    "videoSettings": {
+        "orientation": "SQUARE",
+        "resolution": "720p",
+        "fps": "24",
+        "duration": "15"
+    },
+    "styleAssetObjectId": "6a1312f93746dbfb0f5119a5"
+}
+
+-----------------------------
+
+{
+    "data": {
+        "asset": {
+            "_id": "6a450ee4f7619c9c30947a1b",
+            "title": "Relatable premium sip moment",
+            "assetType": "VIDEO",
+            "goal": "HIGH_CONVERTING_ADS",
+            "customGoal": "",
+            "entityObjectId": "6a44709b4874419f42da07b1",
+            "productType": "PHYSICAL_PRODUCT",
+            "status": "draft",
+            "creativeDirectionOptions": [
+                {
+                    "id": "7c9b433c-883f-48ed-b08c-8d8e6fbcd2f1",
+                    "type": "User Demo",
+                    "prompt": "Create an ultra-realistic, fast-paced UGC creator POV-style product video for **Bokbunja Gold Korean Berry Juice** using the attached reference image as the source of truth for the bottle and packaging appearance. Preserve the product’s exact shape, label layout, colors, cap, bottle proportions, and packaging details, but do not copy the reference image’s white background, scene, lighting, surface, props, or composition.\n\nFormat: 15 seconds, vertical 9:16, phone-shot realism, natural handheld creator video.\n\nConcept: a casual creator shares a quick discovery for a richer evening drink / meaningful gift / elevated dinner-table moment. Make it feel like a real person saying, “I was bored of the usual drinks… then I found this.” The hook should be about wanting something more special than a typical juice or bottle to bring to dinner or gift to someone.\n\nScene flow and beats:\n\n1) Hook / Problem (0-3s)\n- Self-shot creator in a real kitchen or dining area, arm-length framing, slight hand shake, direct eye contact.\n- Creator looks mildly frustrated or bored, holding a plain drink or gesturing at a simple dinner setup.\n- Spoken line, casual and natural: **“Okay, I was so tired of the same boring drinks for dinner.”**\n- Quick punch-in on the creator’s face as they say “boring.”\n- Ambient room sound, subtle low-volume TikTok-style music underneath.\n\n2) Product Solution (3-6s)\n- Fast cut to the Bokbunja Gold bottle held in hand and then set on the table beside dinner glasses.\n- Show the bottle clearly, using the reference image for accurate packaging and label details.\n- Creator says: **“Then I tried Bokbunja Gold — and yeah, it instantly felt more special.”**\n- Use a handheld close-up of the bottle, slight reframing, natural window light, premium but unpolished.\n\n3) Real Demo (6-10s)\n- Show a chilled pour into a small glass or over ice in a tumbler.\n- Close-up of the dark berry liquid moving smoothly, condensation on the bottle or glass, creator’s hand entering frame naturally.\n- Show the bottle at the table during a dinner moment, or being prepared as a gift bag / host gift.\n- Include soft ASMR-style pouring sound, glass clink, ice sound, subtle ambient kitchen noise.\n- No exaggerated “health” claims; keep it to taste, presentation, and occasion.\n\n4) Satisfying Result (10-13s)\n- Creator takes a sip, pauses, then reacts with pleased surprise and relief.\n- Short line: **“Wait… this is actually really smooth.”**\n- Show a more elevated table moment: bottle beside a plated meal, warm lights, calm celebratory mood, or a beautiful gift-ready shot with the tube and bottle together.\n- The result should feel like a refined upgrade, not a dramatic transformation.\n\n5) CTA (13-15s)\n- Creator back to camera, casual smile, holding the bottle lightly.\n- Say: **“If you want a nicer drink for dinner or gifting, go check it out.”**\n- End cleanly, no final impact sound, no stinger.\n\nVisual style:\n- Real UGC creator POV, casual and human, slightly imperfect framing.\n- Fast jump cuts and subtle punch-in zooms.\n- Natural home or dining environment in Singapore, warm practical lighting, premium but authentic.\n- Product must remain visually consistent with the reference image across all shots.\n- If using a gift moment, show the product as elegant and premium, but keep it realistic and attainable.\n\nAudio:\n- Natural creator voice, conversational and lightly messy.\n- Subtle background music low in mix, modern soft social-media vibe.\n- Realistic room tone, pour sounds, glass clink, small sip reaction.\n- Clean ending with no abrupt sound effect.\n\nNegative prompt: subtitles, captions, readable text overlays, lower thirds, fake social media UI, polished commercial look, cinematic tripod shots, studio lighting, CGI, extra logos, invented labels, incorrect bottle design, altered packaging, scene copied from reference image, white-background product catalog look, warped hands, broken lip sync, distorted anatomy, product morphing, fake claims, medical/wellness promises, final-second boom or click, abrupt stinger, unreadable text on packaging, overly scripted acting, corporate tone, third-party brand marks, copyrighted characters."
+                }
+            ],
+            "selectedCreativeDirectionId": "7c9b433c-883f-48ed-b08c-8d8e6fbcd2f1",
+            "selectedCreativeDirectionPrompt": "Create an ultra-realistic, fast-paced UGC creator POV-style product video for **Bokbunja Gold Korean Berry Juice** using the attached reference image as the source of truth for the bottle and packaging appearance. Preserve the product’s exact shape, label layout, colors, cap, bottle proportions, and packaging details, but do not copy the reference image’s white background, scene, lighting, surface, props, or composition.\n\nFormat: 15 seconds, vertical 9:16, phone-shot realism, natural handheld creator video.\n\nConcept: a casual creator shares a quick discovery for a richer evening drink / meaningful gift / elevated dinner-table moment. Make it feel like a real person saying, “I was bored of the usual drinks… then I found this.” The hook should be about wanting something more special than a typical juice or bottle to bring to dinner or gift to someone.\n\nScene flow and beats:\n\n1) Hook / Problem (0-3s)\n- Self-shot creator in a real kitchen or dining area, arm-length framing, slight hand shake, direct eye contact.\n- Creator looks mildly frustrated or bored, holding a plain drink or gesturing at a simple dinner setup.\n- Spoken line, casual and natural: **“Okay, I was so tired of the same boring drinks for dinner.”**\n- Quick punch-in on the creator’s face as they say “boring.”\n- Ambient room sound, subtle low-volume TikTok-style music underneath.\n\n2) Product Solution (3-6s)\n- Fast cut to the Bokbunja Gold bottle held in hand and then set on the table beside dinner glasses.\n- Show the bottle clearly, using the reference image for accurate packaging and label details.\n- Creator says: **“Then I tried Bokbunja Gold — and yeah, it instantly felt more special.”**\n- Use a handheld close-up of the bottle, slight reframing, natural window light, premium but unpolished.\n\n3) Real Demo (6-10s)\n- Show a chilled pour into a small glass or over ice in a tumbler.\n- Close-up of the dark berry liquid moving smoothly, condensation on the bottle or glass, creator’s hand entering frame naturally.\n- Show the bottle at the table during a dinner moment, or being prepared as a gift bag / host gift.\n- Include soft ASMR-style pouring sound, glass clink, ice sound, subtle ambient kitchen noise.\n- No exaggerated “health” claims; keep it to taste, presentation, and occasion.\n\n4) Satisfying Result (10-13s)\n- Creator takes a sip, pauses, then reacts with pleased surprise and relief.\n- Short line: **“Wait… this is actually really smooth.”**\n- Show a more elevated table moment: bottle beside a plated meal, warm lights, calm celebratory mood, or a beautiful gift-ready shot with the tube and bottle together.\n- The result should feel like a refined upgrade, not a dramatic transformation.\n\n5) CTA (13-15s)\n- Creator back to camera, casual smile, holding the bottle lightly.\n- Say: **“If you want a nicer drink for dinner or gifting, go check it out.”**\n- End cleanly, no final impact sound, no stinger.\n\nVisual style:\n- Real UGC creator POV, casual and human, slightly imperfect framing.\n- Fast jump cuts and subtle punch-in zooms.\n- Natural home or dining environment in Singapore, warm practical lighting, premium but authentic.\n- Product must remain visually consistent with the reference image across all shots.\n- If using a gift moment, show the product as elegant and premium, but keep it realistic and attainable.\n\nAudio:\n- Natural creator voice, conversational and lightly messy.\n- Subtle background music low in mix, modern soft social-media vibe.\n- Realistic room tone, pour sounds, glass clink, small sip reaction.\n- Clean ending with no abrupt sound effect.\n\nNegative prompt: subtitles, captions, readable text overlays, lower thirds, fake social media UI, polished commercial look, cinematic tripod shots, studio lighting, CGI, extra logos, invented labels, incorrect bottle design, altered packaging, scene copied from reference image, white-background product catalog look, warped hands, broken lip sync, distorted anatomy, product morphing, fake claims, medical/wellness promises, final-second boom or click, abrupt stinger, unreadable text on packaging, overly scripted acting, corporate tone, third-party brand marks, copyrighted characters.",
+            "mainAssetCreativeDirectionPrompt": "Create a luxury problem/solution lifestyle ad for **Schisandra Berries Enzymes 700ml**. Use the attached reference image as the source of truth for the bottle and box design, preserving the deep red bottle, matching red-and-cream packaging, black cap, labels, proportions, and all distinctive branding details exactly as shown. Show the product in a cinematic, high-end wellness moment that suggests calm digestive comfort and refined daily wellness, with the bottle naturally integrated into a premium lifestyle setting rather than floating on a plain background.\n\nThe scene should feel like a luxury editorial advertising photograph: modern wellness, premium travel campaign, Apple-style clarity, calm and sophisticated. Consider a composed kitchen bar, serene breakfast table, or elevated evening wellness ritual in a minimal premium interior. The product should be the hero and remain clearly visible.\n\nUse soft directional natural light, gentle contrast, realistic highlights, and clean shadow falloff. Keep the palette restrained and premium: deep burgundy, warm cream, soft neutrals, muted wood, subtle metallic accents. Add a subtle cinematic dark gradient behind the typography area for readability, blended seamlessly with no visible edges.\n\nComposition should feel minimal, spacious, and intelligently framed, with intentional negative space reserved for typography. Include a thin elegant curved arrow that subtly points directly toward the bottle, connecting the headline area to the product without overpowering the scene.\n\nTypography should closely resemble a premium modern luxury campaign: massive ultra-bold sans-serif headline, thick heavy font weight, strong hierarchy, oversized billboard-style readability. Use this exact on-image text structure:\n- **LIVER-LEVEL**\n- **DAILY RESET**\n- small supporting line: **Naturally fermented Schisandra with no additives, no preservatives, and no artificial colouring.**\n- CTA in a subtle semi-transparent premium text box: **SHOP 700ML**\n\nMake the headline feel powerful, calm, and premium. The CTA box should be understated and expensive, using a muted brand-matched neutral or deep burgundy glass-like tone, not bright gold. Keep the text crisp, clean, and highly readable. Color grade with slightly desaturated cinematic tones, premium contrast, soft atmospheric depth, and elegant wellness sophistication.\n\nNegative prompt: visible discomfort exaggeration, forced expressions, harsh text boxes, visible gradient edges, thick overlays, cartoon arrows, arrows not pointing at the product, loud CTA buttons, cheap ad aesthetics, ecommerce flyer style, cluttered composition, oversaturated colors, busy backgrounds, promotional spam look, low-end marketing style, rigid typography, thin fonts, weak headline hierarchy, harsh contrast.",
+            "attachments": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782870167160_ee9f8e21-0a4d-4342-836c-d0ee4b96c6b2_GV",
+                    "name": "nio_1782870167160_ee9f8e21-0a4d-4342-836c-d0ee4b96c6b2_GV"
+                }
+            ],
+            "version": 1,
+            "createdAt": "2026-07-01T12:58:12.665Z",
+            "updatedAt": "2026-08-23T09:53:17.627Z",
+            "metadata": {
+                "creativeDirectionGeneration": {
+                    "aiResponseId": "resp_0f82d84015a50ffb006a8ac306b39087d0a150188a8a6dd5f2",
+                    "aiModel": "gpt-5.4-mini",
+                    "metadata": {
+                        "input_tokens": 4174,
+                        "input_tokens_details": {
+                            "cache_write_tokens": 0,
+                            "cached_tokens": 1664
+                        },
+                        "output_tokens": 997,
+                        "output_tokens_details": {
+                            "reasoning_tokens": 0
+                        },
+                        "total_tokens": 5171
+                    }
+                }
+            },
+            "videoSettings": {
+                "orientation": "SQUARE",
+                "resolution": "720p",
+                "duration": "15",
+                "fps": "24"
+            },
+            "provider": "byteplus"
+        },
+        "product": {
+            "_id": "6a44709b4874419f42da07b1",
+            "title": "Bokbunja Gold Korean Berry Juice",
+            "slug": "/bokbunja-gold-korean-berry-wine",
+            "type": "PHYSICAL_PRODUCT",
+            "thumbnail": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782870167160_ee9f8e21-0a4d-4342-836c-d0ee4b96c6b2_GV"
+        },
+        "styleAsset": {
+            "_id": "6a1312f93746dbfb0f5119a5",
+            "title": "User Demo",
+            "assetType": "VIDEO",
+            "goal": "Handheld creator videos where a relatable problem becomes a quick product demo, visible result, natural reaction, and casual CTA.",
+            "selectedCreativeDirectionPrompt": "## Style Prompt\n\nCreate an ultra-realistic, fast-paced UGC creator POV-style product video based on the promoted item context and any provided reference image.\n\nThe video must feel filmed by a real person holding their phone themselves: casual, slightly shaky, imperfect, natural, and edited like real social content. It should feel like a creator personally discovered or tried the promoted item and is sharing a quick, believable solution with the viewer.\n\nThe AI must first understand the promoted item:\n- what problem, frustration, desire, or everyday moment it solves\n- who the target audience is\n- what the product, offer, service, or business actually does\n- what real-life demo would prove its value visually\n- what result, before/after difference, or emotional payoff can be shown without unsupported claims\n- what casual CTA would feel natural for this creator\n\nThe video must clearly follow this structure:\n\n1. Hook / Problem\nOpen with a relatable frustration, desire, or everyday situation the target audience immediately understands.\n\n2. Product Solution\nIntroduce the promoted item as the simple fix, discovery, upgrade, or useful thing that addresses the problem.\n\n3. Real Demo\nShow the promoted item being used naturally in real life, or show the real-world experience/service/workflow if the promoted item is digital, service-based, or business-based.\n\n4. Satisfying Result\nShow the before/after difference, instant benefit, visible improvement, emotional relief, smoother workflow, better experience, or audience/customer reaction.\n\n5. Reaction\nInclude a natural reaction like surprise, relief, satisfaction, excitement, confidence, or a quick honest laugh.\n\n6. CTA\nEnd with a clear, casual call to action that sounds like real UGC, not a polished commercial.\n\n━━━━━━━━━━━━━━━━━━━\nDialogue Rules\n━━━━━━━━━━━━━━━━━━━\n\nThe spoken script must clearly include:\n- the problem\n- the promoted item as the solution\n- a simple CTA at the end\n\nDialogue should be short, natural, conversational, and slightly messy, like real UGC. It should not sound polished, corporate, scripted, or like a formal ad read.\n\nExample structure:\n\"Okay, I was so tired of [problem].\"\n\"Then I tried [promoted item].\"\n\"Look at this...\"\n\"Honestly, this actually works.\"\n\"Go check it out.\"\n\nAdapt the exact words to the promoted item and audience. Keep speech easy to say naturally within the timing.\n\n━━━━━━━━━━━━━━━━━━━\nVisual Style\n━━━━━━━━━━━━━━━━━━━\n\nself-shot creator POV,\narm-length framing when the creator is speaking,\ndirect eye contact,\nslight hand shake,\nimperfect framing,\nfast reframing,\nquick punch-ins,\nreal environments such as bedroom, kitchen, bathroom, gym, desk, studio, store aisle, car, street, workspace, event, or home,\nnatural lighting whenever possible,\nphone-shot realism.\n\nUse environment, wardrobe, lighting, color palette, props, and demo setting that fit the promoted item, audience, category, brand palette, and reference image. Do not force a kitchen, grocery store, food demo, or young male creator setup unless it naturally fits the promoted item.\n\nThe creator may appear on camera, but the product, demo, or result should also be shown clearly through handheld inserts, close-ups, over-the-shoulder shots, or quick POV cuts.\n\n━━━━━━━━━━━━━━━━━━━\nProduct / Offer Usage\n━━━━━━━━━━━━━━━━━━━\n\nFor physical products, the product must be shown in hand or in use. Demonstrate naturally and highlight the key difference through action, texture, usage, result, comfort, convenience, taste, fit, setup, transformation, or reaction.\n\nFor digital offers, services, or businesses, do not invent a fake physical product. Show the value through a phone or laptop interaction with non-readable interface details, creator workflow, customer moment, service experience, event moment, before/after routine, community reaction, or symbolic real-world proof.\n\nFor physical products, keep the product accurate to the reference image, including its shape, colors, materials, texture, finish, proportions, packaging structure, and distinctive design details.\n\nDo not add new logos, brand marks, IP characters, copyrighted brand elements, fake app interfaces, fake social-media UI, branding overlays, or end cards. If the reference image contains branding, preserve product identity through safe, product-owned, or non-IP visual details. Do not invent, imitate, or emphasize third-party IP, famous brand marks, or protected characters.\n\n━━━━━━━━━━━━━━━━━━━\nEditing Style\n━━━━━━━━━━━━━━━━━━━\n\nquick jump cuts,\nslight punch-in zooms,\nminimal transitions,\nfast but clear pacing,\ncreator-style reaction cuts,\nphone-edited feel,\nimperfect but understandable continuity.\n\nThe video should move quickly but still make the problem, solution, demo, result, reaction, and CTA clear.\n\n━━━━━━━━━━━━━━━━━━━\nAudio\n━━━━━━━━━━━━━━━━━━━\n\nnatural creator voice,\nreal ambient sounds,\nsubtle background music at low volume,\nsoft TikTok-style music,\nspeech can slightly overlap with reactions and music,\nmusic should support the vibe and never overpower the voice.\n\nThe creator's voice should feel natural, casual, human, slightly messy, and unpolished. Avoid robotic cadence, announcer voice, fake influencer energy, or overly clean studio narration.\n\nEnd cleanly without an abrupt final sound effect.\n\n━━━━━━━━━━━━━━━━━━━\nMood\n━━━━━━━━━━━━━━━━━━━\n\ncasual,\nrelatable,\nreal,\nquick,\nuseful,\nslightly chaotic but clear,\nhonest,\nhuman,\nsocial-media native,\nconversion-oriented without feeling corporate.\n\nAvoid:\ncinematic shots, tripod shots, polished ads, CGI, fake textures, staged acting, overly scripted lines, vague script, missing CTA, loud or overpowering music, fake social-media UI, subtitles, captions, text overlays, branding overlays, end cards, third-party logos, famous brand marks, unsupported claims, unrealistic product demo, distorted product, warped hands, broken lip-sync, robotic dialogue, overproduced lighting, disconnected cuts, random storyline, corporate tone.",
+            "videoSettings": {
+                "orientation": "SQUARE",
+                "resolution": "1K",
+                "dimensions": "1440x1440",
+                "duration": "15"
+            },
+            "videos": [
+                {
+                    "url": "https://dkeexuinpcfb8.cloudfront.net/style/eb994c67-579f-421b-aae1-4b650a50b1fa.mp4",
+                    "thumbnailUrl": "https://dkeexuinpcfb8.cloudfront.net/nasIO/portal/videoAsset/d16be5aa-6da3-4e69-88bf-fd640081e331/0e5c08de-5142-4356-86b1-1446eac13c11/thumbnail.jpg"
+                }
+            ]
+        },
+        "externalProduct": null,
+        "balanceInUsd": {
+            "available": 2570
+        }
+    }
+}

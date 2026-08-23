@@ -1,0 +1,115 @@
+{
+    "provider": "byteplus",
+    "assetType": "VIDEO",
+    "goal": "HIGH_CONVERTING_ADS",
+    "customGoal": "",
+    "entityObjectId": "6a47473304c87ca486d8c170",
+    "creativeDirectionId": "",
+    "creativeDirectionPrompt": "",
+    "attachments": [
+        {
+            "name": "nio_1783056174599_d0246e25-f43f-4653-9296-32a1df3d062f_GV",
+            "type": "IMAGE",
+            "url": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1783056174599_d0246e25-f43f-4653-9296-32a1df3d062f_GV"
+        }
+    ],
+    "existingAssetObjectId": "6a8ab5919ddbef1520eb03ed",
+    "videoSettings": {
+        "orientation": "SQUARE",
+        "resolution": "720p",
+        "fps": "24",
+        "duration": "15"
+    },
+    "styleAssetObjectId": "6a0e07e6114a30985abb28cb"
+}
+
+-------------------------------------------
+{
+    "data": {
+        "asset": {
+            "_id": "6a8ab5919ddbef1520eb03ed",
+            "title": "Premium Berrywell wellness creator review",
+            "assetType": "VIDEO",
+            "goal": "HIGH_CONVERTING_ADS",
+            "customGoal": "",
+            "entityObjectId": "6a47473304c87ca486d8c170",
+            "productType": "PHYSICAL_PRODUCT",
+            "status": "draft",
+            "creativeDirectionOptions": [
+                {
+                    "id": "9cb655af-7bc8-4461-9d97-f243607d873d",
+                    "type": "Creator Review",
+                    "prompt": "Create a cinematic creator-style product video for **Berrywell Gold Black Raspberry Juice** using the provided reference image as the absolute source of truth for the product's appearance. Preserve the exact bottle shape, cap, label layout, gold and burgundy color palette, 700ml packaging, and all visible branding details. Do not change the product design, proportions, label placement, or material finish. Do not copy the reference image's scene, background, lighting, props, surface, or composition; build a new premium creator lifestyle setting around the product.\n\nFormat the video as exactly 5 cinematic scenes within a 15-second runtime, with the creator visibly on camera throughout. The creator should feel calm, premium, and authentic, like a modern Apple-style creator commercial filmed in a cozy wellness/lifestyle space in Singapore. The language should be natural and local, likely English with a light Singaporean tone if it feels organic, but keep it clean and minimal. The tone should be warm, thoughtful, and quietly impressed — never salesy.\n\nMain marketing angle: a refined everyday wellness drink that feels elegant enough for gifting and simple enough for daily serving, with rich black raspberry depth and a premium family-table presence.\n\nScene 1 — Introduction / First Impression\n- Camera: front-facing medium close-up of the creator in soft natural window light, holding the bottle and tube pack near chest height, then a gentle push-in.\n- Action: the creator looks at the product with a small appreciative smile and turns it slightly to catch the label and deep burgundy glass.\n- Dialogue: **\"This one feels really premium.\"**\n- Emotional tone: calm curiosity, first-impression elegance.\n- Lighting: soft warm daylight, shallow depth of field, gentle highlights on the bottle.\n- Audio: soft ambient synth pad, light room tone, no harsh beats.\n\nScene 2 — Product Interaction / Unboxing\n- Camera: over-the-shoulder and handheld close-ups as the creator opens the packaging and lifts out the bottle; include a smooth macro cut of the label and cap.\n- Action: careful unboxing, a natural hand feel of the bottle weight, the creator rotating it slowly to show the deep dark liquid and the gold accents.\n- Dialogue: **\"I like how polished it looks, even before you pour it.\"**\n- Emotional tone: tactile, refined, satisfying.\n- Lighting: creamy side light, realistic reflections, premium shadows.\n- Audio: subtle paper and glass handling sounds under the music.\n\nScene 3 — Product Detail & Experience\n- Camera: macro insert of the label, the berry color through the glass, then a side-profile shot as the creator pours a small serving into a glass; use a slow cinematic tracking move.\n- Action: the creator watches the pour, then brings the glass closer and takes a small sip.\n- Dialogue: **\"The berry taste is deep and smooth — not loud, just nicely balanced.\"**\n- Emotional tone: sensory, confident, clean.\n- Lighting: warm backlight through the liquid, soft specular highlights, elegant contrast.\n- Audio: gentle pour sound, soft ambient music continuing, no exaggerated fizz or impact.\n\nScene 4 — Emotional or Lifestyle Moment\n- Camera: wider lifestyle shot at a beautiful dining table or quiet kitchen corner, with the creator in a relaxed home moment, perhaps placing the bottle near breakfast or a gifting setup; cut to a front-facing smile.\n- Action: the creator casually shares the drink as part of an everyday wellness ritual, either at home before the day starts or during a calm afternoon break.\n- Dialogue: **\"It just fits into the kind of routine I actually want to keep.\"**\n- Emotional tone: comforting, wholesome, everyday elegance.\n- Lighting: golden natural light, soft background blur, a serene premium mood.\n- Audio: airy ambient synths, subtle room ambience, no energetic beat drop.\n\nScene 5 — Product Hero Ending + Final Creator Thought\n- Camera: cinematic hero shot of the bottle and tube pack on a clean table with the creator slightly in frame, then a final slow push-in toward the product; keep the brand clearly visible and recognisable.\n- Action: the creator gives one last calm glance to camera and lightly gestures toward the bottle as it stands centered and elegant.\n- Dialogue: **\"For me, it feels like an easy luxury for everyday wellness.\"**\n- Emotional tone: quietly confident, premium, memorable.\n- Lighting: polished hero lighting with soft glow on the label and glass, rich burgundy and gold tones.\n- Audio: music resolves gently and cleanly with no stinger or hard ending.\n\nStyle and performance notes:\n- The creator must speak naturally with realistic lip-sync, natural blinking, believable hand gestures, and calm facial expressions.\n- Keep product scale consistent and physically accurate at all times.\n- Show the reference product clearly in multiple angles but never distort the label or invent new packaging details.\n- Keep speech concise and natural for a 15-second creator film.\n- Make the whole video feel like a premium lifestyle review, not an influencer ad.\n\nNegative prompt:\n- no subtitles, captions, readable overlays, or floating text\n- no invented claims, certifications, medical promises, ratings, awards, or guarantees\n- no incorrect product design, label changes, missing branding, extra accessories, or altered packaging\n- no copying the reference image's scene, background, lighting, props, surface, or composition\n- no robotic acting, broken lip-sync, warped hands, extra fingers, morphing objects, distorted anatomy, or AI glitches\n- no rushed speech, unnatural pauses, chaotic transitions, shaky footage, or final-second audio hit/stinger\n- no unreadable fake text on labels or screens\n- no product inconsistency across scenes"
+                }
+            ],
+            "selectedCreativeDirectionId": "9cb655af-7bc8-4461-9d97-f243607d873d",
+            "selectedCreativeDirectionPrompt": "Create a cinematic creator-style product video for **Berrywell Gold Black Raspberry Juice** using the provided reference image as the absolute source of truth for the product's appearance. Preserve the exact bottle shape, cap, label layout, gold and burgundy color palette, 700ml packaging, and all visible branding details. Do not change the product design, proportions, label placement, or material finish. Do not copy the reference image's scene, background, lighting, props, surface, or composition; build a new premium creator lifestyle setting around the product.\n\nFormat the video as exactly 5 cinematic scenes within a 15-second runtime, with the creator visibly on camera throughout. The creator should feel calm, premium, and authentic, like a modern Apple-style creator commercial filmed in a cozy wellness/lifestyle space in Singapore. The language should be natural and local, likely English with a light Singaporean tone if it feels organic, but keep it clean and minimal. The tone should be warm, thoughtful, and quietly impressed — never salesy.\n\nMain marketing angle: a refined everyday wellness drink that feels elegant enough for gifting and simple enough for daily serving, with rich black raspberry depth and a premium family-table presence.\n\nScene 1 — Introduction / First Impression\n- Camera: front-facing medium close-up of the creator in soft natural window light, holding the bottle and tube pack near chest height, then a gentle push-in.\n- Action: the creator looks at the product with a small appreciative smile and turns it slightly to catch the label and deep burgundy glass.\n- Dialogue: **\"This one feels really premium.\"**\n- Emotional tone: calm curiosity, first-impression elegance.\n- Lighting: soft warm daylight, shallow depth of field, gentle highlights on the bottle.\n- Audio: soft ambient synth pad, light room tone, no harsh beats.\n\nScene 2 — Product Interaction / Unboxing\n- Camera: over-the-shoulder and handheld close-ups as the creator opens the packaging and lifts out the bottle; include a smooth macro cut of the label and cap.\n- Action: careful unboxing, a natural hand feel of the bottle weight, the creator rotating it slowly to show the deep dark liquid and the gold accents.\n- Dialogue: **\"I like how polished it looks, even before you pour it.\"**\n- Emotional tone: tactile, refined, satisfying.\n- Lighting: creamy side light, realistic reflections, premium shadows.\n- Audio: subtle paper and glass handling sounds under the music.\n\nScene 3 — Product Detail & Experience\n- Camera: macro insert of the label, the berry color through the glass, then a side-profile shot as the creator pours a small serving into a glass; use a slow cinematic tracking move.\n- Action: the creator watches the pour, then brings the glass closer and takes a small sip.\n- Dialogue: **\"The berry taste is deep and smooth — not loud, just nicely balanced.\"**\n- Emotional tone: sensory, confident, clean.\n- Lighting: warm backlight through the liquid, soft specular highlights, elegant contrast.\n- Audio: gentle pour sound, soft ambient music continuing, no exaggerated fizz or impact.\n\nScene 4 — Emotional or Lifestyle Moment\n- Camera: wider lifestyle shot at a beautiful dining table or quiet kitchen corner, with the creator in a relaxed home moment, perhaps placing the bottle near breakfast or a gifting setup; cut to a front-facing smile.\n- Action: the creator casually shares the drink as part of an everyday wellness ritual, either at home before the day starts or during a calm afternoon break.\n- Dialogue: **\"It just fits into the kind of routine I actually want to keep.\"**\n- Emotional tone: comforting, wholesome, everyday elegance.\n- Lighting: golden natural light, soft background blur, a serene premium mood.\n- Audio: airy ambient synths, subtle room ambience, no energetic beat drop.\n\nScene 5 — Product Hero Ending + Final Creator Thought\n- Camera: cinematic hero shot of the bottle and tube pack on a clean table with the creator slightly in frame, then a final slow push-in toward the product; keep the brand clearly visible and recognisable.\n- Action: the creator gives one last calm glance to camera and lightly gestures toward the bottle as it stands centered and elegant.\n- Dialogue: **\"For me, it feels like an easy luxury for everyday wellness.\"**\n- Emotional tone: quietly confident, premium, memorable.\n- Lighting: polished hero lighting with soft glow on the label and glass, rich burgundy and gold tones.\n- Audio: music resolves gently and cleanly with no stinger or hard ending.\n\nStyle and performance notes:\n- The creator must speak naturally with realistic lip-sync, natural blinking, believable hand gestures, and calm facial expressions.\n- Keep product scale consistent and physically accurate at all times.\n- Show the reference product clearly in multiple angles but never distort the label or invent new packaging details.\n- Keep speech concise and natural for a 15-second creator film.\n- Make the whole video feel like a premium lifestyle review, not an influencer ad.\n\nNegative prompt:\n- no subtitles, captions, readable overlays, or floating text\n- no invented claims, certifications, medical promises, ratings, awards, or guarantees\n- no incorrect product design, label changes, missing branding, extra accessories, or altered packaging\n- no copying the reference image's scene, background, lighting, props, surface, or composition\n- no robotic acting, broken lip-sync, warped hands, extra fingers, morphing objects, distorted anatomy, or AI glitches\n- no rushed speech, unnatural pauses, chaotic transitions, shaky footage, or final-second audio hit/stinger\n- no unreadable fake text on labels or screens\n- no product inconsistency across scenes",
+            "mainAssetCreativeDirectionPrompt": "Create an ultra-realistic, fast-paced UGC creator POV-style 15-second product video for **BERRYWELL Black raspberry Juice (700ml)**, using the attached reference image as the source of truth for the product’s appearance. Preserve the bottle shape, dark berry liquid, label placement, cap, and any visible packaging details exactly, but do not copy the reference image’s white background, studio composition, or camera angle. Make it feel like a real person filming on their phone at home in Singapore.\n\nGoal: sell the juice as a simple daily wellness drink with a rich berry taste and an easy routine.\n\nStructure the video like real UGC:\n\n1) Hook / Problem\nOpen with the creator looking into the phone in a kitchen or home dining area, slightly tired and relatable: they’re bored of plain drinks and want something that feels refreshing but still part of a daily routine.\n- Camera: arm-length selfie framing, slight hand shake, natural indoor light.\n- Spoken line: **“Okay, I was so over plain drinks every day…”**\n\n2) Product Solution\nQuick punch-in reveal of the BERRYWELL bottle on a counter, then back to the creator holding it casually.\n- Show the label clearly for a second, but keep it natural and handheld.\n- Spoken line: **“Then I tried this black raspberry juice from Berrywell.”**\n\n3) Real Demo\nShow a believable real-life pour: open the bottle, pour a small amount into a glass, then dilute with cold water or serve chilled over ice. Show the deep dark berry color swirling in the glass.\n- Camera: handheld close-up insert, slight reframing, quick cut back to face reaction.\n- Add natural ambient sounds: bottle cap twist, liquid pour, glass clink.\n- Spoken line: **“You only need a little bit, and it tastes so rich.”**\n\n4) Satisfying Result\nShow the finished drink with ice on the table, creator taking a sip, then a relieved smile and small surprised reaction.\n- Emphasize the refreshed mood and easy daily-use vibe, not medical claims.\n- Spoken line: **“It’s actually really nice chilled — like, super easy to keep in my routine.”**\n\n5) Reaction\nCreator gives a quick honest laugh or nod, holding the glass in frame.\n- Spoken line: **“Okay wait… this is kind of my new go-to.”**\n\n6) CTA\nEnd with creator pointing gently toward the bottle on the table, still in casual selfie POV.\n- Spoken line: **“If you want a simple berry drink, go check out Berrywell.”**\n\nVisual direction:\n- self-shot creator POV, casual home environment, phone-shot realism\n- slight shake, imperfect framing, quick punch-ins, fast but clear pacing\n- product shown in hand, on counter, and in poured glass\n- keep product accurate to the reference image across all shots\n- use natural colors: deep berry reds, dark plum tones, soft kitchen neutrals\n- no polished ad look, no cinematic lighting, no tripod feel\n\nEditing and pacing:\n- quick jump cuts every 1–3 seconds\n- one or two punch-in zooms on the bottle and poured drink\n- minimal transitions, creator-style cut rhythm\n- maintain a believable real-life UGC pace\n\nAudio:\n- natural female or male creator voice, casual and unpolished\n- light ambient room tone, soft TikTok-style background music low in the mix\n- bottle cap twist, pour sound, ice clink, light sip sound\n- voice should stay clearly audible and conversational\n- end cleanly without a final sound hit\n\nImportant product details to naturally imply visually, without reading them aloud:\n- 700ml bottle\n- black raspberry / bokbunja juice\n- premium Korean product\n- daily drinking vibe\n- serve chilled or diluted\n- rich berry color and taste\n\nNegative prompt:\nNo subtitles, captions, readable text overlays, end cards, fake social media UI, polished commercial look, cinematic shots, tripod shots, CGI, fake textures, staged acting, overproduced lighting, exaggerated enthusiasm, unsupported health or medical claims, invented certifications, invented awards, distorted bottle shape, wrong label, wrong cap, incorrect packaging, product inconsistency between shots, copied white studio background from the reference image, copied composition from the reference image, additional brand logos, third-party brand marks, warped hands, broken lip-sync, unreadable text, morphing objects, final-second boom or stinger.",
+            "attachments": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1783056174599_d0246e25-f43f-4653-9296-32a1df3d062f_GV",
+                    "name": "nio_1783056174599_d0246e25-f43f-4653-9296-32a1df3d062f_GV"
+                }
+            ],
+            "version": 1,
+            "createdAt": "2026-08-23T08:55:45.935Z",
+            "updatedAt": "2026-08-23T09:13:45.453Z",
+            "metadata": {
+                "creativeDirectionGeneration": {
+                    "aiResponseId": "resp_0cd53ddf0705cf19006a8ab9c1068887d0826558eb1e96420d",
+                    "aiModel": "gpt-5.4-mini",
+                    "metadata": {
+                        "input_tokens": 4968,
+                        "input_tokens_details": {
+                            "cache_write_tokens": 0,
+                            "cached_tokens": 0
+                        },
+                        "output_tokens": 1251,
+                        "output_tokens_details": {
+                            "reasoning_tokens": 0
+                        },
+                        "total_tokens": 6219
+                    }
+                }
+            },
+            "videoSettings": {
+                "orientation": "SQUARE",
+                "resolution": "720p",
+                "duration": "15",
+                "fps": "24"
+            },
+            "provider": "byteplus"
+        },
+        "product": {
+            "_id": "6a47473304c87ca486d8c170",
+            "title": "Berrywell Gold Black Raspberry Juice",
+            "slug": "/berrywell-black-raspberry-juice-gold",
+            "type": "PHYSICAL_PRODUCT",
+            "thumbnail": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1783056174599_d0246e25-f43f-4653-9296-32a1df3d062f_GV"
+        },
+        "styleAsset": {
+            "_id": "6a0e07e6114a30985abb28cb",
+            "title": "Creator Review",
+            "assetType": "VIDEO",
+            "goal": "Human-led product videos where trust, usage, and lifestyle fit matter.",
+            "selectedCreativeDirectionPrompt": "",
+            "videoSettings": {
+                "orientation": "SQUARE",
+                "resolution": "1K",
+                "dimensions": "1440x1440",
+                "duration": "15"
+            },
+            "videos": [
+                {
+                    "url": "https://dkeexuinpcfb8.cloudfront.net/style/ea62d49b-9aba-44d8-8633-54693efd5a9f.mp4",
+                    "thumbnailUrl": "https://dkeexuinpcfb8.cloudfront.net/nasIO/portal/videoAsset/ac3da808-888e-4942-aa3c-b844fd7d7ffb/8219820a-de0c-42ec-b3a1-a1e650f25c15/thumbnail.jpg"
+                }
+            ]
+        },
+        "externalProduct": null,
+        "balanceInUsd": {
+            "available": 2522
+        }
+    }
+}

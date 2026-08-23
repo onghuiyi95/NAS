@@ -1,0 +1,111 @@
+{
+    "provider": "byteplus",
+    "assetType": "IMAGE",
+    "goal": "HIGH_CONVERTING_ADS",
+    "customGoal": "",
+    "entityObjectId": "6a462e7f856341047b9e6a1f",
+    "creativeDirectionId": "",
+    "creativeDirectionPrompt": "",
+    "attachments": [
+        {
+            "name": "nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV",
+            "type": "IMAGE",
+            "url": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV"
+        }
+    ],
+    "existingAssetObjectId": null,
+    "imageSettings": {
+        "aspectRatio": "1:1",
+        "resolution": "1K",
+        "quality": "NORMAL"
+    },
+    "styleAssetObjectId": "6a1334ba6518d10c86b43581"
+}
+
+-----------------------
+
+{
+    "data": {
+        "asset": {
+            "_id": "6a8ad63182a6eb8b179d3a15",
+            "title": "Retro berry juice VHS ad",
+            "assetType": "IMAGE",
+            "goal": "HIGH_CONVERTING_ADS",
+            "customGoal": "",
+            "entityObjectId": "6a462e7f856341047b9e6a1f",
+            "productType": "PHYSICAL_PRODUCT",
+            "status": "draft",
+            "creativeDirectionOptions": [
+                {
+                    "id": "8dd951a1-c0ba-46f9-8438-29d3e0c2dd1e",
+                    "type": "Retro VHS Commercial Poster",
+                    "prompt": "Create a premium retro VHS-style advertisement poster for **Berrywell Black Raspberry Gold 700ml**, a rich black raspberry juice from Singapore. Use the attached reference image as the source of truth for the product’s bottle, tube packaging, labels, colors, proportions, and branding details; keep the product visually recognizable and do not redesign the packaging.\n\nMake it feel like a lost 1993 late-night TV commercial screenshot for a wholesome premium fruit drink: nostalgic, cinematic, funny, iconic, and intentionally outdated in a stylish way. Place the product heroically in the center as the main subject, with the bottle and matching tube packaging clearly visible. Surround it with retro berry storytelling: scattered black raspberries, a few leaves, a warm tabletop, soft studio props, and a subtle old-school home-commercial vibe that suggests gifting, sharing, and chilled refreshment.\n\nUse authentic VHS treatment throughout: analog grain, scan lines, tape noise, slight ghosting, chromatic aberration, faded contrast, soft blur, retro glow, old CRT bloom, and gently washed warm colors. Keep it premium and readable, not destroyed or chaotic.\n\nAt the top, use massive bold retro typography with the exact title **BERRYWELL BLACK RASPBERRY GOLD**. Below it, add a short slogan: **Rich Berry Taste. Smooth Golden Finish.**\n\nAt the bottom, place a bright retro-shaped CTA box with the exact offer text: **JOIN THE FAMILY TABLE — FROM SGD 93** and smaller supporting line **BUY 4 GET 1 FREE**. Make the pricing feel like a vintage infomercial offer badge, bold and highly readable. Use retro pink, faded cyan, muted yellow, vintage orange, analog purple, and washed teal accents.\n\nComposition should feel like a polished retro commercial poster with strong hierarchy, premium nostalgic lighting, and a playful old-TV atmosphere. No modern minimalist design, no neon cyberpunk, no sleek digital UI, no cluttered layout, no extra text beyond the specified copy."
+                }
+            ],
+            "selectedCreativeDirectionId": "8dd951a1-c0ba-46f9-8438-29d3e0c2dd1e",
+            "selectedCreativeDirectionPrompt": "Create a premium retro VHS-style advertisement poster for **Berrywell Black Raspberry Gold 700ml**, a rich black raspberry juice from Singapore. Use the attached reference image as the source of truth for the product’s bottle, tube packaging, labels, colors, proportions, and branding details; keep the product visually recognizable and do not redesign the packaging.\n\nMake it feel like a lost 1993 late-night TV commercial screenshot for a wholesome premium fruit drink: nostalgic, cinematic, funny, iconic, and intentionally outdated in a stylish way. Place the product heroically in the center as the main subject, with the bottle and matching tube packaging clearly visible. Surround it with retro berry storytelling: scattered black raspberries, a few leaves, a warm tabletop, soft studio props, and a subtle old-school home-commercial vibe that suggests gifting, sharing, and chilled refreshment.\n\nUse authentic VHS treatment throughout: analog grain, scan lines, tape noise, slight ghosting, chromatic aberration, faded contrast, soft blur, retro glow, old CRT bloom, and gently washed warm colors. Keep it premium and readable, not destroyed or chaotic.\n\nAt the top, use massive bold retro typography with the exact title **BERRYWELL BLACK RASPBERRY GOLD**. Below it, add a short slogan: **Rich Berry Taste. Smooth Golden Finish.**\n\nAt the bottom, place a bright retro-shaped CTA box with the exact offer text: **JOIN THE FAMILY TABLE — FROM SGD 93** and smaller supporting line **BUY 4 GET 1 FREE**. Make the pricing feel like a vintage infomercial offer badge, bold and highly readable. Use retro pink, faded cyan, muted yellow, vintage orange, analog purple, and washed teal accents.\n\nComposition should feel like a polished retro commercial poster with strong hierarchy, premium nostalgic lighting, and a playful old-TV atmosphere. No modern minimalist design, no neon cyberpunk, no sleek digital UI, no cluttered layout, no extra text beyond the specified copy.",
+            "mainAssetCreativeDirectionPrompt": "Create a premium retro VHS-style advertisement poster for **Berrywell Black Raspberry Gold 700ml**, a rich black raspberry juice from Singapore. Use the attached reference image as the source of truth for the product’s bottle, tube packaging, labels, colors, proportions, and branding details; keep the product visually recognizable and do not redesign the packaging.\n\nMake it feel like a lost 1993 late-night TV commercial screenshot for a wholesome premium fruit drink: nostalgic, cinematic, funny, iconic, and intentionally outdated in a stylish way. Place the product heroically in the center as the main subject, with the bottle and matching tube packaging clearly visible. Surround it with retro berry storytelling: scattered black raspberries, a few leaves, a warm tabletop, soft studio props, and a subtle old-school home-commercial vibe that suggests gifting, sharing, and chilled refreshment.\n\nUse authentic VHS treatment throughout: analog grain, scan lines, tape noise, slight ghosting, chromatic aberration, faded contrast, soft blur, retro glow, old CRT bloom, and gently washed warm colors. Keep it premium and readable, not destroyed or chaotic.\n\nAt the top, use massive bold retro typography with the exact title **BERRYWELL BLACK RASPBERRY GOLD**. Below it, add a short slogan: **Rich Berry Taste. Smooth Golden Finish.**\n\nAt the bottom, place a bright retro-shaped CTA box with the exact offer text: **JOIN THE FAMILY TABLE — FROM SGD 93** and smaller supporting line **BUY 4 GET 1 FREE**. Make the pricing feel like a vintage infomercial offer badge, bold and highly readable. Use retro pink, faded cyan, muted yellow, vintage orange, analog purple, and washed teal accents.\n\nComposition should feel like a polished retro commercial poster with strong hierarchy, premium nostalgic lighting, and a playful old-TV atmosphere. No modern minimalist design, no neon cyberpunk, no sleek digital UI, no cluttered layout, no extra text beyond the specified copy.",
+            "attachments": [
+                {
+                    "type": "IMAGE",
+                    "url": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV",
+                    "name": "nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV"
+                }
+            ],
+            "version": 1,
+            "createdAt": "2026-08-23T11:14:57.076Z",
+            "updatedAt": "2026-08-23T11:14:57.076Z",
+            "metadata": {
+                "creativeDirectionGeneration": {
+                    "aiResponseId": "resp_031c5494656fa10e006a8ad62d65d487d0b47b0d8846257db9",
+                    "aiModel": "gpt-5.4-mini",
+                    "metadata": {
+                        "input_tokens": 5774,
+                        "input_tokens_details": {
+                            "cache_write_tokens": 0,
+                            "cached_tokens": 5248
+                        },
+                        "output_tokens": 452,
+                        "output_tokens_details": {
+                            "reasoning_tokens": 0
+                        },
+                        "total_tokens": 6226
+                    }
+                }
+            },
+            "imageSettings": {
+                "aspectRatio": "1:1",
+                "resolution": "1K",
+                "quality": "NORMAL"
+            },
+            "provider": "openai"
+        },
+        "product": {
+            "_id": "6a462e7f856341047b9e6a1f",
+            "title": "Berrywell Black Raspberry Gold 700ml",
+            "slug": "/berrywell-black-raspberry-gold-700ml",
+            "type": "PHYSICAL_PRODUCT",
+            "thumbnail": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV"
+        },
+        "styleAsset": {
+            "_id": "6a1334ba6518d10c86b43581",
+            "title": "Retro",
+            "assetType": "IMAGE",
+            "goal": "For retro style ads with vintage commercial energy.",
+            "selectedCreativeDirectionPrompt": "## Style Prompt\n\nCreate a premium retro VHS-style advertisement poster for a digital product using authentic nostalgic 80s/90s commercial aesthetics.\n\nAnalyze the provided digital product, screenshots, branding assets, thumbnails, mockups, event graphics, reference images, UI, landing pages, or uploaded visual materials, then automatically generate a cinematic retro VHS-inspired advertisement that feels:\n- nostalgic\n- retro\n- funny\n- cinematic\n- visually iconic\n- vintage-commercial inspired\n- intentionally outdated in a stylish way\n\nThe final image should feel like:\n- a lost 1993 VHS commercial\n- a retro infomercial screenshot\n- a vintage late-night TV advertisement\n- an old educational VHS tape cover\n- a nostalgic retro startup ad from another universe\n\nThe visual style should work across:\n- events\n- challenges\n- digital files or courses\n- sessions\n- business pages\n- creator products\n- educational products\n- workshops\n- coaching\n- creative communities\n- webinars\n- startup services\n\n⸻\n\n### VHS Style & Retro Aesthetic\n\nThe entire image should feel like:\n- recorded on VHS tape\n- captured from an old CRT television\n- paused from a retro infomercial\n- scanned from a worn-out videotape\n\nApply:\n- VHS texture\n- analog distortion\n- chromatic aberration\n- scan lines\n- tape noise\n- soft blur\n- slight ghosting\n- retro glow\n- faded contrast\n- old-TV bloom\n- washed retro colors\n- analog grain\n- subtle static interference\n\nImportant:\n- Keep the VHS effect premium and cinematic.\n- Not overly destroyed or unreadable.\n- Not hyper-saturated neon chaos.\n- The image should still feel visually polished and intentional.\n\nThe colors should feel:\n- slightly faded\n- retro warm\n- analog\n- nostalgic\n- soft but vibrant\n\n⸻\n\n### Digital Product Analysis\n\nBefore generating the ad, deeply analyze the digital product.\n\nUnderstand:\n- what type of digital product it is\n- what nostalgic visual world fits it\n- what retro background props make sense\n- what old-school commercial aesthetic matches the niche\n- what humorous vintage visual storytelling can support it\n\nIntelligently determine whether it is an event, challenge, PDF, course, coaching session, creator product, business page, webinar, startup service, community, or another digital offer.\n\nThen automatically create:\n- a matching retro environment\n- nostalgic product-related props\n- vintage storytelling elements\n- retro commercial aesthetics\n- VHS-era visual references\n\n⸻\n\n### Human Reference Integration\n\nIf the user provides a human image reference, carefully analyze and preserve all visible details of the person.\n\nPreserve:\n- facial structure\n- face shape\n- smile\n- hairstyle\n- hair texture\n- beard or mustache details\n- eyebrows\n- eye shape\n- skin tone\n- facial proportions\n- body proportions\n- recognizable identity\n- overall vibe and personality\n\nThe person should appear:\n- smiling\n- looking directly at the camera\n- charismatic and approachable\n- happy and confident\n- naturally expressive\n\nTransform them into a cinematic retro VHS-commercial character.\n\nIntelligently decide:\n- outfit styling\n- accessories\n- hairstyle styling\n- retro fashion direction\n\nBase those choices on what the digital product is selling.\n\nExamples:\n- finance course: retro power suit or 90s businessperson\n- yoga session: vintage aerobics outfit\n- editing course: retro creator studio fashion\n- magic course: retro magician styling\n- design event: artsy 90s creative fashion\n- webinar: vintage office presenter aesthetic\n\nImportant:\n- The styling should always match the product category.\n- The character should feel believable inside the VHS world.\n- Not cosplay or parody.\n- Not creepy realism.\n- Not childish cartooning.\n\nThe result should resemble:\n- a real 90s infomercial personality\n- a VHS commercial host\n- an old educational TV presenter\n- a retro startup spokesperson\n\n⸻\n\n### Retro Background Logic\n\nThe background should always connect to the product category.\n\nExamples:\n- PDF or writing product: vintage typewriter, old office desk, floppy disks\n- creative event: old CRT television showing event graphics\n- editing course: retro editing studio with VHS monitors\n- finance session: old stock-market TV graphics, vintage office\n- yoga session: retro aerobics/yoga outfits and VHS workout-room vibe\n- AI tool: weird retro-futuristic 90s tech aesthetic\n- webinar: old desktop computer and CRT setup\n- creator product: retro recording studio\n- online challenge: vintage game-show aesthetic\n- business page: old corporate training VHS environment\n\nImportant:\n- The retro props should support the composition.\n- They should not overpower it.\n- They should not clutter the frame.\n- The background should remain readable and balanced.\n\n⸻\n\n### Typography Layout\n\nAt the top of the image, place the digital product name in massive bold retro typography.\n\nUse:\n- retro VHS fonts\n- 80s/90s commercial typography\n- bold condensed lettering\n- arcade-inspired type\n- CRT-era text styling\n- vintage educational-video aesthetics\n\nThe product title should feel:\n- loud\n- nostalgic\n- instantly readable\n- like a real VHS tape cover\n\nExamples of vibe:\n- MAGIC MASTERCLASS\n- CREATOR BOOTCAMP\n- DESIGNERS NIGHT\n- AI EDITING COURSE\n\nBelow it, add one short retro-style slogan.\n\nExamples of vibe:\n- Learn Tricks Fast.\n- Upgrade Your Workflow.\n- Build Smarter Habits.\n- Creativity Starts Here.\n- The Internet Wasn't Ready.\n\nImportant:\n- The product name should always be much bigger than the slogan.\n\n⸻\n\n### CTA + Price Section\n\nAt the bottom, include:\n- short CTA\n- pricing when provided or reasonably assumed\n- urgency or callout text when appropriate\n\nIf price, urgency, or availability is not provided, use a conservative generic CTA or offer line instead. Bold any assumed value or assumed copy in the final prompt so the user can quickly notice and edit it.\n\nExamples:\n- JOIN NOW / $19\n- LIMITED SPOTS / $29\n- START TODAY / $49\n- ONLY THIS WEEK / $9\n\nThe CTA section should appear inside a bright retro-shaped text box.\n\nUse:\n- retro geometric boxes\n- rounded VHS-style shapes\n- retro infomercial graphics\n- colorful but tasteful vintage UI shapes\n- nostalgic 90s commercial aesthetics\n\nPreferred colors:\n- retro pink\n- faded cyan\n- muted yellow\n- vintage orange\n- analog purple\n- washed teal\n\nImportant:\n- Keep the colors retro, not neon cyberpunk.\n- Slightly faded and VHS-softened.\n- Not oversaturated TikTok aesthetics.\n\nTypography inside the CTA section should feel:\n- bold\n- retro\n- playful\n- highly readable\n\n⸻\n\n### Visual Style & Composition\n\nThe composition should feel:\n- cinematic\n- nostalgic\n- balanced\n- retro-commercial inspired\n- funny but premium\n- intentionally outdated\n- visually iconic\n\nUse:\n- old TV framing\n- retro props\n- VHS overlays\n- CRT monitor glow\n- analog color grading\n- nostalgic lighting\n- retro composition techniques\n\nThe layout should contain:\n- big retro title\n- smaller slogan\n- retro background storytelling\n- nostalgic visual props\n- human character if reference exists\n- bottom CTA + pricing box\n- strong hierarchy\n- cinematic VHS atmosphere\n\n⸻\n\n### Lighting & Rendering\n\nUse:\n- retro TV glow\n- analog lighting\n- old studio-commercial lighting\n- faded bloom\n- VHS reflections\n- cinematic nostalgic shadows\n- warm tape-style grading\n- soft CRT highlights\n\nEverything should feel nostalgic, retro, cinematic, funny, and premium.\n\n⸻\n\n### Final Aesthetic\n\nThe final result should feel like:\n- a real VHS commercial screenshot\n- a lost retro startup advertisement\n- an old educational infomercial\n- a weirdly premium 90s TV ad\n- a nostalgic VHS-era promo poster\n\nThe viewer should think: \"This looks like a real vintage VHS commercial.\"\n\n⸻\n\n🚫 Negative Prompt: modern minimalist ads, ultra-sharp rendering, clean digital perfection, TikTok aesthetics, neon cyberpunk colors, oversaturated palettes, modern UI design, sleek Apple aesthetics, futuristic sci-fi visuals, cluttered compositions, meme chaos, low-quality typography, ugly retro fonts, random stickers, distorted anatomy, low-effort VHS filters, fake nostalgia, noisy unreadable visuals, chaotic layouts, modern influencer aesthetics, flat Canva layouts, hyper-clean gradients.",
+            "imageSettings": {
+                "aspectRatio": "1:1",
+                "resolution": "1K"
+            },
+            "images": [
+                {
+                    "url": "https://d2oi1rqwb0pj00.cloudfront.net/style/ea6f007a-bb7d-4f30-9fde-4937d64cd941.jpeg"
+                }
+            ]
+        },
+        "externalProduct": null,
+        "balanceInUsd": {
+            "available": 2292
+        }
+    }
+}

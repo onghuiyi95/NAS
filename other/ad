@@ -1,0 +1,68 @@
+{
+    "mediaUrls": [
+        "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV"
+    ],
+    "adFormat": "SINGLE_IMAGE",
+    "descriptions": [
+        ""
+    ],
+    "primaryTexts": [
+        "Join the Sunnychoice's Business Community today!"
+    ],
+    "adName": "Ad 1",
+    "headlines": [
+        "Berrywell Black Raspberry Gold 700ml"
+    ],
+    "isAiGenerated": true,
+    "campaignId": "6a8ae2269ddbef1520eda920",
+    "coverMediaItems": [
+        {
+            "imgSrc": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV",
+            "mediaType": "image"
+        }
+    ]
+}
+
+-------------------
+{
+    "data": {
+        "adName": "Ad 1",
+        "adSetId": "6a8ae2279ddbef1520eda922",
+        "campaignId": "6a8ae2269ddbef1520eda920",
+        "variantNumber": 1,
+        "adFormat": "SINGLE_IMAGE",
+        "status": "DRAFT",
+        "primaryTexts": [
+            "Discover Berrywell Black Raspberry Gold 700ml, a rich berry spirit with a smooth golden finish—perfect for mixing, sharing, and celebrating."
+        ],
+        "headlines": [
+            "Berrywell Black Raspberry Gold"
+        ],
+        "descriptions": [
+            "Rich berry, smooth finish"
+        ],
+        "linkUrls": [
+            "https://nas.com/berrywell-black-raspberry-juice-700ml/physical-products/berrywell-black-raspberry-gold-700ml"
+        ],
+        "mediaUrls": [
+            "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV"
+        ],
+        "createdByLearnerObjectId": "6a446d48ddbd740f53cb5948",
+        "allTimeDailyAdInsights": [],
+        "communityObjectId": "6a446df8991ef98b1e515758",
+        "templateLibraryId": null,
+        "assetObjectId": null,
+        "coverMediaItems": [
+            {
+                "index": 0,
+                "mediaType": "image",
+                "imgSrc": "https://d2oi1rqwb0pj00.cloudfront.net/community-images/physical_product/common/nio_1782984313904_7f874196-78ab-4771-b935-bc745a0bc4e1_GV"
+            }
+        ],
+        "_id": "6a8ae229eaff193b36e1655e",
+        "videoInfo": [],
+        "createdAt": "2026-08-23T12:06:01.365Z",
+        "updatedAt": "2026-08-23T12:06:01.365Z",
+        "__v": 0
+    }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "learnerObjectId": "6a3e9ef2ce3ec894ed29c386",
+    "isSubscriber": false,
+    "isPaymentFailed": false,
+    "canChangePaymentMethod": false,
+    "canChangeTier": true,
+    "canChangePlan": true,
+    "canCancelPlan": false,
+    "canRevokeCancellation": false,
+    "canRevokeTierChange": false,
+    "canRevokePlanChange": false,
+    "billingHistory": [
+      {
+        "interval": "year",
+        "intervalCount": 1,
+        "isRenewalPayment": false,
+        "invoiceDate": "2026-07-19T06:53:02.000Z",
+        "description": "PLATINUM Subscription paid",
+        "key": "plan-billing-history-subscription-platinum-year-1",
+        "paymentMethod": "card",
+        "cardBrand": "visa",
+        "cardLast4": "8934",
+        "totalPaidCreditAmount": 0,
+        "originalAmount": 79900,
+        "amount": 0,
+        "currency": "USD",
+        "applyDiscount": true,
+        "discountDetails": {
+          "rewardType": "FREE_TRIAL",
+          "freeTrialConfig": {
+            "duration": 30,
+            "durationUnit": "DAYS"
+          },
+          "discountCode": "IMBACKV3",
+          "discountObjectId": "69f0e53b66a9bbfd0154bf15",
+          "appliedAt": "2026-07-19T06:52:55.017Z"
+        },
+        "transactionObjectId": "6a5c74529ba102bdbe56afb0",
+        "planOrderObjectId": "6a5c73fce5daf0fb236e2646",
+        "applyFreeTrial": true,
+        "freeTrialDays": 30,
+        "trialPrice": {
+          "amount": 0,
+          "trialType": "freeTrial"
+        },
+        "canGenerateReceipt": true
+      },
+      {
+        "interval": "year",
+        "intervalCount": 1,
+        "isRenewalPayment": false,
+        "invoiceDate": "2026-06-30T11:44:59.000Z",
+        "description": "PRO Subscription paid",
+        "key": "plan-billing-history-subscription-pro-year-1",
+        "paymentMethod": "card",
+        "cardBrand": "mastercard",
+        "cardLast4": "8847",
+        "totalPaidCreditAmount": 0,
+        "originalAmount": 27000,
+        "amount": 0,
+        "currency": "SGD",
+        "applyDiscount": true,
+        "discountDetails": {
+          "rewardType": "FREE_TRIAL",
+          "freeTrialConfig": {
+            "duration": 7,
+            "durationUnit": "DAYS"
+          },
+          "discountCode": "JUNESG",
+          "discountObjectId": "6a26ebd37847f66de75ba447",
+          "appliedAt": "2026-06-30T11:44:45.147Z"
+        },
+        "transactionObjectId": "6a43ac44d376462fd873097d",
+        "planOrderObjectId": "6a43ac23136498dac691aa90",
+        "applyFreeTrial": true,
+        "freeTrialDays": 7,
+        "trialPrice": {
+          "amount": 0,
+          "trialType": "freeTrial"
+        },
+        "canGenerateReceipt": true
+      }
+    ],
+    "isAdhoc": false,
+    "aiSchoolCommunity": {
+      "_id": "6836be3f04fa71edb93fac0b",
+      "link": "/marketingschool",
+      "title": "Marketing School by Nas.com",
+      "_version": 104544
+    }
+  }
+}
+
+----------------------
+{
+  "data": {
+    "referrer": {
+      "title": "3ltdzm5bgv",
+      "link": "/3ltdzm5bgv",
+      "profileImage": "https://d2oi1rqwb0pj00.cloudfront.net/nasIO/onboarding/jpg/default-community-logo-orange.jpg",
+      "communityObjectId": "67ae73b3c3d0413a4942633f",
+      "referralRewardTemplateObjectId": "69df0f7422d7b1428209fcc9",
+      "communityReferralCode": "3LTDZM5BGV"
+    },
+    "planOrderObjectId": "6adf723a1a77fb202d0aee16",
+    "planObjectId": "69df0f65d09696cf9af75f8a",
+    "learnerObjectId": "6adf723751a36fd5b8f1b8f1",
+    "paymentProviderSubscriptionId": "sub_1UUpsqGZrwG9MfzHHdXtnkcT",
+    "interval": "year",
+    "intervalCount": 1,
+    "nextBillingDate": "2026-11-02T15:32:24.000Z",
+    "paymentProvider": "stripe-us",
+    "status": "current",
+    "amount": 0,
+    "currency": "USD",
+    "paymentDetails": {
+      "completedPayment": true,
+      "status": "success",
+      "latestUpdatedTime": "2026-10-26T15:32:25.000Z",
+      "paymentProvider": "stripe-us",
+      "recurringPurchase": true,
+      "requestId": "726a2b40-d152-11f1-82ec-ab94783df43f",
+      "renewalAmount": 79900
+    },
+    "billingCycle": 1,
+    "currentPaymentMethod": {
+      "cardBrand": "visa",
+      "cardLast4": "8934"
+    },
+    "isSubscriber": true,
+    "canChangeTier": true,
+    "canChangePlan": true,
+    "canChangePaymentMethod": true,
+    "canCancelPlan": true,
+    "canRevokeCancellation": false,
+    "canRevokeTierChange": false,
+    "canRevokePlanChange": false,
+    "billingHistory": [
+      {
+        "interval": "year",
+        "intervalCount": 1,
+        "isRenewalPayment": false,
+        "invoiceDate": "2026-10-26T15:32:25.000Z",
+        "description": "PLATINUM Subscription paid",
+        "key": "plan-billing-history-subscription-platinum-year-1",
+        "paymentMethod": "card",
+        "cardBrand": "visa",
+        "cardLast4": "8934",
+        "totalPaidCreditAmount": 0,
+        "originalAmount": 79900,
+        "amount": 0,
+        "currency": "USD",
+        "applyDiscount": true,
+        "discountDetails": {
+          "rewardType": "FREE_TRIAL",
+          "freeTrialConfig": {
+            "duration": 7,
+            "durationUnit": "DAYS"
+          },
+          "discountCode": "CONTENT30",
+          "discountObjectId": "6a15b4bb1fdd7260348922c0",
+          "appliedAt": "2026-10-26T15:32:18.377Z"
+        },
+        "transactionObjectId": "6adf728e7fae9bd967cf71d4",
+        "planOrderObjectId": "6adf723a1a77fb202d0aee16",
+        "applyFreeTrial": true,
+        "freeTrialDays": 7,
+        "trialPrice": {
+          "amount": 0,
+          "trialType": "freeTrial"
+        },
+        "canGenerateReceipt": true
+      }
+    ],
+    "planHistory": [],
+    "isPaymentFailed": false,
+    "phoneNumber": "+6580120302",
+    "aiSchoolCommunity": {
+      "_id": "6836be3f04fa71edb93fac0b",
+      "link": "/marketingschool",
+      "title": "Marketing School by Nas.com",
+      "_version": 104544
+    },
+    "discountDetailsAppliedBefore": {
+      "rewardType": "FREE_TRIAL",
+      "freeTrialConfig": {
+        "duration": 7,
+        "durationUnit": "DAYS"
+      },
+      "discountCode": "CONTENT30",
+      "discountObjectId": "6a15b4bb1fdd7260348922c0",
+      "appliedAt": "2026-10-26T15:32:18.377Z"
+    },
+    "currentPlan": {
+      "nextBillingDate": "2026-11-02T15:32:24.000Z",
+      "interval": "year",
+      "intervalCount": 1,
+      "currency": "USD",
+      "amount": 0,
+      "originalAmount": 79900,
+      "entityType": "PLATINUM",
+      "billingCycle": 1,
+      "selectedInterval": "year",
+      "selectedIntervalCount": 1,
+      "applyDiscount": true,
+      "discountDetails": {
+        "rewardType": "FREE_TRIAL",
+        "freeTrialConfig": {
+          "duration": 7,
+          "durationUnit": "DAYS"
+        },
+        "discountCode": "CONTENT30",
+        "discountObjectId": "6a15b4bb1fdd7260348922c0",
+        "appliedAt": "2026-10-26T15:32:18.377Z"
+      },
+      "applyFreeTrial": true,
+      "freeTrialDays": 7,
+      "currentCycleApplyDiscount": true,
+      "currentCycleDiscountDetails": {
+        "rewardType": "FREE_TRIAL",
+        "freeTrialConfig": {
+          "duration": 7,
+          "durationUnit": "DAYS"
+        },
+        "discountCode": "CONTENT30",
+        "discountObjectId": "6a15b4bb1fdd7260348922c0",
+        "appliedAt": "2026-10-26T15:32:18.377Z"
+      },
+      "originalPrice": 79900
+    }
+  }
+}
